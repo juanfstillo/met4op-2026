@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/logo.png" alt="Logo MET4OP" width="200"/>
+  <img src="image.jpeg" alt="Logo MET4OP" width="200"/>
 </p>
 
 <h1 align="center">Metodología de Análisis en Opinión Pública</h1>
