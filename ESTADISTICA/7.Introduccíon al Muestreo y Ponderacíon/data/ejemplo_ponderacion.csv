@@ -1,0 +1,1201 @@
+encuesta,estrato,region,sexo,edad,nivel_educativo,cantidad_de_integrantes_en_el_hogar,voto,voto_anterior
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,17,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,44,sec,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,43,prim,6,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,20,sec,1,Bullrich,Macri
+Nacional,Chaco,Región NEA,masculino,77,terc,2,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,45,sec,4,Schiaretti,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,21,sec,1,Bullrich,Macri
+Nacional,Misiones,Región NEA,femenino,21,prim,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,29,sec,2,Bullrich,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,49,prim,6,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,38,prim,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,48,terc,1,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,76,terc,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,terc,5,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,55,pos,2,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,69,sec,1,Bullrich,Macri
+Nacional,Chaco,Región NEA,femenino,41,prim,4,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,36,prim,6,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,59,sec,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,47,univ,2,Milei,Lavagna
+Nacional,Río Negro,Región Patagonia,masculino,63,univ,3,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,masculino,24,prim,4,Schiaretti,Otro/Blanco
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,54,terc,3,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,29,sec,1,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,17,terc,2,Milei,Macri
+Nacional,San Luis,Región Cuyo,femenino,53,sec,5,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,63,sec,6,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,24,sec,6,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,40,sec,2,Otro/Blanco,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,30,sec,1,Massa,Fernández
+Nacional,Misiones,Región NEA,masculino,26,terc,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,terc,3,Schiaretti,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,21,univ,3,Milei,Otro/Blanco
+Nacional,Córdoba,Región Pampeana,femenino,33,sec,2,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,52,sec,4,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,55,sec,1,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,81,sec,2,Bullrich,Macri
+Nacional,Misiones,Región NEA,femenino,24,prim,3,Milei,Macri
+Nacional,La Rioja,Región NOA,masculino,19,sec,2,Milei,Macri
+Nacional,Santiago del Estero,Región NOA,femenino,46,univ,3,Massa,Fernández
+Nacional,Misiones,Región NEA,masculino,75,sec,3,Massa,Fernández
+Nacional,Salta,Región NOA,masculino,27,prim,1,Massa,Fernández
+Nacional,Chaco,Región NEA,femenino,37,sec,3,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,80,prim,2,Massa,Otro/Blanco
+Nacional,Catamarca,Región NOA,femenino,20,sec,5,Bullrich,Macri
+Nacional,San Luis,Región Cuyo,masculino,56,terc,3,Otro/Blanco,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,44,terc,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,66,sec,4,Schiaretti,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,17,sec,2,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,56,sec,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,40,terc,6,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,35,univ,3,Milei,Macri
+Nacional,Salta,Región NOA,masculino,29,sec,1,Bullrich,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,71,univ,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,24,prim,1,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,univ,2,Otro/Blanco,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,46,prim,1,Schiaretti,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,18,sec,4,Massa,Fernández
+Nacional,Entre Ríos,Región Pampeana,femenino,31,prim,1,Bullrich,Macri
+Nacional,Río Negro,Región Patagonia,femenino,68,prim,3,Otro/Blanco,Fernández
+Nacional,San Juan,Región Cuyo,femenino,22,sec,1,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,terc,1,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,sec,5,Otro/Blanco,Otro/Blanco
+Nacional,Chaco,Región NEA,femenino,17,terc,4,Bregman,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,40,prim,4,Otro/Blanco,Macri
+Nacional,La Rioja,Región NOA,femenino,27,univ,3,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,32,sec,4,Bullrich,Macri
+Nacional,Jujuy,Región NOA,masculino,25,sec,5,Otro/Blanco,Lavagna
+Nacional,Santa Fe,Región Pampeana,femenino,72,terc,2,Massa,Macri
+Nacional,Tucumán,Región NOA,masculino,73,prim,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,28,univ,3,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,18,prim,2,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,16,prim,3,Massa,Fernández
+Nacional,Salta,Región NOA,femenino,36,univ,2,Otro/Blanco,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,71,sec,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,68,sec,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,17,univ,1,Milei,Fernández
+Nacional,Tucumán,Región NOA,masculino,28,sec,6,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,32,sec,2,Bregman,Macri
+Nacional,Tucumán,Región NOA,masculino,22,prim,2,Otro/Blanco,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,21,terc,4,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,68,terc,2,Schiaretti,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,44,prim,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,53,univ,6,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,36,prim,4,Massa,Fernández
+Nacional,San Luis,Región Cuyo,masculino,51,sec,6,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,21,terc,5,Massa,Fernández
+Nacional,Misiones,Región NEA,masculino,16,sec,5,Bregman,Macri
+Nacional,Corrientes,Región NEA,femenino,42,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,46,terc,4,Schiaretti,Fernández
+Nacional,Misiones,Región NEA,femenino,20,terc,4,Milei,Fernández
+Nacional,Chaco,Región NEA,femenino,79,univ,3,Bullrich,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,46,prim,2,Milei,Fernández
+Nacional,Santiago del Estero,Región NOA,masculino,28,sec,3,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,femenino,54,sec,3,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,22,univ,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,75,terc,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,16,sec,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,31,sec,4,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,26,prim,6,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,femenino,70,prim,1,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,47,prim,4,Massa,Fernández
+Nacional,Chaco,Región NEA,masculino,55,sec,2,Bullrich,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,48,prim,4,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,64,prim,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,33,sec,2,Bullrich,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,22,sec,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,82,univ,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,50,univ,1,Otro/Blanco,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,59,univ,4,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,40,sec,5,Milei,Macri
+Nacional,Mendoza,Región Cuyo,femenino,52,sec,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,30,prim,2,Bullrich,Macri
+Nacional,Formosa,Región NEA,femenino,47,prim,1,Otro/Blanco,Fernández
+Nacional,Misiones,Región NEA,masculino,69,prim,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,80,prim,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,64,prim,4,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,22,sec,1,Bregman,Macri
+Nacional,La Pampa,Región Pampeana,masculino,67,sec,2,Milei,Macri
+Nacional,Córdoba,Región Pampeana,femenino,19,univ,3,Massa,Fernández
+Nacional,Chaco,Región NEA,masculino,26,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,31,terc,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,68,prim,4,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,33,univ,2,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,29,prim,3,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,19,terc,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,53,terc,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,33,sec,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,57,prim,2,Massa,Otro/Blanco
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,66,terc,3,Bregman,Fernández
+Nacional,Santiago del Estero,Región NOA,masculino,83,univ,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,36,prim,3,Schiaretti,Lavagna
+Nacional,Santa Fe,Región Pampeana,femenino,31,sec,5,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,35,sec,2,Bregman,Otro/Blanco
+Nacional,Corrientes,Región NEA,femenino,48,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,17,prim,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,45,terc,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,71,terc,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,71,univ,5,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,24,sec,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,19,prim,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,terc,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,57,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,46,sec,2,Bullrich,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,17,sec,2,Bullrich,Macri
+Nacional,San Juan,Región Cuyo,masculino,19,prim,1,Bullrich,Fernández
+Nacional,Tucumán,Región NOA,femenino,34,sec,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,22,sec,5,Bullrich,Macri
+Nacional,Santiago del Estero,Región NOA,femenino,59,terc,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,82,sec,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,24,sec,3,Schiaretti,Macri
+Nacional,Entre Ríos,Región Pampeana,femenino,29,sec,6,Bullrich,Macri
+Nacional,Catamarca,Región NOA,femenino,47,sec,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,39,sec,1,Otro/Blanco,Fernández
+Nacional,Santiago del Estero,Región NOA,femenino,20,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,35,prim,2,Massa,Otro/Blanco
+Nacional,Mendoza,Región Cuyo,masculino,19,prim,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,37,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,32,prim,6,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,38,sec,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,prim,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,26,terc,6,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,33,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,28,sec,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,32,univ,5,Milei,Macri
+Nacional,Catamarca,Región NOA,masculino,36,sec,6,Otro/Blanco,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,84,sec,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,47,prim,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,55,prim,5,Schiaretti,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,37,prim,5,Milei,Macri
+Nacional,Corrientes,Región NEA,masculino,48,prim,4,Bullrich,Macri
+Nacional,Formosa,Región NEA,masculino,47,sec,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,36,prim,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,prim,2,Schiaretti,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,57,univ,4,Schiaretti,Fernández
+Nacional,Salta,Región NOA,femenino,16,terc,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,16,univ,4,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,20,sec,2,Massa,Lavagna
+Nacional,Salta,Región NOA,masculino,34,sec,2,Schiaretti,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,21,sec,3,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,28,terc,4,Milei,Macri
+Nacional,Formosa,Región NEA,masculino,43,prim,2,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,18,sec,2,Milei,Macri
+Nacional,Salta,Región NOA,masculino,37,sec,5,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,75,univ,4,Milei,Macri
+Nacional,Corrientes,Región NEA,masculino,77,prim,2,Milei,Macri
+Nacional,Mendoza,Región Cuyo,femenino,26,univ,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,32,pos,3,Massa,Fernández
+Nacional,Catamarca,Región NOA,femenino,34,univ,2,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,36,terc,2,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,19,sec,2,Otro/Blanco,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,23,sec,2,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,22,prim,3,Milei,Lavagna
+Nacional,Mendoza,Región Cuyo,femenino,31,terc,5,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,49,sec,4,Bullrich,Macri
+Nacional,Salta,Región NOA,femenino,20,prim,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,38,univ,1,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,25,prim,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,34,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,54,terc,6,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,71,sec,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,22,univ,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,21,prim,2,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,25,sec,5,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,35,univ,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,46,sec,6,Schiaretti,Fernández
+Nacional,Salta,Región NOA,masculino,55,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,28,terc,2,Bullrich,Fernández
+Nacional,San Juan,Región Cuyo,femenino,55,terc,2,Milei,Macri
+Nacional,Formosa,Región NEA,femenino,58,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,23,sec,2,Bullrich,Macri
+Nacional,Chubut,Región Patagonia,femenino,39,sec,2,Schiaretti,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,59,sec,5,Massa,Fernández
+Nacional,Río Negro,Región Patagonia,femenino,84,sec,2,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,18,sec,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,28,prim,3,Milei,Macri
+Nacional,Formosa,Región NEA,masculino,26,sec,1,Massa,Fernández
+Nacional,Jujuy,Región NOA,masculino,28,univ,3,Milei,Macri
+Nacional,La Pampa,Región Pampeana,femenino,19,sec,3,Bregman,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,31,prim,3,Milei,Macri
+Nacional,Catamarca,Región NOA,femenino,46,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,20,prim,4,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,16,terc,5,Bregman,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,49,prim,1,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,44,sec,2,Bullrich,Otro/Blanco
+Nacional,Misiones,Región NEA,masculino,65,prim,4,Massa,Macri
+Nacional,Córdoba,Región Pampeana,femenino,76,terc,3,Milei,Macri
+Nacional,Córdoba,Región Pampeana,masculino,38,sec,5,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,26,sec,2,Milei,Lavagna
+Nacional,Chaco,Región NEA,masculino,29,prim,1,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,28,univ,3,Bullrich,Macri
+Nacional,Río Negro,Región Patagonia,masculino,82,prim,1,Milei,Macri
+Nacional,Tucumán,Región NOA,femenino,54,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,62,pos,2,Bullrich,Macri
+Nacional,Entre Ríos,Región Pampeana,masculino,42,univ,2,Milei,Fernández
+Nacional,San Juan,Región Cuyo,masculino,27,univ,3,Otro/Blanco,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,36,sec,1,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,masculino,24,sec,3,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,20,prim,5,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,57,prim,2,Massa,Fernández
+Nacional,Entre Ríos,Región Pampeana,femenino,50,sec,3,Bullrich,Macri
+Nacional,Salta,Región NOA,masculino,49,prim,2,Otro/Blanco,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,18,sec,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,23,sec,4,Schiaretti,Lavagna
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,55,sec,4,Milei,Otro/Blanco
+Nacional,Santiago del Estero,Región NOA,masculino,46,sec,3,Bullrich,Macri
+Nacional,Santiago del Estero,Región NOA,femenino,19,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,sec,2,Milei,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,38,sec,5,Massa,Otro/Blanco
+Nacional,Río Negro,Región Patagonia,femenino,35,sec,2,Bullrich,Macri
+Nacional,Mendoza,Región Cuyo,femenino,22,sec,3,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,60,sec,1,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,18,terc,4,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,45,prim,2,Otro/Blanco,Otro/Blanco
+Nacional,Misiones,Región NEA,femenino,17,sec,3,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,49,prim,4,Schiaretti,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,25,univ,4,Milei,Macri
+Nacional,Río Negro,Región Patagonia,femenino,48,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,33,prim,6,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,20,sec,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,24,prim,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,18,pos,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,62,univ,2,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,72,univ,3,Massa,Fernández
+Nacional,Neuquén,Región Patagonia,masculino,18,sec,3,Milei,Macri
+Nacional,Córdoba,Región Pampeana,masculino,59,univ,2,Milei,Macri
+Nacional,San Luis,Región Cuyo,masculino,26,sec,3,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,17,sec,4,Otro/Blanco,Otro/Blanco
+Nacional,Corrientes,Región NEA,masculino,23,sec,4,Otro/Blanco,Fernández
+Nacional,Tucumán,Región NOA,masculino,27,sec,3,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,65,terc,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,20,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,59,sec,6,Bregman,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,51,univ,2,Milei,Macri
+Nacional,Córdoba,Región Pampeana,femenino,16,pos,2,Otro/Blanco,Fernández
+Nacional,Mendoza,Región Cuyo,masculino,21,sec,4,Milei,Otro/Blanco
+Nacional,Corrientes,Región NEA,masculino,60,univ,1,Bullrich,Macri
+Nacional,Santiago del Estero,Región NOA,masculino,40,prim,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,41,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,23,prim,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,38,prim,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,69,prim,4,Bullrich,Macri
+Nacional,San Juan,Región Cuyo,femenino,18,prim,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,24,terc,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,54,terc,2,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,19,prim,3,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,74,sec,5,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,37,univ,2,Bullrich,Macri
+Nacional,Misiones,Región NEA,masculino,33,pos,4,Milei,Macri
+Nacional,Tierra del Fuego,Región Patagonia,femenino,25,sec,4,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,29,sec,1,Bullrich,Macri
+Nacional,Misiones,Región NEA,femenino,48,sec,4,Massa,Macri
+Nacional,Neuquén,Región Patagonia,femenino,28,sec,3,Otro/Blanco,Macri
+Nacional,Misiones,Región NEA,masculino,16,sec,2,Massa,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,49,prim,2,Schiaretti,Macri
+Nacional,Catamarca,Región NOA,femenino,18,sec,5,Otro/Blanco,Macri
+Nacional,Neuquén,Región Patagonia,femenino,20,sec,2,Bregman,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,83,sec,4,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,53,pos,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,36,sec,3,Otro/Blanco,Fernández
+Nacional,San Juan,Región Cuyo,femenino,42,univ,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,16,sec,6,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,51,prim,2,Massa,Fernández
+Nacional,Misiones,Región NEA,masculino,32,prim,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,22,sec,1,Bullrich,Macri
+Nacional,Tucumán,Región NOA,masculino,17,terc,4,Bullrich,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,17,univ,6,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,masculino,21,prim,4,Massa,Fernández
+Nacional,Formosa,Región NEA,femenino,38,univ,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,23,prim,3,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,18,sec,4,Massa,Fernández
+Nacional,Salta,Región NOA,femenino,49,prim,3,Otro/Blanco,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,64,univ,4,Otro/Blanco,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,18,sec,5,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,74,sec,4,Schiaretti,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,sec,4,Bullrich,Macri
+Nacional,Salta,Región NOA,masculino,23,sec,5,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,39,sec,1,Schiaretti,Macri
+Nacional,Córdoba,Región Pampeana,masculino,23,terc,4,Bullrich,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,72,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,55,sec,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,41,prim,1,Otro/Blanco,Macri
+Nacional,Corrientes,Región NEA,masculino,34,univ,5,Milei,Macri
+Nacional,Mendoza,Región Cuyo,masculino,16,terc,2,Bullrich,Lavagna
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,42,sec,1,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,22,sec,6,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,51,prim,6,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,41,sec,2,Massa,Fernández
+Nacional,Misiones,Región NEA,femenino,39,sec,1,Milei,Fernández
+Nacional,Entre Ríos,Región Pampeana,femenino,43,prim,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,52,prim,4,Otro/Blanco,Fernández
+Nacional,Jujuy,Región NOA,femenino,25,prim,2,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,17,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,48,prim,2,Massa,Fernández
+Nacional,Salta,Región NOA,masculino,33,prim,2,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,34,sec,4,Otro/Blanco,Fernández
+Nacional,Entre Ríos,Región Pampeana,masculino,30,sec,3,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,68,prim,5,Massa,Fernández
+Nacional,Tucumán,Región NOA,femenino,30,sec,6,Bullrich,Macri
+Nacional,Misiones,Región NEA,femenino,26,terc,2,Massa,Fernández
+Nacional,Catamarca,Región NOA,femenino,39,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,19,sec,2,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,17,prim,3,Bullrich,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,40,prim,6,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,24,sec,2,Massa,Fernández
+Nacional,San Juan,Región Cuyo,femenino,50,sec,3,Massa,Fernández
+Nacional,San Juan,Región Cuyo,masculino,29,sec,3,Milei,Macri
+Nacional,Córdoba,Región Pampeana,femenino,32,univ,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,79,sec,5,Massa,Fernández
+Nacional,Salta,Región NOA,masculino,32,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,19,sec,4,Milei,Macri
+Nacional,Salta,Región NOA,masculino,23,sec,2,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,36,sec,1,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,64,univ,4,Bullrich,Fernández
+Nacional,Corrientes,Región NEA,femenino,42,terc,6,Bullrich,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,51,sec,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,49,sec,6,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,48,sec,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,23,prim,5,Milei,Lavagna
+Nacional,Santa Fe,Región Pampeana,masculino,29,univ,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,41,sec,4,Bullrich,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,49,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,41,sec,3,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,femenino,17,prim,5,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,52,sec,2,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,69,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,44,univ,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,43,sec,4,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,34,sec,2,Bregman,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,sec,2,Otro/Blanco,Fernández
+Nacional,Tucumán,Región NOA,masculino,26,univ,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,59,sec,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,36,terc,5,Schiaretti,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,43,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,56,univ,5,Schiaretti,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,20,sec,1,Massa,Fernández
+Nacional,Entre Ríos,Región Pampeana,femenino,31,sec,3,Otro/Blanco,Macri
+Nacional,Mendoza,Región Cuyo,femenino,40,sec,1,Massa,Fernández
+Nacional,Santa Cruz,Región Patagonia,masculino,27,sec,2,Milei,Lavagna
+Nacional,Córdoba,Región Pampeana,femenino,23,univ,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,82,prim,3,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,19,prim,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,68,prim,3,Otro/Blanco,Otro/Blanco
+Nacional,Tucumán,Región NOA,femenino,45,univ,2,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,73,prim,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,62,prim,2,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,44,sec,3,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,21,sec,1,Milei,Macri
+Nacional,Tierra del Fuego,Región Patagonia,masculino,18,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,52,sec,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,21,sec,2,Schiaretti,Otro/Blanco
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,41,sec,5,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,68,prim,3,Massa,Fernández
+Nacional,Chaco,Región NEA,femenino,73,prim,3,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,22,sec,4,Bregman,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,56,sec,2,Milei,Fernández
+Nacional,Jujuy,Región NOA,femenino,39,univ,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,83,prim,3,Massa,Fernández
+Nacional,San Juan,Región Cuyo,femenino,27,sec,1,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,33,prim,3,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,77,terc,1,Milei,Fernández
+Nacional,Entre Ríos,Región Pampeana,masculino,58,terc,3,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,24,sec,6,Otro/Blanco,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,85,sec,6,Massa,Fernández
+Nacional,Santiago del Estero,Región NOA,masculino,21,sec,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,75,univ,3,Bullrich,Macri
+Nacional,Neuquén,Región Patagonia,masculino,29,sec,6,Otro/Blanco,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,17,prim,2,Massa,Fernández
+Nacional,Corrientes,Región NEA,masculino,75,sec,3,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,34,sec,5,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,17,terc,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,23,prim,4,Milei,Fernández
+Nacional,Misiones,Región NEA,masculino,22,sec,2,Schiaretti,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,17,sec,2,Massa,Otro/Blanco
+Nacional,Santa Fe,Región Pampeana,masculino,27,sec,1,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,masculino,25,pos,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,64,prim,3,Massa,Fernández
+Nacional,Chaco,Región NEA,masculino,22,sec,4,Milei,Macri
+Nacional,Jujuy,Región NOA,masculino,20,sec,2,Milei,Macri
+Nacional,Santiago del Estero,Región NOA,femenino,46,univ,5,Otro/Blanco,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,50,prim,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,sec,5,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,56,terc,1,Bullrich,Macri
+Nacional,La Pampa,Región Pampeana,femenino,20,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,51,sec,3,Massa,Fernández
+Nacional,Corrientes,Región NEA,femenino,54,prim,2,Milei,Fernández
+Nacional,San Juan,Región Cuyo,masculino,80,prim,2,Otro/Blanco,Fernández
+Nacional,Salta,Región NOA,femenino,49,terc,2,Milei,Fernández
+Nacional,Misiones,Región NEA,femenino,31,terc,1,Massa,Fernández
+Nacional,Corrientes,Región NEA,masculino,52,sec,2,Massa,Fernández
+Nacional,Chubut,Región Patagonia,femenino,25,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,22,sec,1,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,17,terc,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,18,prim,4,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,22,univ,5,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,28,sec,2,Massa,Fernández
+Nacional,Santa Cruz,Región Patagonia,masculino,79,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,50,sec,4,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,44,terc,1,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,68,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,41,sec,4,Schiaretti,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,36,prim,3,Bullrich,Macri
+Nacional,Neuquén,Región Patagonia,masculino,24,terc,6,Bullrich,Macri
+Nacional,Mendoza,Región Cuyo,femenino,29,univ,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,63,terc,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,40,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,45,sec,2,Milei,Fernández
+Nacional,Misiones,Región NEA,femenino,20,terc,4,Milei,Otro/Blanco
+Nacional,Córdoba,Región Pampeana,masculino,39,univ,2,Milei,Fernández
+Nacional,Misiones,Región NEA,masculino,56,sec,5,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,femenino,28,sec,1,Milei,Fernández
+Nacional,Mendoza,Región Cuyo,femenino,20,pos,4,Milei,Macri
+Nacional,Chubut,Región Patagonia,masculino,26,univ,1,Milei,Fernández
+Nacional,San Luis,Región Cuyo,femenino,32,prim,5,Bullrich,Macri
+Nacional,Misiones,Región NEA,masculino,18,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,44,prim,4,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,33,prim,1,Milei,Macri
+Nacional,Mendoza,Región Cuyo,femenino,30,terc,1,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,24,univ,3,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,54,sec,3,Schiaretti,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,20,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,24,terc,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,24,pos,1,Schiaretti,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,24,sec,5,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,38,terc,4,Bregman,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,47,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,univ,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,21,pos,5,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,19,prim,2,Otro/Blanco,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,31,terc,2,Bregman,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,81,sec,6,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,21,sec,2,Bullrich,Lavagna
+Nacional,Santa Cruz,Región Patagonia,masculino,22,sec,5,Bullrich,Otro/Blanco
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,48,sec,4,Milei,Fernández
+Nacional,San Luis,Región Cuyo,femenino,22,prim,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,21,univ,6,Massa,Otro/Blanco
+Nacional,Córdoba,Región Pampeana,masculino,79,terc,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,35,terc,4,Milei,Macri
+Nacional,Formosa,Región NEA,femenino,43,prim,2,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,31,terc,4,Schiaretti,Lavagna
+Nacional,Santa Fe,Región Pampeana,femenino,25,univ,1,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,50,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,16,prim,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,32,prim,1,Milei,Macri
+Nacional,Santa Cruz,Región Patagonia,masculino,22,sec,3,Massa,Fernández
+Nacional,Entre Ríos,Región Pampeana,masculino,85,terc,6,Massa,Fernández
+Nacional,Tucumán,Región NOA,femenino,16,sec,6,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,terc,3,Milei,Fernández
+Nacional,Entre Ríos,Región Pampeana,femenino,44,sec,4,Otro/Blanco,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,78,sec,5,Schiaretti,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,81,sec,6,Bregman,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,51,sec,3,Milei,Macri
+Nacional,Chaco,Región NEA,masculino,43,prim,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,53,univ,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,69,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,40,univ,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,22,univ,1,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,29,sec,3,Schiaretti,Macri
+Nacional,Santa Cruz,Región Patagonia,femenino,18,sec,5,Milei,Fernández
+Nacional,Chaco,Región NEA,femenino,40,prim,2,Bullrich,Macri
+Nacional,Mendoza,Región Cuyo,femenino,23,prim,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,21,sec,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,51,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,23,pos,2,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,16,prim,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,44,terc,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,30,sec,2,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,25,prim,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,21,prim,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,23,prim,2,Milei,Macri
+Nacional,San Juan,Región Cuyo,femenino,60,sec,2,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,53,prim,2,Milei,Macri
+Nacional,Salta,Región NOA,masculino,25,sec,2,Massa,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,66,sec,3,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,femenino,37,univ,4,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,20,sec,1,Bullrich,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,27,sec,1,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,22,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,70,prim,4,Bullrich,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,34,pos,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,68,sec,3,Massa,Fernández
+Nacional,San Luis,Región Cuyo,femenino,32,univ,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,82,sec,3,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,50,sec,2,Bullrich,Otro/Blanco
+Nacional,Río Negro,Región Patagonia,masculino,17,prim,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,64,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,23,sec,1,Otro/Blanco,Fernández
+Nacional,Salta,Región NOA,femenino,28,sec,4,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,38,sec,2,Milei,Macri
+Nacional,Santa Cruz,Región Patagonia,femenino,37,sec,4,Milei,Macri
+Nacional,Córdoba,Región Pampeana,masculino,28,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,univ,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,79,prim,3,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,24,sec,1,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,25,univ,4,Otro/Blanco,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,26,prim,3,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,48,sec,4,Otro/Blanco,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,60,sec,4,Schiaretti,Fernández
+Nacional,Salta,Región NOA,masculino,59,univ,2,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,74,prim,3,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,43,prim,1,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,50,sec,4,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,24,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,58,univ,6,Massa,Fernández
+Nacional,Misiones,Región NEA,masculino,40,prim,1,Milei,Macri
+Nacional,Córdoba,Región Pampeana,masculino,39,sec,1,Massa,Fernández
+Nacional,Corrientes,Región NEA,femenino,23,terc,2,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,59,sec,5,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,60,prim,2,Milei,Macri
+Nacional,Misiones,Región NEA,masculino,61,sec,5,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,56,univ,3,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,42,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,29,prim,2,Milei,Macri
+Nacional,San Juan,Región Cuyo,femenino,46,terc,5,Milei,Macri
+Nacional,Tucumán,Región NOA,femenino,34,terc,1,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,18,prim,4,Milei,Otro/Blanco
+Nacional,Santa Fe,Región Pampeana,femenino,30,prim,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,50,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,31,sec,2,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,46,univ,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,42,prim,3,Bregman,Fernández
+Nacional,Entre Ríos,Región Pampeana,masculino,24,sec,3,Massa,Fernández
+Nacional,La Pampa,Región Pampeana,masculino,31,prim,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,42,sec,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,16,prim,5,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,41,univ,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,36,sec,2,Milei,Fernández
+Nacional,Misiones,Región NEA,masculino,51,prim,3,Bullrich,Lavagna
+Nacional,Córdoba,Región Pampeana,femenino,21,terc,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,49,terc,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,31,prim,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,38,univ,6,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,83,univ,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,56,sec,3,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,51,sec,1,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,27,sec,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,65,sec,3,Schiaretti,Fernández
+Nacional,La Rioja,Región NOA,masculino,49,prim,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,69,terc,3,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,22,terc,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,25,univ,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,52,prim,3,Milei,Macri
+Nacional,Río Negro,Región Patagonia,masculino,32,prim,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,20,sec,2,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,62,prim,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,45,prim,5,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,21,univ,3,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,23,prim,1,Milei,Macri
+Nacional,Corrientes,Región NEA,femenino,18,sec,3,Massa,Macri
+Nacional,Entre Ríos,Región Pampeana,masculino,38,prim,6,Milei,Macri
+Nacional,San Juan,Región Cuyo,femenino,53,terc,2,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,17,prim,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,76,terc,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,29,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,42,terc,3,Bullrich,Macri
+Nacional,Misiones,Región NEA,femenino,40,sec,5,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,48,terc,5,Milei,Macri
+Nacional,Córdoba,Región Pampeana,femenino,25,univ,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,univ,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,20,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,32,terc,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,84,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,56,sec,3,Massa,Fernández
+Nacional,Neuquén,Región Patagonia,femenino,49,sec,3,Massa,Fernández
+Nacional,Neuquén,Región Patagonia,femenino,19,prim,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,21,sec,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,sec,5,Bullrich,Macri
+Nacional,Río Negro,Región Patagonia,femenino,16,sec,1,Otro/Blanco,Macri
+Nacional,Formosa,Región NEA,femenino,23,univ,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,sec,4,Milei,Macri
+Nacional,Corrientes,Región NEA,masculino,27,sec,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,26,prim,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,37,univ,6,Schiaretti,Fernández
+Nacional,San Luis,Región Cuyo,femenino,19,pos,2,Massa,Otro/Blanco
+Nacional,Santa Fe,Región Pampeana,femenino,23,terc,4,Milei,Fernández
+Nacional,Chubut,Región Patagonia,femenino,24,sec,6,Otro/Blanco,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,75,sec,2,Massa,Fernández
+Nacional,Salta,Región NOA,masculino,25,sec,3,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,44,sec,2,Otro/Blanco,Otro/Blanco
+Nacional,Entre Ríos,Región Pampeana,femenino,18,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,19,sec,2,Schiaretti,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,42,prim,5,Otro/Blanco,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,34,sec,3,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,79,sec,1,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,59,sec,4,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,72,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,52,sec,1,Bregman,Otro/Blanco
+Nacional,Santa Fe,Región Pampeana,masculino,40,prim,1,Bullrich,Macri
+Nacional,Entre Ríos,Región Pampeana,femenino,72,prim,3,Massa,Otro/Blanco
+Nacional,Neuquén,Región Patagonia,femenino,37,sec,3,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,43,sec,2,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,37,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,46,terc,2,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,47,prim,3,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,39,sec,1,Bullrich,Macri
+Nacional,Misiones,Región NEA,femenino,33,terc,1,Bullrich,Macri
+Nacional,Mendoza,Región Cuyo,femenino,75,sec,3,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,29,sec,2,Bullrich,Macri
+Nacional,Chaco,Región NEA,masculino,66,terc,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,30,sec,3,Bregman,Macri
+Nacional,San Luis,Región Cuyo,masculino,26,prim,3,Bullrich,Macri
+Nacional,Salta,Región NOA,masculino,19,sec,2,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,54,sec,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,64,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,84,sec,2,Milei,Fernández
+Nacional,Neuquén,Región Patagonia,femenino,48,prim,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,53,sec,4,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,16,sec,6,Massa,Fernández
+Nacional,Chaco,Región NEA,femenino,37,sec,2,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,27,prim,6,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,31,prim,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,40,terc,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,21,terc,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,41,prim,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,49,prim,3,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,18,sec,1,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,47,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,56,sec,2,Bregman,Fernández
+Nacional,Jujuy,Región NOA,femenino,26,terc,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,41,univ,3,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,masculino,49,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,61,sec,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,51,prim,4,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,23,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,sec,4,Milei,Lavagna
+Nacional,Santa Fe,Región Pampeana,masculino,19,univ,1,Bullrich,Lavagna
+Nacional,Entre Ríos,Región Pampeana,masculino,26,prim,2,Milei,Macri
+Nacional,Entre Ríos,Región Pampeana,masculino,27,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,50,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,20,terc,5,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,77,univ,2,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,35,sec,5,Milei,Macri
+Nacional,Chubut,Región Patagonia,masculino,69,sec,4,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,52,sec,3,Bullrich,Lavagna
+Nacional,La Rioja,Región NOA,femenino,26,prim,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,55,sec,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,69,prim,5,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,37,sec,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,28,univ,2,Milei,Fernández
+Nacional,Mendoza,Región Cuyo,masculino,28,prim,2,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,29,sec,4,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,39,prim,4,Milei,Macri
+Nacional,Santiago del Estero,Región NOA,femenino,47,terc,2,Otro/Blanco,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,25,prim,1,Milei,Otro/Blanco
+Nacional,Entre Ríos,Región Pampeana,femenino,62,prim,6,Schiaretti,Macri
+Nacional,Neuquén,Región Patagonia,femenino,42,prim,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,45,univ,2,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,35,sec,2,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,20,sec,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,54,univ,2,Schiaretti,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,21,prim,2,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,25,sec,6,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,53,prim,1,Schiaretti,Lavagna
+Nacional,Mendoza,Región Cuyo,femenino,57,sec,3,Schiaretti,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,26,pos,4,Schiaretti,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,66,sec,2,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,femenino,54,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,59,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,52,terc,3,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,sec,1,Schiaretti,Fernández
+Nacional,Chubut,Región Patagonia,femenino,22,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,73,pos,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,63,prim,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,79,prim,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,prim,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,terc,2,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,32,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,51,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,24,sec,6,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,26,sec,3,Massa,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,29,sec,5,Otro/Blanco,Otro/Blanco
+Nacional,Neuquén,Región Patagonia,femenino,83,univ,2,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,23,terc,3,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,25,sec,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,28,prim,2,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,23,sec,2,Bullrich,Macri
+Nacional,Corrientes,Región NEA,masculino,23,sec,1,Bullrich,Macri
+Nacional,Mendoza,Región Cuyo,femenino,59,sec,4,Bullrich,Macri
+Nacional,Mendoza,Región Cuyo,masculino,22,prim,4,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,21,terc,2,Massa,Fernández
+Nacional,Santiago del Estero,Región NOA,femenino,57,sec,4,Bullrich,Macri
+Nacional,Tucumán,Región NOA,masculino,40,sec,4,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,46,terc,2,Otro/Blanco,Otro/Blanco
+Nacional,Santa Fe,Región Pampeana,masculino,32,terc,3,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,83,sec,4,Massa,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,58,terc,6,Schiaretti,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,42,prim,4,Bullrich,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,51,univ,4,Massa,Lavagna
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,56,sec,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,prim,2,Milei,Macri
+Nacional,La Rioja,Región NOA,femenino,69,sec,2,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,64,sec,4,Bullrich,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,64,sec,3,Bullrich,Macri
+Nacional,Mendoza,Región Cuyo,femenino,26,prim,2,Milei,Fernández
+Nacional,Mendoza,Región Cuyo,masculino,30,terc,4,Milei,Macri
+Nacional,Entre Ríos,Región Pampeana,femenino,23,prim,2,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,33,prim,1,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,47,univ,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,38,terc,1,Milei,Macri
+Nacional,San Juan,Región Cuyo,femenino,23,prim,1,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,34,prim,4,Milei,Macri
+Nacional,Misiones,Región NEA,masculino,25,sec,3,Massa,Lavagna
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,36,sec,3,Otro/Blanco,Fernández
+Nacional,Chaco,Región NEA,masculino,84,prim,1,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,sec,3,Bullrich,Fernández
+Nacional,Misiones,Región NEA,masculino,22,sec,1,Schiaretti,Fernández
+Nacional,Tierra del Fuego,Región Patagonia,femenino,19,sec,2,Milei,Lavagna
+Nacional,Chubut,Región Patagonia,masculino,79,prim,3,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,37,univ,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,74,sec,2,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,42,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,43,prim,2,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,masculino,50,prim,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,46,prim,4,Massa,Fernández
+Nacional,Misiones,Región NEA,masculino,21,sec,2,Bregman,Otro/Blanco
+Nacional,Tucumán,Región NOA,femenino,31,univ,4,Massa,Fernández
+Nacional,Chaco,Región NEA,masculino,16,univ,5,Schiaretti,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,51,prim,2,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,44,sec,3,Milei,Fernández
+Nacional,Santiago del Estero,Región NOA,femenino,59,terc,3,Milei,Macri
+Nacional,Chubut,Región Patagonia,masculino,43,prim,3,Schiaretti,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,42,terc,1,Milei,Lavagna
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,51,univ,2,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,sec,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,sec,1,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,75,sec,2,Milei,Lavagna
+Nacional,Chaco,Región NEA,femenino,46,sec,3,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,79,prim,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,80,prim,5,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,52,terc,4,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,25,prim,4,Milei,Macri
+Nacional,Salta,Región NOA,masculino,23,terc,4,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,20,pos,4,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,31,sec,3,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,femenino,42,sec,2,Otro/Blanco,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,61,prim,4,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,46,sec,3,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,45,prim,2,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,33,prim,1,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,28,univ,4,Otro/Blanco,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,43,prim,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,16,univ,2,Milei,Fernández
+Nacional,Mendoza,Región Cuyo,masculino,30,terc,6,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,27,univ,4,Otro/Blanco,Fernández
+Nacional,Corrientes,Región NEA,femenino,42,sec,1,Milei,Macri
+Nacional,Tucumán,Región NOA,masculino,18,sec,4,Milei,Macri
+Nacional,La Rioja,Región NOA,masculino,45,univ,3,Milei,Macri
+Nacional,Chubut,Región Patagonia,femenino,31,sec,3,Schiaretti,Lavagna
+Nacional,Mendoza,Región Cuyo,masculino,53,prim,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,34,prim,4,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,65,sec,3,Massa,Lavagna
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,55,univ,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,28,sec,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,41,sec,1,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,58,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,33,terc,2,Milei,Macri
+Nacional,Santiago del Estero,Región NOA,femenino,41,terc,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,67,univ,3,Bullrich,Macri
+Nacional,Neuquén,Región Patagonia,femenino,37,sec,4,Otro/Blanco,Fernández
+Nacional,Salta,Región NOA,masculino,55,prim,2,Otro/Blanco,Otro/Blanco
+Nacional,Santa Fe,Región Pampeana,femenino,67,sec,2,Schiaretti,Fernández
+Nacional,Río Negro,Región Patagonia,masculino,48,terc,1,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,31,univ,2,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,37,prim,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,68,pos,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,25,sec,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,25,prim,1,Otro/Blanco,Lavagna
+Nacional,Salta,Región NOA,femenino,43,terc,1,Milei,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,73,univ,5,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,25,sec,2,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,29,sec,3,Bullrich,Macri
+Nacional,Salta,Región NOA,femenino,23,sec,2,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,25,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,sec,4,Massa,Fernández
+Nacional,Santa Cruz,Región Patagonia,femenino,36,univ,3,Massa,Fernández
+Nacional,San Juan,Región Cuyo,femenino,18,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,42,terc,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,18,terc,3,Bullrich,Macri
+Nacional,Chaco,Región NEA,femenino,16,prim,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,33,prim,1,Otro/Blanco,Lavagna
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,32,terc,3,Schiaretti,Fernández
+Nacional,Salta,Región NOA,masculino,46,prim,3,Bullrich,Macri
+Nacional,Jujuy,Región NOA,masculino,49,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,65,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,40,terc,2,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,26,prim,5,Bregman,Macri
+Nacional,Córdoba,Región Pampeana,masculino,79,sec,1,Milei,Fernández
+Nacional,Corrientes,Región NEA,masculino,59,terc,1,Milei,Lavagna
+Nacional,Corrientes,Región NEA,masculino,22,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,57,sec,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,24,univ,5,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,27,sec,4,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,femenino,31,prim,2,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,33,sec,6,Massa,Fernández
+Nacional,Chaco,Región NEA,femenino,19,univ,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,41,prim,3,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,54,prim,5,Milei,Macri
+Nacional,Mendoza,Región Cuyo,femenino,41,sec,4,Milei,Fernández
+Nacional,Chaco,Región NEA,femenino,51,prim,1,Milei,Fernández
+Nacional,Tucumán,Región NOA,femenino,17,terc,4,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,23,univ,3,Bregman,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,30,prim,2,Massa,Fernández
+Nacional,Chaco,Región NEA,femenino,51,sec,2,Massa,Otro/Blanco
+Nacional,Mendoza,Región Cuyo,masculino,29,sec,2,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,19,univ,6,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,20,univ,1,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,82,prim,2,Bullrich,Otro/Blanco
+Nacional,Misiones,Región NEA,femenino,22,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,31,univ,2,Schiaretti,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,37,univ,3,Bregman,Fernández
+Nacional,Corrientes,Región NEA,masculino,20,terc,1,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,40,univ,6,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,27,sec,2,Massa,Fernández
+Nacional,Salta,Región NOA,masculino,27,univ,2,Bullrich,Macri
+Nacional,Entre Ríos,Región Pampeana,femenino,57,sec,3,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,84,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,39,sec,2,Otro/Blanco,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,71,pos,4,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,48,sec,4,Bullrich,Macri
+Nacional,La Pampa,Región Pampeana,femenino,21,univ,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,28,prim,5,Bregman,Otro/Blanco
+Nacional,Córdoba,Región Pampeana,femenino,40,prim,2,Milei,Fernández
+Nacional,Chaco,Región NEA,masculino,53,sec,6,Massa,Fernández
+Nacional,Tucumán,Región NOA,femenino,46,terc,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,19,sec,1,Otro/Blanco,Otro/Blanco
+Nacional,Mendoza,Región Cuyo,masculino,26,univ,2,Milei,Macri
+Nacional,Río Negro,Región Patagonia,femenino,67,univ,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,28,sec,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,59,sec,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,terc,3,Massa,Fernández
+Nacional,Entre Ríos,Región Pampeana,masculino,44,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,57,prim,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,sec,3,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,51,sec,3,Milei,Fernández
+Nacional,Salta,Región NOA,femenino,35,sec,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,21,sec,6,Massa,Fernández
+Nacional,Entre Ríos,Región Pampeana,masculino,24,terc,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,22,sec,1,Bullrich,Fernández
+Nacional,Mendoza,Región Cuyo,masculino,38,prim,1,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,72,terc,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,39,sec,4,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,masculino,22,sec,6,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,37,sec,6,Milei,Macri
+Nacional,Chubut,Región Patagonia,femenino,41,sec,2,Bullrich,Macri
+Nacional,Corrientes,Región NEA,masculino,36,sec,1,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,50,pos,2,Bullrich,Macri
+Nacional,Salta,Región NOA,femenino,60,prim,4,Otro/Blanco,Otro/Blanco
+Nacional,Jujuy,Región NOA,masculino,25,sec,1,Bregman,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,49,prim,4,Milei,Macri
+Nacional,Tucumán,Región NOA,femenino,28,terc,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,32,univ,4,Otro/Blanco,Fernández
+Nacional,Río Negro,Región Patagonia,masculino,20,univ,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,40,prim,4,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,22,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,84,terc,2,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,22,prim,4,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,42,prim,3,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,41,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,35,sec,3,Massa,Fernández
+Nacional,Chaco,Región NEA,masculino,24,prim,5,Milei,Macri
+Nacional,Santa Cruz,Región Patagonia,masculino,68,sec,5,Otro/Blanco,Fernández
+Nacional,Corrientes,Región NEA,femenino,16,sec,3,Milei,Lavagna
+Nacional,Misiones,Región NEA,femenino,39,prim,4,Otro/Blanco,Otro/Blanco
+Nacional,Mendoza,Región Cuyo,femenino,30,sec,5,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,29,prim,2,Bullrich,Fernández
+Nacional,Chaco,Región NEA,femenino,50,sec,3,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,46,prim,2,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,37,sec,2,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,70,prim,2,Milei,Fernández
+Nacional,Formosa,Región NEA,masculino,58,prim,1,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,sec,4,Milei,Otro/Blanco
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,38,prim,2,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,44,sec,2,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,femenino,36,sec,5,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,52,prim,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,42,terc,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,34,pos,1,Bregman,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,30,sec,2,Massa,Fernández
+Nacional,La Rioja,Región NOA,femenino,32,prim,4,Schiaretti,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,37,sec,4,Bullrich,Macri
+Nacional,Jujuy,Región NOA,femenino,28,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,84,prim,1,Massa,Fernández
+Nacional,Salta,Región NOA,femenino,24,prim,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,16,prim,4,Massa,Fernández
+Nacional,Tucumán,Región NOA,femenino,32,prim,2,Milei,Macri
+Nacional,Salta,Región NOA,femenino,59,sec,2,Massa,Fernández
+Nacional,Entre Ríos,Región Pampeana,femenino,19,sec,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,56,sec,2,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,85,prim,4,Milei,Macri
+Nacional,Salta,Región NOA,masculino,20,terc,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,41,sec,2,Massa,Lavagna
+Nacional,Santiago del Estero,Región NOA,femenino,21,sec,3,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,27,prim,5,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,femenino,24,univ,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,26,terc,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,80,sec,4,Milei,Macri
+Nacional,Salta,Región NOA,femenino,17,univ,5,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,42,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,53,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,54,sec,3,Massa,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,41,sec,4,Massa,Fernández
+Nacional,Entre Ríos,Región Pampeana,masculino,43,prim,1,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,terc,4,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,57,prim,3,Bregman,Macri
+Nacional,Mendoza,Región Cuyo,masculino,22,prim,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,39,sec,3,Milei,Macri
+Nacional,Tucumán,Región NOA,femenino,59,sec,3,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,16,sec,5,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,59,sec,1,Massa,Fernández
+Nacional,Corrientes,Región NEA,masculino,61,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,30,prim,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,63,sec,2,Massa,Fernández
+Nacional,Salta,Región NOA,femenino,19,sec,1,Bullrich,Macri
+Nacional,San Juan,Región Cuyo,masculino,19,sec,4,Bullrich,Macri
+Nacional,Neuquén,Región Patagonia,femenino,35,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,terc,3,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,20,prim,6,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,55,sec,4,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,27,sec,3,Milei,Fernández
+Nacional,Mendoza,Región Cuyo,femenino,19,sec,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,prim,5,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,28,univ,2,Otro/Blanco,Fernández
+Nacional,Chaco,Región NEA,masculino,57,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,68,sec,5,Massa,Fernández
+Nacional,Santiago del Estero,Región NOA,masculino,56,prim,6,Milei,Macri
+Nacional,Mendoza,Región Cuyo,masculino,43,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,56,prim,2,Milei,Fernández
+Nacional,Corrientes,Región NEA,femenino,67,univ,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,61,prim,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,83,univ,4,Massa,Macri
+Nacional,Mendoza,Región Cuyo,femenino,31,terc,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,63,univ,3,Milei,Otro/Blanco
+Nacional,Misiones,Región NEA,femenino,41,sec,5,Milei,Macri
+Nacional,San Juan,Región Cuyo,femenino,56,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,31,prim,2,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,50,sec,1,Massa,Fernández
+Nacional,Salta,Región NOA,femenino,18,terc,4,Massa,Fernández
+Nacional,Santiago del Estero,Región NOA,femenino,57,sec,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,17,terc,3,Milei,Fernández
+Nacional,San Juan,Región Cuyo,masculino,30,pos,4,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,45,univ,2,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,81,terc,5,Massa,Fernández
+Nacional,Santa Cruz,Región Patagonia,masculino,37,univ,5,Massa,Fernández
+Nacional,San Luis,Región Cuyo,masculino,18,univ,3,Milei,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,73,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,58,prim,4,Otro/Blanco,Fernández
+Nacional,Salta,Región NOA,masculino,56,sec,1,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,16,terc,3,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,18,sec,6,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,78,terc,2,Massa,Fernández
+Nacional,Misiones,Región NEA,femenino,33,sec,6,Bullrich,Macri
+Nacional,Neuquén,Región Patagonia,femenino,27,prim,4,Massa,Fernández
+Nacional,Corrientes,Región NEA,femenino,25,univ,5,Otro/Blanco,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,20,prim,1,Schiaretti,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,43,sec,1,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,32,univ,5,Milei,Macri
+Nacional,Chaco,Región NEA,masculino,17,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,18,sec,4,Massa,Fernández
+Nacional,Misiones,Región NEA,femenino,23,sec,3,Bregman,Otro/Blanco
+Nacional,Córdoba,Región Pampeana,femenino,45,prim,4,Bregman,Macri
+Nacional,Mendoza,Región Cuyo,masculino,21,sec,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,67,prim,3,Otro/Blanco,Macri
+Nacional,Mendoza,Región Cuyo,masculino,26,sec,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,24,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,23,terc,1,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,23,prim,2,Bullrich,Macri
+Nacional,Santa Fe,Región Pampeana,masculino,67,prim,5,Milei,Otro/Blanco
+Nacional,La Pampa,Región Pampeana,masculino,44,sec,3,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,masculino,45,prim,5,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,25,terc,5,Schiaretti,Fernández
+Nacional,Chaco,Región NEA,femenino,82,sec,6,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,19,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,16,prim,2,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,50,sec,5,Massa,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,femenino,21,terc,2,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,69,prim,4,Otro/Blanco,Fernández
+Nacional,Tucumán,Región NOA,femenino,54,univ,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,79,sec,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,20,univ,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,17,univ,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,prim,2,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,25,terc,1,Bullrich,Lavagna
+Nacional,Entre Ríos,Región Pampeana,femenino,84,sec,4,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,17,prim,2,Bullrich,Macri
+Nacional,Río Negro,Región Patagonia,masculino,35,univ,4,Bregman,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,53,prim,1,Bregman,Fernández
+Nacional,Formosa,Región NEA,femenino,58,prim,2,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,35,univ,3,Bullrich,Fernández
+Nacional,Misiones,Región NEA,masculino,77,prim,6,Milei,Macri
+Nacional,Jujuy,Región NOA,masculino,32,terc,4,Bullrich,Macri
+Nacional,Mendoza,Región Cuyo,femenino,31,sec,6,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,48,sec,5,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,67,terc,5,Milei,Fernández
+Nacional,Tucumán,Región NOA,masculino,66,sec,4,Bullrich,Macri
+Nacional,Tucumán,Región NOA,femenino,24,prim,1,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,23,terc,2,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,64,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,49,terc,3,Milei,Macri
+Nacional,Misiones,Región NEA,femenino,27,sec,1,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,masculino,23,prim,3,Otro/Blanco,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,32,univ,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,28,prim,2,Schiaretti,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,38,terc,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,20,sec,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,23,prim,1,Otro/Blanco,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,58,prim,4,Massa,Fernández
+Nacional,Jujuy,Región NOA,femenino,30,sec,4,Bullrich,Macri
+Nacional,Chaco,Región NEA,masculino,17,sec,6,Bregman,Otro/Blanco
+Nacional,Tucumán,Región NOA,femenino,27,prim,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,16,univ,5,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,27,univ,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,67,sec,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,66,univ,3,Massa,Fernández
+Nacional,Formosa,Región NEA,femenino,18,sec,4,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,33,prim,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,35,univ,2,Milei,Lavagna
+Nacional,Mendoza,Región Cuyo,femenino,39,prim,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,33,prim,3,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,77,sec,3,Schiaretti,Lavagna
+Nacional,Corrientes,Región NEA,masculino,25,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,21,terc,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,21,prim,6,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,67,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,27,univ,2,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,37,prim,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,17,sec,3,Schiaretti,Macri
+Nacional,Formosa,Región NEA,femenino,26,sec,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,19,terc,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,45,univ,4,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,25,sec,2,Massa,Fernández
+Nacional,Corrientes,Región NEA,masculino,28,sec,1,Schiaretti,Macri
+Nacional,Tucumán,Región NOA,femenino,53,prim,3,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,femenino,55,prim,2,Milei,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,25,sec,1,Schiaretti,Otro/Blanco
+Nacional,Santiago del Estero,Región NOA,femenino,18,sec,4,Bullrich,Macri
+Nacional,San Luis,Región Cuyo,masculino,33,prim,2,Schiaretti,Fernández
+Nacional,Santiago del Estero,Región NOA,masculino,17,prim,3,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,masculino,56,sec,6,Bregman,Fernández
+Nacional,Corrientes,Región NEA,femenino,27,prim,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,53,prim,2,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,24,sec,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,36,sec,2,Massa,Fernández
+Nacional,Río Negro,Región Patagonia,masculino,46,sec,4,Milei,Fernández
+Nacional,Jujuy,Región NOA,femenino,25,terc,3,Schiaretti,Fernández
+Nacional,Neuquén,Región Patagonia,femenino,39,sec,4,Otro/Blanco,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,35,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,30,sec,3,Bregman,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,59,sec,2,Bregman,Lavagna
+Nacional,Córdoba,Región Pampeana,masculino,35,prim,1,Milei,Macri
+Nacional,San Luis,Región Cuyo,femenino,58,sec,1,Schiaretti,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,84,univ,5,Milei,Macri
+Nacional,Misiones,Región NEA,masculino,50,sec,5,Massa,Lavagna
+Nacional,Neuquén,Región Patagonia,masculino,33,prim,2,Massa,Macri
+Nacional,Jujuy,Región NOA,femenino,36,sec,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,57,univ,1,Massa,Fernández
+Nacional,Mendoza,Región Cuyo,femenino,32,sec,1,Milei,Macri
+Nacional,Río Negro,Región Patagonia,femenino,49,sec,3,Massa,Fernández
+Nacional,Tucumán,Región NOA,femenino,29,sec,2,Otro/Blanco,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,81,univ,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,22,prim,1,Milei,Macri
+Nacional,Formosa,Región NEA,femenino,33,sec,5,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,40,terc,1,Massa,Fernández
+Nacional,Santiago del Estero,Región NOA,femenino,42,sec,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,79,prim,4,Milei,Macri
+Nacional,Córdoba,Región Pampeana,femenino,51,sec,1,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,22,prim,4,Milei,Macri
+Nacional,San Juan,Región Cuyo,masculino,26,sec,3,Schiaretti,Lavagna
+Nacional,Buenos Aires,Región Metropolitana,masculino,30,sec,6,Massa,Macri
+Nacional,Río Negro,Región Patagonia,femenino,43,univ,4,Schiaretti,Lavagna
+Nacional,Salta,Región NOA,masculino,38,sec,4,Milei,Macri
+Nacional,Catamarca,Región NOA,masculino,43,sec,1,Massa,Fernández
+Nacional,Río Negro,Región Patagonia,masculino,43,terc,5,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,19,sec,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,84,sec,4,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,femenino,48,prim,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,18,sec,4,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,48,prim,5,Milei,Macri
+Nacional,Chaco,Región NEA,femenino,27,sec,1,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,33,sec,1,Bregman,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,22,sec,2,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,masculino,61,prim,4,Milei,Lavagna
+Nacional,Santiago del Estero,Región NOA,femenino,48,sec,1,Otro/Blanco,Otro/Blanco
+Nacional,Salta,Región NOA,masculino,28,prim,3,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,78,sec,6,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,32,prim,4,Schiaretti,Fernández
+Nacional,Río Negro,Región Patagonia,masculino,45,prim,2,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,31,terc,4,Milei,Macri
+Nacional,Corrientes,Región NEA,masculino,26,sec,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,55,prim,4,Milei,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,19,prim,6,Massa,Fernández
+Nacional,San Juan,Región Cuyo,masculino,19,sec,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,41,univ,5,Bullrich,Fernández
+Nacional,Misiones,Región NEA,femenino,18,prim,2,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,44,sec,2,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,30,pos,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,31,prim,2,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,20,sec,1,Bullrich,Macri
+Nacional,Tucumán,Región NOA,femenino,22,prim,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,29,prim,4,Milei,Lavagna
+Nacional,Mendoza,Región Cuyo,masculino,23,prim,3,Milei,Fernández
+Nacional,Corrientes,Región NEA,masculino,17,sec,2,Milei,Macri
+Nacional,Corrientes,Región NEA,femenino,26,terc,6,Bullrich,Macri
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,20,sec,4,Bullrich,Macri
+Nacional,Córdoba,Región Pampeana,femenino,23,sec,4,Milei,Macri
+Nacional,La Pampa,Región Pampeana,masculino,58,sec,1,Bullrich,Macri
+Nacional,Salta,Región NOA,masculino,46,sec,2,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,59,prim,2,Bullrich,Macri
+Nacional,Entre Ríos,Región Pampeana,femenino,19,univ,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,58,prim,4,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,22,sec,1,Milei,Macri
+Nacional,Mendoza,Región Cuyo,femenino,22,sec,2,Massa,Fernández
+Nacional,La Rioja,Región NOA,femenino,26,univ,1,Massa,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,26,terc,5,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,71,terc,2,Schiaretti,Macri
+Nacional,Chaco,Región NEA,masculino,37,univ,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,21,sec,4,Milei,Fernández
+Nacional,Chaco,Región NEA,masculino,25,univ,2,Bullrich,Macri
+Nacional,Corrientes,Región NEA,masculino,19,prim,2,Massa,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,50,terc,4,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,16,terc,4,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,20,prim,1,Massa,Fernández
+Nacional,Corrientes,Región NEA,femenino,43,prim,2,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,29,prim,6,Otro/Blanco,Macri
+Nacional,Córdoba,Región Pampeana,masculino,31,sec,2,Milei,Otro/Blanco
+Nacional,Neuquén,Región Patagonia,masculino,22,prim,1,Milei,Fernández
+Nacional,Ciudad de Buenos Aires,Región Metropolitana,femenino,46,prim,6,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,78,univ,6,Otro/Blanco,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,53,univ,4,Schiaretti,Otro/Blanco
+Nacional,Córdoba,Región Pampeana,femenino,24,sec,3,Bullrich,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,19,terc,4,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,42,sec,1,Milei,Macri
+Nacional,San Luis,Región Cuyo,masculino,24,sec,1,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,48,univ,6,Bullrich,Macri
+Nacional,Buenos Aires,Región Metropolitana,femenino,51,sec,1,Milei,Otro/Blanco
+Nacional,Santiago del Estero,Región NOA,masculino,23,prim,3,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,masculino,62,sec,4,Milei,Otro/Blanco
+Nacional,Buenos Aires,Región Metropolitana,femenino,80,prim,1,Bullrich,Macri
+Nacional,Chaco,Región NEA,femenino,20,sec,1,Schiaretti,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,78,sec,3,Massa,Fernández
+Nacional,Córdoba,Región Pampeana,femenino,59,prim,1,Massa,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,71,sec,3,Milei,Fernández
+Nacional,Buenos Aires,Región Metropolitana,femenino,69,sec,6,Bullrich,Macri
+Nacional,Formosa,Región NEA,femenino,39,sec,3,Massa,Fernández
+Nacional,Tucumán,Región NOA,femenino,25,prim,2,Milei,Fernández
+Nacional,Santa Fe,Región Pampeana,masculino,25,prim,2,Bullrich,Fernández
+Nacional,San Juan,Región Cuyo,femenino,48,sec,6,Schiaretti,Macri
+Nacional,Mendoza,Región Cuyo,masculino,40,sec,6,Milei,Otro/Blanco
+Nacional,La Pampa,Región Pampeana,masculino,38,prim,6,Otro/Blanco,Fernández
+Nacional,Córdoba,Región Pampeana,masculino,21,sec,1,Massa,Fernández
+Nacional,Entre Ríos,Región Pampeana,femenino,28,sec,3,Milei,Macri
+Nacional,Catamarca,Región NOA,masculino,23,sec,2,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,22,prim,4,Bregman,Fernández
+Nacional,Santa Fe,Región Pampeana,femenino,57,sec,5,Milei,Macri
+Nacional,Buenos Aires,Región Metropolitana,masculino,63,sec,6,Milei,Macri
+Nacional,Mendoza,Región Cuyo,masculino,46,sec,2,Massa,Fernández
+Nacional,Tucumán,Región NOA,masculino,29,univ,2,Schiaretti,Macri
+Nacional,Formosa,Región NEA,masculino,42,prim,2,Milei,Otro/Blanco
