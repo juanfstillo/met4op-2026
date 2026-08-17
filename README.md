@@ -16,60 +16,94 @@ Repositorio oficial de la materia **Metodología de Análisis en Opinión Públi
 
 La materia combina un fuerte contenido teórico-estadístico con práctica orientada a la implementación en **Python**, articulando los contenidos propios de la orientación de opinión pública con las demandas empíricas del analista y/o investigador.
 
+El dictado se organiza en **dos módulos paralelos**: `PROGRAMACION` (9 unidades) y `ESTADISTICA` (10 unidades). Cada unidad vive en su propia carpeta, con el notebook de clase, la carpeta `media/` de imágenes y una guía `Ejercicios.docx`.
+
 ---
 
-## Contenido
+## Organización del repositorio
 
 ```
-met4op/
-├── dataset/
-│   ├── censo2010/
-│   ├── elecciones_2019/
-│   ├── extras/
-│   └── otros/
+met4op-2026/
 ├── ESTADISTICA/
-│   ├── 0.Estadistica descriptiva/
-│   ├── 1.Probabilidad/
-│   ├── 2.Distribución Normal - IC/
-│   ├── 3.Test de hipotesis/
-│   ├── 4.Regresión lineal simple/
-│   ├── 5.Regresión lineal multiple/
-│   ├── 6.Regresión logistica/
-│   ├── 7.Introducción al Muestreo y Ponderadores/
-│   ├── 8.Causalidad/
-│   ├── 9.Evaluación de impacto/
-│   └── 10.Machine Learning/
-└── PROGRAMACION/
-    ├── 0.Entornos_github/
-    ├── 1.Variables, tipos de datos/
-    ├── 2.Estructuras de control/
-    ├── 3.Numpy - Pandas/
-    ├── 4.Funciones/
-    ├── 5.Geopandas - GIS/
-    ├── 6.Bases de datos/
-    └── 7.Visualización/
+│   ├── 0.Estadistica descriptiva/            0.clase.ipynb
+│   ├── 1.Probabilidad/                       1.clase.ipynb · 1bis.Combinatoria.ipynb
+│   ├── 2.Distribucíon Normal -IC/            2.clase.ipynb
+│   ├── 3.Test de hipotesis/                  3.clase.ipynb
+│   ├── 4.Regresión lineal simple/            4.clase.ipynb
+│   ├── 5.Regresión lineal multiple/          5.clase.ipynb
+│   ├── 6.Regresión logistica/                6.clase.ipynb
+│   ├── 7.Introduccíon al Muestreo y Ponderacíon/   7.clase.ipynb
+│   ├── 8.Causalidad/                         8.clase.ipynb
+│   └── 9.Machine Learning/                   9.clase.ipynb
+├── PROGRAMACION/
+│   ├── 0.Entornos_github/                    0_clase_git.ipynb · 1_clase_entornos.ipynb
+│   ├── 1.Variables, tipos de datos/          01_clase_datatypes.ipynb
+│   ├── 2.Estructuras de control/             02_clase_estructuras.ipynb
+│   ├── 3.Numpy -Pandas/                      clase_03.ipynb
+│   ├── 4.Funciones/                          04_clase_funciones.ipynb
+│   ├── 5.Geopandas - GIS/                    05_clase_geopandas.ipynb
+│   ├── 6.Bases de datos/                     06_clase_bases-de-datos.ipynb
+│   ├── 7.Visualizacíon/                      07_Clase_Visualizacion.ipynb · 07bis_prompting.ipynb
+│   └── 8.POO/                                08_clase_POO.ipynb
+└── dataset/
+    ├── QOG/
+    ├── barrios_caba/
+    ├── censo2010/
+    ├── circuitos-electorales/
+    ├── elecciones_2019/
+    ├── elecciones_caba_2025/
+    ├── extras/
+    └── otros/
 ```
 
 ---
 
 ## Programa
 
-| Unidad | Tema                                          | Aplicación Práctica                              |
-| ------ | --------------------------------------------- | ------------------------------------------------ |
-| 1      | Introducción a Python                         | Redacción de informes con Jupyter Notebooks      |
-| 2      | Repaso de Metodología I                       | Lectura de informes de Opinión Pública           |
-| 3      | Manipulación de Datos con Pandas              | Análisis de datos secundarios (Censo + DINE)     |
-| 4      | Visualización Estadística de Datos            | Confección de reporte electoral CABA 2017        |
-| 5      | Introducción a la Lógica de Bases de Datos    | Extracción de parámetros poblacionales           |
-| 6      | Introducción a la Programación en Python      | Codificación y detección de errores en encuestas |
-| 7      | Introducción a la GeoComputación en GeoPandas | Mapeo de radios censales y circuitos electorales |
-| 8      | Introducción a la Probabilidad y Estadística  | Análisis de los resultados de una encuesta       |
-| 9      | Muestreo y Encuestas                          | Muestreo de radios censales para encuestas       |
-| 10     | Estadística Computacional (Bootstrap)         | Cálculo de la incertidumbre de una estimación    |
-| 11     | Análisis de Variables Continuas               | Estrategia política y experimento por encuestas  |
-| 12     | Análisis de Variables Categóricas             | Perfilado del votante                            |
-| 13     | Corrección de Sesgos                          | Calibración de una encuesta mediante GLM         |
-| 14     | Viejos y Nuevos Métodos                       | Big Data, NLP y el futuro de la O.P.             |
+### Módulo `PROGRAMACION`
+
+| # | Unidad                           | Contenidos                                                                                                       |
+| - | -------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 0 | Entornos y GitHub                | Git: `init`, `commit`, ramas, remotos, `.gitignore` · entornos virtuales                                         |
+| 1 | Variables y tipos de datos       | Referencias de objetos, números, strings y f-strings, listas, tuplas, diccionarios, operadores                   |
+| 2 | Estructuras de control           | Condicionales (`if`/`elif`/`else`), bucles `for` y `while`                                                       |
+| 3 | NumPy y Pandas                   | Series y DataFrames, importación, ordenamiento, `groupby`, `having`, `crosstab`, `unstack`, joins                |
+| 4 | Funciones                        | Definición, recursividad, orden superior, `lambda`, `map`/`filter`, `apply`, `groupby`, `pipe`                   |
+| 5 | GeoPandas y GIS                  | Formatos vectoriales, CRS y Web Mercator, mapas temáticos, `dissolve`, problema MAUP                             |
+| 6 | Bases de datos                   | SQL (DDL, CRUD, JOINs, subconsultas), modelado, ORM con SQLAlchemy, NoSQL, transacciones ACID, backup            |
+| 7 | Visualización                    | Matplotlib y Seaborn: `relplot`, `catplot`, `boxplot`, `histplot`, `kdeplot`, grillas · *bis*: prompting con LLM |
+| 8 | Programación orientada a objetos | Clases, métodos de instancia, herencia, polimorfismo, `isinstance`, integración con Pandas                       |
+
+### Módulo `ESTADISTICA`
+
+| # | Unidad                                 | Contenidos                                                                                                                                                                                   |
+| - | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | Estadística descriptiva                | Unidad estadística y variables, distribuciones de frecuencias, medidas de resumen, de posición y de variabilidad, análisis bivariado                                                         |
+| 1 | Probabilidad                           | Ley de los grandes números, teoría de conjuntos, definición de Laplace, probabilidad condicional, probabilidad total, Bayes · *bis*: combinatoria                                            |
+| 2 | Distribución normal e IC               | Descriptiva vs. inferencial, parámetros y estimadores, distribución muestral, estandarización z y t, α, nivel de confianza e intervalos                                                      |
+| 3 | Test de hipótesis                      | Formulación de H₀/H₁, pruebas de una y dos colas, errores tipo I y II, t para una media, t para medias independientes (pooled y Welch) y apareadas, no paramétricos (Mann-Whitney, Wilcoxon) |
+| 4 | Regresión lineal simple                | Asociación y correlación, MCO/OLS, lectura e inferencia del modelo, variable explicativa binaria, supuestos                                                                                  |
+| 5 | Regresión lineal múltiple              | Variables omitidas, ecuación general, matriz de correlación, de la simple a la múltiple, supuestos                                                                                           |
+| 6 | Regresión logística                    | Modelo logit, odds y odds ratios, interpretación de coeficientes                                                                                                                             |
+| 7 | Introducción al muestreo y ponderación | Muestreo probabilístico, diseños polietápicos (UPE), raking / *iterative proportional fitting*, librería `balance`                                                                           |
+| 8 | Causalidad                             | Inferencia causal, contrafácticos, identificación                                                                                                                                            |
+| 9 | Machine Learning                       | Aprendizaje supervisado, entrenamiento y validación, clasificación                                                                                                                           |
+
+---
+
+## Datasets
+
+| Carpeta                  | Contenido                                                                             | Se usa en             |
+| ------------------------ | ------------------------------------------------------------------------------------- | --------------------- |
+| `QOG/`                   | Quality of Government (corte transversal) y V-Dem 2026                                | EST 0                 |
+| `censo2010/`             | CPV 2010: persona, hogar, vivienda, radio, fracción, depto, provincia · labels y docs | PROG 3, PROG 5, EST 7 |
+| `circuitos-electorales/` | Shapefile de circuitos electorales                                                    | PROG 5                |
+| `barrios_caba/`          | GeoJSON de barrios de CABA                                                            | PROG 5, PROG 7        |
+| `elecciones_2019/`       | Shapefile de CABA, resultados en CSV y tabla `rosetta`                                | PROG 4, PROG 7        |
+| `elecciones_caba_2025/`  | Resultados CABA 2025 por circuito y por mesa                                          | PROG 7                |
+| `extras/`, `otros/`      | Datos auxiliares de ejercicios                                                        | varias                |
+
+Algunas unidades traen además su propia carpeta `data/` con el archivo puntual del ejemplo (por ejemplo `Salary_Data.csv` en EST 4 y `ejemplo_ponderacion.csv` en EST 7).
 
 ---
 
@@ -82,10 +116,14 @@ met4op/
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Arrays-013243?logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-GIS-1E8449?logo=qgis&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Seaborn-11557c?logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-GLM-F7931E?logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-stats-8CAAE6?logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-OLS%20%2F%20GLM-4B8BBE)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?logo=sqlalchemy&logoColor=white)
+![balance](https://img.shields.io/badge/balance-raking-6E5494)
 
 ---
 
