@@ -1,0 +1,614 @@
+---
+title: "MarcaFalsa — regresión y clustering de sucursales"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    theme: flatly
+    mathjax: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE,
+                      fig.width = 9, fig.height = 6, dpi = 110)
+```
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(car)
+library(broom)
+library(glmnet)
+library(ggrepel)
+library(cluster)
+library(factoextra)
+
+options(scipen = 999)
+set.seed(123)
+
+paleta <- c("#0073C2", "#EFC000", "#CD534C", "#868686")
+```
+
+# Los datos
+
+`01_pipeline_geo.ipynb` dejó dos hojas: 54 sucursales con ventas y perfil demográfico de 1 km a la redonda, y 27 ubicaciones sin local con la misma demografía calculada.
+
+```{r}
+sucursales <- read_xlsx("../data/anonimizada/master_marcafalsa.xlsx", sheet = "sucursales")
+oportunidades <- read_xlsx("../data/anonimizada/master_marcafalsa.xlsx", sheet = "oportunidades")
+
+dim(sucursales)
+head(sucursales)
+```
+
+Siete predictores:
+
+| Variable | Denominador | Qué capta |
+|---|---|---|
+| `pct_os_prepaga` | población | cobertura de salud |
+| `pct_jub` | población | jubilados de 65 y más |
+| `pct_univ_comp` | población | universitario completo |
+| `pct_migrantes` | población | población migrante |
+| `pct_nbi` | hogares | necesidades básicas insatisfechas |
+| `pct_alquila` | hogares | vivienda alquilada |
+| `poblacion_1km` | — | tamaño del mercado |
+
+La variable a explicar es `valor_ticket_promedio`.
+
+```{r}
+predictores <- c("pct_os_prepaga", "pct_jub", "pct_univ_comp", "pct_migrantes",
+                 "pct_nbi", "pct_alquila", "poblacion_1km")
+
+summary(sucursales[c(predictores, "valor_ticket_promedio")])
+```
+
+# Correlaciones
+
+```{r}
+correlaciones <- cor(sucursales[c(predictores, "valor_ticket_promedio")])
+round(correlaciones, 2)
+```
+
+```{r fig.height=6.5}
+correlaciones %>%
+  as.data.frame() %>%
+  rownames_to_column("fila") %>%
+  pivot_longer(-fila, names_to = "columna", values_to = "r") %>%
+  ggplot(aes(columna, fila, fill = r)) +
+  geom_tile(color = "white") +
+  geom_text(aes(label = round(r, 2)), size = 3.5) +
+  scale_fill_gradient2(low = "#B2182B", mid = "white", high = "#2166AC",
+                       midpoint = 0, limits = c(-1, 1)) +
+  labs(title = "Correlaciones", x = NULL, y = NULL) +
+  theme_minimal(base_size = 11) +
+  theme(axis.text.x = element_text(angle = 35, hjust = 1))
+```
+
+Tres bloques. `pct_os_prepaga`, `pct_jub` y `pct_univ_comp` se mueven juntas y correlacionan fuerte con el ticket. `pct_nbi` va en sentido contrario. `pct_migrantes`, `pct_alquila` y `poblacion_1km` describen otra cosa —centralidad urbana— y casi no se relacionan con el ticket.
+
+El problema es el primer bloque: `pct_os_prepaga` y `pct_jub` correlacionan 0,93 entre sí. Eso es colinealidad y condiciona todo lo que sigue.
+
+```{r}
+ggplot(sucursales, aes(pct_univ_comp, valor_ticket_promedio)) +
+  geom_point(size = 3, alpha = 0.7, color = "#1E2749") +
+  geom_smooth(method = "lm", se = TRUE, color = "#ff7f0e") +
+  labs(title = "Ticket promedio vs. universitarios en la zona",
+       x = "% con universitario completo (1 km)", y = "Ticket promedio ($)") +
+  theme_minimal(base_size = 12)
+```
+
+# Modelo 1: regresión lineal múltiple
+
+> **Qué estima.** El modelo es
+> $$y = \beta_0 + \beta_1 x_1 + \dots + \beta_k x_k + \varepsilon$$
+> y se eligen los $\beta$ que minimizan la suma de los residuos al cuadrado (mínimos cuadrados ordinarios, OLS). La solución cerrada es $\hat{\beta} = (X'X)^{-1}X'y$.
+>
+> **Cómo se lee un coeficiente.** $\beta_j$ es el cambio esperado en el ticket ante un aumento de una unidad en $x_j$, **manteniendo constantes las demás variables del modelo**. Esa cláusula es la que le da valor interpretativo y también la que se rompe primero.
+>
+> **Supuestos.** Relación lineal en los parámetros, errores con media cero, varianza constante (homocedasticidad), independencia entre observaciones, y normalidad aproximada de los errores para que valgan los tests de significancia y los intervalos de confianza.
+>
+> **Cuándo conviene.** Cuando el objetivo es explicar y no solo predecir. Es el modelo más interpretable disponible y el punto de partida obligado.
+>
+> **Su límite acá.** Cuando los predictores se mueven juntos, la matriz $X'X$ queda mal condicionada y su inversa amplifica el ruido. La varianza de los $\hat{\beta}$ se dispara: los coeficientes individuales se vuelven poco confiables y pueden cambiar mucho ante variaciones menores en los datos, aunque el ajuste global del modelo siga siendo bueno.
+
+```{r}
+modelo_lineal <- lm(valor_ticket_promedio ~ pct_os_prepaga + pct_jub + pct_univ_comp +
+                      pct_migrantes + pct_nbi + pct_alquila + poblacion_1km,
+                    data = sucursales)
+
+summary(modelo_lineal)
+```
+
+El modelo explica el 77% de la variación del ticket. Ningún coeficiente alcanza significancia al 5%.
+
+Esa combinación —ajuste global alto, coeficientes individuales no significativos— es la firma de la colinealidad. El modelo sabe predecir con el conjunto de variables, pero no puede atribuirle el efecto a ninguna en particular.
+
+El **VIF** lo cuantifica. Para la variable $j$ es $1/(1-R_j^2)$, donde $R_j^2$ sale de regresar $x_j$ contra el resto de los predictores. Indica por cuánto se multiplica la varianza de $\hat{\beta}_j$ respecto de un escenario sin colinealidad. Por convención, arriba de 5 conviene mirar y arriba de 10 es problemático.
+
+```{r}
+sort(vif(modelo_lineal), decreasing = TRUE)
+```
+
+```{r}
+tidy(modelo_lineal) %>%
+  mutate(across(where(is.numeric), ~ round(.x, 3)))
+```
+
+## Sacar la variable más colineal
+
+`pct_os_prepaga` tiene VIF 31: su varianza está inflada 31 veces respecto de un escenario sin colinealidad. Y ya vimos que correlaciona 0,93 con `pct_jub` y 0,88 con `pct_univ_comp`, así que casi toda su información está contenida en las otras dos.
+
+La respuesta más simple a la colinealidad es sacarla y volver a correr.
+
+```{r}
+modelo_reducido <- lm(valor_ticket_promedio ~ pct_jub + pct_univ_comp +
+                        pct_migrantes + pct_nbi + pct_alquila + poblacion_1km,
+                      data = sucursales)
+
+summary(modelo_reducido)
+```
+
+```{r}
+sort(vif(modelo_reducido), decreasing = TRUE)
+```
+
+```{r}
+data.frame(
+  modelo = c("Completo (7)", "Sin os_prepaga (6)"),
+  r2 = round(c(summary(modelo_lineal)$r.squared, summary(modelo_reducido)$r.squared), 4),
+  r2_ajustado = round(c(summary(modelo_lineal)$adj.r.squared,
+                        summary(modelo_reducido)$adj.r.squared), 4),
+  error_residual = round(c(summary(modelo_lineal)$sigma, summary(modelo_reducido)$sigma), 1),
+  vif_maximo = round(c(max(vif(modelo_lineal)), max(vif(modelo_reducido))), 1),
+  signif_5pct = c(sum(summary(modelo_lineal)$coefficients[-1, 4] < 0.05),
+                  sum(summary(modelo_reducido)$coefficients[-1, 4] < 0.05)),
+  AIC = round(c(AIC(modelo_lineal), AIC(modelo_reducido)), 1)
+)
+```
+
+Sacar una sola variable cambia bastante el panorama. El VIF máximo pasa de 31 a 7,4: ya no queda ninguno por encima de 10. `pct_univ_comp`, que en el modelo completo se quedaba en el borde con p = 0,054, ahora tiene t = 4,11 y p < 0,001. `pct_jub` mejora de p = 0,42 a p = 0,08.
+
+El $R^2$ baja de 0,7734 a 0,7715, dos milésimas. El $R^2$ ajustado, que penaliza por cantidad de parámetros, **sube**: 0,7389 contra 0,7423. El AIC también mejora. El modelo con menos variables explica prácticamente lo mismo y encima es más interpretable.
+
+El test F formal confirma que la variable no aportaba:
+
+```{r}
+anova(modelo_reducido, modelo_lineal)
+```
+
+p = 0,55. No hay evidencia de que agregar `pct_os_prepaga` mejore el ajuste.
+
+Una advertencia sobre el procedimiento: acá se sacó **una** variable, elegida por VIF y con una justificación sustantiva —mide casi lo mismo que las otras dos del bloque—. Eso es distinto de ir eliminando variables de a una según el p-valor hasta que todo quede significativo. Esa segunda práctica invalida los p-valores que quedan, porque no contabiliza las decisiones tomadas para llegar ahí.
+
+De acá en adelante se usa `modelo_reducido`.
+
+## Diagnóstico
+
+Los supuestos se chequean sobre los residuos. *Residuals vs Fitted* debería no mostrar patrón ni embudo; *Q-Q* debería seguir la diagonal; *Scale-Location* revisa varianza constante; *Residuals vs Leverage* marca observaciones con influencia desproporcionada.
+
+```{r fig.height=7}
+par(mfrow = c(2, 2))
+plot(modelo_reducido)
+par(mfrow = c(1, 1))
+```
+
+## Sucursales fuera de la predicción
+
+La diferencia entre lo que el modelo espera según la zona y lo que la sucursal factura de verdad es una señal de gestión, no de demografía.
+
+```{r fig.height=8}
+resultados <- sucursales %>%
+  mutate(predicho = fitted(modelo_reducido),
+         residuo = valor_ticket_promedio - predicho,
+         desvio = abs(residuo),
+         tipo = ifelse(residuo > 0, "Rinde de más", "Rinde de menos"))
+
+top5 <- resultados %>% slice_max(desvio, n = 5)
+
+ggplot(resultados, aes(predicho, valor_ticket_promedio)) +
+  geom_abline(intercept = 0, slope = 1, linetype = "dashed", linewidth = 0.7) +
+  geom_point(aes(color = tipo), size = 3.5, alpha = 0.75) +
+  geom_text_repel(aes(label = nombre), size = 3, color = "gray50", max.overlaps = 20) +
+  geom_text_repel(data = top5, aes(label = nombre), size = 4.5,
+                  fontface = "bold", color = "black", max.overlaps = Inf) +
+  scale_color_manual(values = c("Rinde de más" = "#1E2749",
+                                "Rinde de menos" = "#ff7f0e")) +
+  labs(title = "Observado vs. predicho",
+       subtitle = "En negrita, las 5 sucursales con mayor desvío",
+       x = "Ticket predicho ($)", y = "Ticket observado ($)", color = NULL) +
+  theme_minimal(base_size = 12)
+```
+
+```{r}
+resultados %>%
+  select(nombre, localidad, valor_ticket_promedio, predicho, residuo) %>%
+  mutate(across(where(is.numeric), round)) %>%
+  arrange(desc(residuo)) %>%
+  head(10)
+```
+
+# Modelo 2: Ridge y Lasso
+
+Sacar `pct_os_prepaga` a mano fue una respuesta a la colinealidad: decidir por criterio propio qué variable sobra. Ridge y Lasso son la otra respuesta, automática y con las siete variables sobre la mesa.
+
+> **La idea común.** Ambos parten de la misma ecuación lineal pero cambian la función objetivo: en vez de minimizar solo la suma de residuos al cuadrado (RSS), minimizan RSS más un término de **penalización** sobre el tamaño de los coeficientes. El parámetro $\lambda \geq 0$ regula cuánta penalización se aplica. Con $\lambda = 0$ se recupera exactamente OLS; a medida que $\lambda$ crece, los coeficientes se contraen hacia cero.
+>
+> **Ridge — penalización L2.**
+> $$\min_\beta \; \|y - X\beta\|^2 + \lambda \sum_{j} \beta_j^2$$
+> Como la penalización crece con el cuadrado, concentrar magnitud en un coeficiente cuesta más que distribuirla: dos coeficientes de 5 penalizan 50, uno solo de 10 penaliza 100. Por eso, entre soluciones que ajustan de forma parecida, Ridge prefiere la que reparte el peso entre predictores correlacionados antes que la que se lo asigna a uno solo. Ese reparto es lo que **estabiliza** los coeficientes frente a la colinealidad. Ningún coeficiente llega a cero exacto: la derivada de $\beta^2$ se anula en el origen y no empuja hacia él.
+>
+> **Lasso — penalización L1.**
+> $$\min_\beta \; \|y - X\beta\|^2 + \lambda \sum_{j} |\beta_j|$$
+> El valor absoluto tiene un pico en cero y su derivada no se anula ahí, así que la solución óptima cae exactamente en cero para las variables que aportan poco. En la formulación equivalente con restricción, la región factible de Lasso es un politopo con vértices sobre los ejes y el óptimo tiende a tocar un vértice; la de Ridge es una esfera, que no tiene vértices. Por eso Lasso hace **selección de variables** y Ridge no.
+>
+> **El costo.** Los coeficientes de ambos son estimadores **sesgados**: quedan sistemáticamente menores en magnitud que los de OLS. Se acepta ese sesgo porque viene con una reducción mayor de la varianza, y el error cuadrático medio fuera de la muestra baja. Es el compromiso sesgo-varianza.
+>
+> **Cuándo usar cada uno.** Ridge cuando se supone que todos los predictores aportan algo y el problema es que se superponen. Lasso cuando se sospecha que hay variables prescindibles y se busca un modelo más chico. Elastic net combina ambas penalizaciones.
+>
+> **Estandarizar no es opcional.** La penalización opera sobre magnitudes, y la magnitud de un coeficiente depende de las unidades de su variable: `poblacion_1km` está en decenas de miles y `pct_nbi` en unidades. `glmnet` estandariza internamente antes de ajustar y después devuelve los coeficientes en la escala original.
+
+```{r}
+X <- as.matrix(sucursales[predictores])
+y <- sucursales$valor_ticket_promedio
+```
+
+## Elegir lambda
+
+$\lambda$ no se conoce de antemano. Se elige por validación cruzada: el modelo se ajusta 10 veces dejando afuera un décimo distinto de los datos y se mide el error sobre la parte que no vio. `lambda.min` es el de menor error; `lambda.1se` es el mayor $\lambda$ cuyo error queda dentro de un desvío estándar del mínimo, un criterio más conservador.
+
+```{r fig.height=5}
+cv_ridge <- cv.glmnet(X, y, alpha = 0, nfolds = 10, standardize = TRUE)
+cv_lasso <- cv.glmnet(X, y, alpha = 1, nfolds = 10, standardize = TRUE)
+
+par(mfrow = c(1, 2))
+plot(cv_ridge); title("Ridge", line = 2.5)
+plot(cv_lasso); title("Lasso", line = 2.5)
+par(mfrow = c(1, 1))
+
+cv_ridge$lambda.min
+cv_lasso$lambda.min
+```
+
+## Trayectoria de los coeficientes
+
+Cada línea es un predictor. A la izquierda la penalización es baja y los coeficientes se parecen a los de OLS; hacia la derecha crece $\lambda$ y los contrae. En Lasso las líneas tocan el cero y se quedan ahí; en Ridge se acercan sin llegar.
+
+```{r fig.height=5}
+par(mfrow = c(1, 2))
+plot(glmnet(X, y, alpha = 0), xvar = "lambda", label = TRUE); title("Ridge", line = 2.5)
+plot(glmnet(X, y, alpha = 1), xvar = "lambda", label = TRUE); title("Lasso", line = 2.5)
+par(mfrow = c(1, 1))
+```
+
+## Los tres modelos lado a lado
+
+```{r}
+modelo_ridge <- glmnet(X, y, alpha = 0, lambda = cv_ridge$lambda.min, standardize = TRUE)
+modelo_lasso <- glmnet(X, y, alpha = 1, lambda = cv_lasso$lambda.min, standardize = TRUE)
+
+comparacion <- data.frame(
+  variable = c("(intercepto)", predictores),
+  lineal = round(as.numeric(coef(modelo_lineal)), 2),
+  ridge = round(as.numeric(coef(modelo_ridge)), 2),
+  lasso = round(as.numeric(coef(modelo_lasso)), 2)
+)
+
+comparacion
+```
+
+Lasso deja en cero `pct_migrantes`, `pct_alquila` y `poblacion_1km`, y se queda con cuatro predictores. Coincide con lo que mostraba la matriz de correlaciones: esas tres describen centralidad urbana, no capacidad de gasto.
+
+Ridge no elimina nada pero recorta: baja `pct_univ_comp` y refuerza `pct_nbi`, repartiendo el peso entre las variables del bloque socioeconómico en lugar de dejarlo concentrado.
+
+```{r}
+pred_ridge <- as.numeric(predict(modelo_ridge, newx = X))
+pred_lasso <- as.numeric(predict(modelo_lasso, newx = X))
+
+r2_ridge <- 1 - sum((y - pred_ridge)^2) / sum((y - mean(y))^2)
+r2_lasso <- 1 - sum((y - pred_lasso)^2) / sum((y - mean(y))^2)
+
+data.frame(
+  modelo = c("Lineal completo", "Lineal sin os_prepaga", "Ridge", "Lasso"),
+  variables = c(length(predictores), length(predictores) - 1,
+                length(predictores), sum(coef(modelo_lasso)[-1] != 0)),
+  r2_entrenamiento = round(c(summary(modelo_lineal)$r.squared,
+                             summary(modelo_reducido)$r.squared,
+                             r2_ridge, r2_lasso), 3),
+  r2_validacion_cruzada = c(NA, NA,
+                            round(1 - min(cv_ridge$cvm) / var(y), 3),
+                            round(1 - min(cv_lasso$cvm) / var(y), 3))
+)
+```
+
+El $R^2$ de entrenamiento se calcula sobre los mismos datos que ajustaron el modelo, así que es optimista, y OLS gana ahí por construcción: es el que minimiza exactamente esa cantidad. El número comparable es el de validación cruzada.
+
+Con 54 observaciones y 7 predictores la regularización tiene margen acotado para mejorar la predicción. Su aporte acá es otro: Lasso llega al mismo ajuste con cuatro variables en vez de siete.
+
+# Predecir las zonas de oportunidad
+
+```{r}
+X_nuevas <- as.matrix(oportunidades[predictores])
+
+ranking <- oportunidades %>%
+  mutate(ticket_estimado = round(as.numeric(predict(modelo_ridge, newx = X_nuevas)))) %>%
+  select(nombre, ticket_estimado, pct_os_prepaga, pct_univ_comp, pct_nbi) %>%
+  mutate(across(where(is.numeric), ~ round(.x, 1))) %>%
+  arrange(desc(ticket_estimado))
+
+ranking
+```
+
+```{r fig.height=7}
+comparar <- bind_rows(
+  sucursales %>% transmute(nombre, ticket = valor_ticket_promedio, tipo = "Sucursal actual"),
+  ranking %>% transmute(nombre, ticket = ticket_estimado, tipo = "Zona de oportunidad")
+)
+
+ggplot(comparar, aes(reorder(nombre, ticket), ticket, fill = tipo)) +
+  geom_col() +
+  coord_flip() +
+  scale_fill_manual(values = c("Sucursal actual" = "#1E2749",
+                               "Zona de oportunidad" = "#ff7f0e")) +
+  labs(title = "Ticket promedio: sucursales reales y zonas estimadas",
+       x = NULL, y = "Ticket promedio ($)", fill = NULL) +
+  theme_minimal(base_size = 10)
+```
+
+El modelo solo conoce demografía. No sabe si hay un competidor enfrente, cuánto sale el alquiler ni cuánta gente camina por esa cuadra. El ranking ordena potencial de zona, no decisiones de apertura.
+
+# Clustering demográfico
+
+Otra pregunta: cuántos tipos de barrio distintos tiene MarcaFalsa. El clustering no necesita variable a explicar, solo agrupa lo parecido.
+
+Van los siete predictores demográficos. Las ventas quedan afuera a propósito: los grupos tienen que salir del territorio, y después miramos si el negocio los acompaña.
+
+```{r}
+demografia <- sucursales[predictores]
+demografia_escalada <- scale(demografia)
+rownames(demografia_escalada) <- sucursales$nombre
+
+head(round(demografia_escalada, 2))
+```
+
+Escalar es obligatorio: `poblacion_1km` está en decenas de miles y `pct_nbi` entre 0 y 11. Sin estandarizar, la distancia euclídea quedaría dominada por la población. `scale()` deja cada variable centrada en 0 con desvío 1.
+
+## Cuántos grupos
+
+El **codo** busca dónde deja de bajar sustancialmente la suma de cuadrados intra-grupo. La **silueta** mide, para cada observación, cuánto más cerca está de su propio grupo que del grupo vecino más próximo; su promedio va de −1 a 1 y más alto es mejor.
+
+```{r fig.height=4.5}
+fviz_nbclust(demografia_escalada, hcut, method = "wss", k.max = 8) +
+  labs(title = "Método del codo")
+
+fviz_nbclust(demografia_escalada, hcut, method = "silhouette", k.max = 8) +
+  labs(title = "Silueta promedio por k")
+```
+
+## Dendrograma
+
+El agrupamiento jerárquico empieza con cada sucursal aislada y va uniendo los pares más cercanos hasta dejar un solo grupo. Ward.D2 une los grupos cuya fusión produce el menor aumento de varianza interna. La altura de cada unión es la distancia a la que ocurrió: cortar el árbol a una altura define los grupos.
+
+```{r fig.height=9}
+distancias <- dist(demografia_escalada)
+arbol <- hclust(distancias, method = "ward.D2")
+
+k <- 3
+
+fviz_dend(arbol, k = k, horiz = TRUE, cex = 0.7, rect = TRUE,
+          k_colors = paleta,
+          main = paste0("Agrupamiento jerárquico Ward.D2 (k = ", k, ")"))
+```
+
+```{r}
+sucursales$cluster <- factor(cutree(arbol, k = k))
+table(sucursales$cluster)
+```
+
+## Biplot de componentes principales
+
+Son siete variables y el plano tiene dos dimensiones. El PCA construye combinaciones lineales de las originales ordenadas por varianza explicada: PC1 es la dirección de máxima dispersión, PC2 la siguiente entre las perpendiculares a PC1.
+
+El signo de un componente es arbitrario —PC1 y −PC1 explican lo mismo—, así que se lo fija: se busca la variable de mayor peso en cada componente y, si carga negativo, se invierte el componente entero. Después de eso cada eje crece en el sentido de su variable dominante, y el eje se rotula con ella.
+
+```{r}
+pca <- prcomp(demografia_escalada)
+
+for (j in 1:2) {
+  dominante <- which.max(abs(pca$rotation[, j]))
+  if (pca$rotation[dominante, j] < 0) {
+    pca$rotation[, j] <- -pca$rotation[, j]
+    pca$x[, j] <- -pca$x[, j]
+  }
+}
+
+varianza_explicada <- summary(pca)$importance["Proportion of Variance", 1:2] * 100
+variable_pc1 <- rownames(pca$rotation)[which.max(abs(pca$rotation[, 1]))]
+variable_pc2 <- rownames(pca$rotation)[which.max(abs(pca$rotation[, 2]))]
+
+round(pca$rotation[, 1:2], 3)
+```
+
+```{r fig.height=8, fig.width=11}
+puntos_pca <- data.frame(
+  nombre = rownames(demografia_escalada),
+  PC1 = pca$x[, 1],
+  PC2 = pca$x[, 2],
+  cluster = sucursales$cluster
+)
+
+escala <- 0.85 * min(max(abs(puntos_pca$PC1)) / max(abs(pca$rotation[, 1])),
+                     max(abs(puntos_pca$PC2)) / max(abs(pca$rotation[, 2])))
+
+flechas <- data.frame(
+  variable = rownames(pca$rotation),
+  x = pca$rotation[, 1] * escala,
+  y = pca$rotation[, 2] * escala
+)
+
+ggplot(puntos_pca, aes(PC1, PC2)) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "grey70", linewidth = 0.3) +
+  geom_vline(xintercept = 0, linetype = "dashed", color = "grey70", linewidth = 0.3) +
+  geom_segment(data = flechas, aes(x = 0, y = 0, xend = x, yend = y),
+               arrow = arrow(length = unit(0.22, "cm"), type = "closed"),
+               linewidth = 0.7, color = "black", inherit.aes = FALSE) +
+  geom_point(aes(fill = cluster), shape = 21, size = 3.6,
+             color = "white", stroke = 0.7) +
+  geom_text_repel(aes(label = nombre), size = 3, color = "gray45",
+                  max.overlaps = 30, box.padding = 0.3) +
+  geom_text_repel(data = flechas, aes(x, y, label = toupper(variable)),
+                  fontface = "bold", size = 4, color = "black",
+                  inherit.aes = FALSE, box.padding = 0.4) +
+  scale_fill_manual(values = paleta) +
+  labs(title = "Sucursales en el espacio demográfico",
+       subtitle = "Ejes rotulados con la variable de mayor peso en cada componente",
+       x = sprintf("PC1 — más %s (%.1f%%)", variable_pc1, varianza_explicada[1]),
+       y = sprintf("PC2 — más %s (%.1f%%)", variable_pc2, varianza_explicada[2])) +
+  theme_minimal(base_size = 12) +
+  theme(panel.grid = element_blank(),
+        axis.line = element_line(color = "black", linewidth = 0.4),
+        axis.title = element_text(face = "bold"))
+```
+
+Los dos ejes suman el 87% de la varianza.
+
+PC1 ordena por nivel socioeconómico: hacia la derecha, más obra social, más universitarios y más jubilados, y menos NBI. PC2 ordena por densidad urbana: hacia arriba, más migrantes, más NBI, más inquilinos y más población.
+
+Las flechas de `pct_nbi` y `pct_univ_comp` salen casi perpendiculares. No es que no se relacionen —correlacionan −0,52—, sino que buena parte de la variación de NBI ocurre sobre el eje vertical, junto con migrantes y densidad, no sobre el socioeconómico.
+
+```{r fig.height=4.5}
+fviz_silhouette(silhouette(cutree(arbol, k = k), distancias), palette = paleta) +
+  labs(title = "Silueta por sucursal")
+```
+
+## Perfil de cada grupo
+
+```{r}
+sucursales %>%
+  group_by(cluster) %>%
+  summarise(n = n(),
+            os_prepaga = mean(pct_os_prepaga),
+            jubilados = mean(pct_jub),
+            universitarios = mean(pct_univ_comp),
+            migrantes = mean(pct_migrantes),
+            nbi = mean(pct_nbi),
+            alquila = mean(pct_alquila),
+            poblacion = mean(poblacion_1km),
+            .groups = "drop") %>%
+  mutate(across(where(is.numeric), ~ round(.x, 1)))
+```
+
+```{r fig.height=6}
+sucursales %>%
+  select(cluster, all_of(predictores)) %>%
+  pivot_longer(-cluster, names_to = "variable", values_to = "valor") %>%
+  ggplot(aes(cluster, valor, fill = cluster)) +
+  geom_boxplot(alpha = 0.75) +
+  facet_wrap(~ variable, scales = "free_y") +
+  scale_fill_manual(values = paleta) +
+  labs(title = "Perfil demográfico por grupo", x = "Grupo", y = NULL) +
+  theme_minimal(base_size = 11) +
+  theme(legend.position = "none")
+```
+
+## Los grupos contra el negocio
+
+Los clusters se armaron sin mirar las ventas.
+
+```{r fig.height=5}
+ggplot(sucursales, aes(cluster, valor_ticket_promedio, fill = cluster)) +
+  geom_boxplot(alpha = 0.75, outlier.shape = NA) +
+  geom_jitter(width = 0.15, size = 2, alpha = 0.6) +
+  scale_fill_manual(values = paleta) +
+  labs(title = "Ticket promedio por grupo demográfico",
+       subtitle = "Los grupos se formaron sin usar esta variable",
+       x = "Grupo", y = "Ticket promedio ($)") +
+  theme_minimal(base_size = 12) +
+  theme(legend.position = "none")
+```
+
+```{r}
+sucursales %>%
+  group_by(cluster) %>%
+  summarise(n = n(),
+            ticket_promedio = round(mean(valor_ticket_promedio)),
+            tickets_por_mes = round(mean(numero_tickets_promedio)),
+            .groups = "drop")
+```
+
+```{r}
+sucursales %>%
+  select(cluster, nombre, localidad, valor_ticket_promedio, numero_tickets_promedio) %>%
+  arrange(cluster, desc(valor_ticket_promedio)) %>%
+  print(n = Inf)
+```
+
+## Los grupos en el mapa
+
+Hasta acá los clusters salieron de una tabla de números. Puestos sobre el territorio se ve si son grupos geográficos o solo estadísticos.
+
+Los buffers se rehacen en R con el mismo criterio del notebook: pasar a UTM 21S, generar el círculo de 1000 m y volver a coordenadas geográficas.
+
+```{r}
+library(sf)
+
+partidos <- st_read("../data/anonimizada/partidos_amba.gpkg", quiet = TRUE)
+
+sucursales_sf <- st_as_sf(sucursales, coords = c("longitud", "latitud"), crs = 4326)
+
+buffers_sf <- sucursales_sf %>%
+  st_transform(32721) %>%
+  st_buffer(1000) %>%
+  st_transform(4326)
+
+caja <- st_bbox(buffers_sf)
+st_crs(buffers_sf)$epsg
+```
+
+```{r fig.height=11, fig.width=10}
+ggplot() +
+  geom_sf(data = partidos, fill = "grey97", color = "grey75", linewidth = 0.3) +
+  geom_sf(data = buffers_sf, aes(fill = cluster), color = NA, alpha = 0.45) +
+  geom_sf(data = sucursales_sf, aes(fill = cluster), shape = 21,
+          size = 2.4, color = "white", stroke = 0.5) +
+  scale_fill_manual(values = paleta, name = "Grupo") +
+  coord_sf(xlim = c(caja["xmin"] - 0.05, caja["xmax"] + 0.05),
+           ylim = c(caja["ymin"] - 0.05, caja["ymax"] + 0.05)) +
+  labs(title = "Grupos demográficos sobre el AMBA",
+       subtitle = "Cada círculo es el área de influencia de 1 km") +
+  theme_void(base_size = 12) +
+  theme(legend.position = c(0.92, 0.85),
+        plot.title = element_text(face = "bold", hjust = 0.02),
+        plot.subtitle = element_text(hjust = 0.02, color = "grey35"))
+```
+
+El corte es geográfico además de estadístico, aunque no perfectamente. Un mapa así sirve para el chequeo que ninguna métrica da: si un grupo aparece disperso sin patrón espacial, conviene revisar si está capturando algo real o ruido.
+
+```{r fig.height=8, fig.width=10}
+zoom <- st_bbox(c(xmin = -58.60, xmax = -58.32, ymin = -34.72, ymax = -34.52), crs = 4326)
+
+ggplot() +
+  geom_sf(data = partidos, fill = "grey97", color = "grey70", linewidth = 0.4) +
+  geom_sf(data = buffers_sf, aes(fill = cluster), color = NA, alpha = 0.45) +
+  geom_sf(data = sucursales_sf, aes(fill = cluster), shape = 21,
+          size = 3, color = "white", stroke = 0.6) +
+  geom_sf_text(data = sucursales_sf, aes(label = nombre), size = 2.7,
+               color = "grey20", nudge_y = 0.006, check_overlap = TRUE) +
+  scale_fill_manual(values = paleta, name = "Grupo") +
+  coord_sf(xlim = c(zoom["xmin"], zoom["xmax"]),
+           ylim = c(zoom["ymin"], zoom["ymax"])) +
+  labs(title = "Detalle: CABA y primer cordón") +
+  theme_void(base_size = 12) +
+  theme(plot.title = element_text(face = "bold", hjust = 0.02))
+```
+
+# Cierre
+
+1. Los siete predictores demográficos explican el 77% de la variación del ticket, pero ninguno es significativo por separado: `pct_os_prepaga` tiene VIF 31.
+2. Sacando esa variable, el VIF máximo baja a 7,4 y `pct_univ_comp` pasa de p = 0,054 a p < 0,001. El $R^2$ cae dos milésimas y el ajustado sube. Menos variables, mismo ajuste, más interpretable.
+3. Ridge y Lasso llegan a lo mismo por vía automática: Ridge reparte el peso entre las variables correlacionadas, Lasso se queda con cuatro predictores y descarta los tres de densidad urbana.
+4. Las sucursales alejadas de la diagonal en observado vs. predicho son las candidatas a revisar.
+5. Las 27 zonas de oportunidad quedan ordenadas por el ticket que su demografía sugiere.
+6. Sin usar las ventas, las sucursales se separan en `r k` grupos. Dos de ellos tienen ticket promedio parecido pero perfiles opuestos: uno de zonas acomodadas de baja densidad y otro de zonas centrales, densas, con mucho inquilino y mucha población migrante. Un modelo que solo mire el ticket los confundiría.
+
+Datos ficticios sobre una cadena que no existe. El método es real, las conclusiones no.

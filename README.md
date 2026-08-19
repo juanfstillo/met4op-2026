@@ -34,7 +34,10 @@ met4op-2026/
 │   ├── 6.Regresión logistica/                6.clase.ipynb
 │   ├── 7.Introduccíon al Muestreo y Ponderacíon/   7.clase.ipynb
 │   ├── 8.Causalidad/                         8.clase.ipynb
-│   └── 9.Machine Learning/                   9.clase.ipynb
+│   └── 9.Machine Learning/                   9.0.intro-ml.ipynb · 9.1.regularizacion.ipynb
+│                                             9.2.logistica.ipynb · 9.3.arboles.ipynb
+│                                             9.3b.arboles-encuesta.ipynb · 9.4.clustering.ipynb
+│                                             9.5.reglas-asociacion.ipynb
 ├── PROGRAMACION/
 │   ├── 0.Entornos_github/                    0_clase_git.ipynb · 1_clase_entornos.ipynb
 │   ├── 1.Variables, tipos de datos/          01_clase_datatypes.ipynb
@@ -52,6 +55,8 @@ met4op-2026/
     ├── circuitos-electorales/
     ├── elecciones_2019/
     ├── elecciones_caba_2025/
+    ├── encuesta134/
+    ├── votaciones_sim/
     ├── extras/
     └── otros/
 ```
@@ -87,7 +92,7 @@ met4op-2026/
 | 6 | Regresión logística                    | Modelo logit, odds y odds ratios, interpretación de coeficientes                                                                                                                             |
 | 7 | Introducción al muestreo y ponderación | Muestreo probabilístico, diseños polietápicos (UPE), raking / *iterative proportional fitting*, librería `balance`                                                                           |
 | 8 | Causalidad                             | Inferencia causal, contrafácticos, identificación                                                                                                                                            |
-| 9 | Machine Learning                       | Aprendizaje supervisado, entrenamiento y validación, clasificación                                                                                                                           |
+| 9 | Machine Learning                       | Supervisado / no supervisado / por refuerzo, sobreajuste y sesgo-varianza, validación cruzada, baseline, métricas y fugas de información · regularización (Ridge, Lasso, Elastic Net) · logística como clasificador · árbol de decisión, Random Forest y XGBoost · clustering jerárquico, k-means y PCA · reglas de asociación (a priori) |
 
 ---
 
@@ -95,15 +100,22 @@ met4op-2026/
 
 | Carpeta                  | Contenido                                                                             | Se usa en             |
 | ------------------------ | ------------------------------------------------------------------------------------- | --------------------- |
-| `QOG/`                   | Quality of Government (corte transversal) y V-Dem 2026                                | EST 0                 |
+| `QOG/`                   | Quality of Government (corte transversal) y V-Dem 2026                                | EST 0, EST 4, EST 9   |
 | `censo2010/`             | CPV 2010: persona, hogar, vivienda, radio, fracción, depto, provincia · labels y docs | PROG 3, PROG 5, EST 7 |
 | `circuitos-electorales/` | Shapefile de circuitos electorales                                                    | PROG 5                |
-| `barrios_caba/`          | GeoJSON de barrios de CABA                                                            | PROG 5, PROG 7        |
+| `barrios_caba/`          | GeoJSON de barrios de CABA                                                            | PROG 5, PROG 7, EST 9 |
 | `elecciones_2019/`       | Shapefile de CABA, resultados en CSV y tabla `rosetta`                                | PROG 4, PROG 7        |
-| `elecciones_caba_2025/`  | Resultados CABA 2025 por circuito y por mesa                                          | PROG 7                |
+| `elecciones_caba_2025/`  | Resultados CABA 2025 por circuito y por mesa                                          | PROG 7, EST 9         |
+| `encuesta134/`           | Encuesta propia de identificación política, 134 casos · versión etiquetada y dummies  | EST 9                 |
+| `votaciones_sim/`        | Votaciones nominales simuladas de la Cámara de Diputados (257 × 15) · datos ficticios | EST 9                 |
 | `extras/`, `otros/`      | Datos auxiliares de ejercicios                                                        | varias                |
 
 Algunas unidades traen además su propia carpeta `data/` con el archivo puntual del ejemplo (por ejemplo `Salary_Data.csv` en EST 4 y `ejemplo_ponderacion.csv` en EST 7).
+
+> **Sobre `votaciones_sim/`**: los diputados y las votaciones son simulados con estructura
+> realista (siete bloques, dos dimensiones latentes, disciplina partidaria diferencial) y semilla
+> fija. El generador está documentado en `9.5.reglas-asociacion.ipynb`. Ninguna conclusión sobre
+> esos datos dice nada sobre la política argentina real.
 
 ---
 

@@ -1,0 +1,3856 @@
+diputado,bloque,proyecto,voto
+D000,Unión por la Patria,ley_bases,ausente
+D000,Unión por la Patria,reforma_laboral,contra
+D000,Unión por la Patria,presupuesto,contra
+D000,Unión por la Patria,privatizaciones,contra
+D000,Unión por la Patria,retenciones_agro,contra
+D000,Unión por la Patria,coparticipacion,contra
+D000,Unión por la Patria,obra_publica_prov,favor
+D000,Unión por la Patria,emergencia_jubilados,favor
+D000,Unión por la Patria,financiamiento_univ,favor
+D000,Unión por la Patria,salud_emergencia,favor
+D000,Unión por la Patria,boleta_unica,contra
+D000,Unión por la Patria,ficha_limpia,favor
+D000,Unión por la Patria,reforma_politica,favor
+D000,Unión por la Patria,dnu_delegadas,contra
+D000,Unión por la Patria,tarifas_energia,contra
+D001,Unión por la Patria,ley_bases,contra
+D001,Unión por la Patria,reforma_laboral,contra
+D001,Unión por la Patria,presupuesto,contra
+D001,Unión por la Patria,privatizaciones,contra
+D001,Unión por la Patria,retenciones_agro,favor
+D001,Unión por la Patria,coparticipacion,favor
+D001,Unión por la Patria,obra_publica_prov,favor
+D001,Unión por la Patria,emergencia_jubilados,ausente
+D001,Unión por la Patria,financiamiento_univ,favor
+D001,Unión por la Patria,salud_emergencia,favor
+D001,Unión por la Patria,boleta_unica,favor
+D001,Unión por la Patria,ficha_limpia,contra
+D001,Unión por la Patria,reforma_politica,favor
+D001,Unión por la Patria,dnu_delegadas,ausente
+D001,Unión por la Patria,tarifas_energia,contra
+D002,Unión por la Patria,ley_bases,contra
+D002,Unión por la Patria,reforma_laboral,contra
+D002,Unión por la Patria,presupuesto,contra
+D002,Unión por la Patria,privatizaciones,contra
+D002,Unión por la Patria,retenciones_agro,contra
+D002,Unión por la Patria,coparticipacion,favor
+D002,Unión por la Patria,obra_publica_prov,favor
+D002,Unión por la Patria,emergencia_jubilados,favor
+D002,Unión por la Patria,financiamiento_univ,favor
+D002,Unión por la Patria,salud_emergencia,favor
+D002,Unión por la Patria,boleta_unica,contra
+D002,Unión por la Patria,ficha_limpia,contra
+D002,Unión por la Patria,reforma_politica,contra
+D002,Unión por la Patria,dnu_delegadas,contra
+D002,Unión por la Patria,tarifas_energia,contra
+D003,Unión por la Patria,ley_bases,contra
+D003,Unión por la Patria,reforma_laboral,contra
+D003,Unión por la Patria,presupuesto,ausente
+D003,Unión por la Patria,privatizaciones,ausente
+D003,Unión por la Patria,retenciones_agro,contra
+D003,Unión por la Patria,coparticipacion,favor
+D003,Unión por la Patria,obra_publica_prov,favor
+D003,Unión por la Patria,emergencia_jubilados,favor
+D003,Unión por la Patria,financiamiento_univ,favor
+D003,Unión por la Patria,salud_emergencia,favor
+D003,Unión por la Patria,boleta_unica,favor
+D003,Unión por la Patria,ficha_limpia,ausente
+D003,Unión por la Patria,reforma_politica,contra
+D003,Unión por la Patria,dnu_delegadas,contra
+D003,Unión por la Patria,tarifas_energia,contra
+D004,Unión por la Patria,ley_bases,contra
+D004,Unión por la Patria,reforma_laboral,contra
+D004,Unión por la Patria,presupuesto,contra
+D004,Unión por la Patria,privatizaciones,contra
+D004,Unión por la Patria,retenciones_agro,contra
+D004,Unión por la Patria,coparticipacion,favor
+D004,Unión por la Patria,obra_publica_prov,favor
+D004,Unión por la Patria,emergencia_jubilados,favor
+D004,Unión por la Patria,financiamiento_univ,favor
+D004,Unión por la Patria,salud_emergencia,favor
+D004,Unión por la Patria,boleta_unica,favor
+D004,Unión por la Patria,ficha_limpia,contra
+D004,Unión por la Patria,reforma_politica,contra
+D004,Unión por la Patria,dnu_delegadas,contra
+D004,Unión por la Patria,tarifas_energia,contra
+D005,Unión por la Patria,ley_bases,contra
+D005,Unión por la Patria,reforma_laboral,contra
+D005,Unión por la Patria,presupuesto,contra
+D005,Unión por la Patria,privatizaciones,contra
+D005,Unión por la Patria,retenciones_agro,favor
+D005,Unión por la Patria,coparticipacion,favor
+D005,Unión por la Patria,obra_publica_prov,favor
+D005,Unión por la Patria,emergencia_jubilados,favor
+D005,Unión por la Patria,financiamiento_univ,favor
+D005,Unión por la Patria,salud_emergencia,favor
+D005,Unión por la Patria,boleta_unica,favor
+D005,Unión por la Patria,ficha_limpia,contra
+D005,Unión por la Patria,reforma_politica,favor
+D005,Unión por la Patria,dnu_delegadas,contra
+D005,Unión por la Patria,tarifas_energia,contra
+D006,Unión por la Patria,ley_bases,contra
+D006,Unión por la Patria,reforma_laboral,ausente
+D006,Unión por la Patria,presupuesto,contra
+D006,Unión por la Patria,privatizaciones,contra
+D006,Unión por la Patria,retenciones_agro,contra
+D006,Unión por la Patria,coparticipacion,favor
+D006,Unión por la Patria,obra_publica_prov,favor
+D006,Unión por la Patria,emergencia_jubilados,favor
+D006,Unión por la Patria,financiamiento_univ,favor
+D006,Unión por la Patria,salud_emergencia,ausente
+D006,Unión por la Patria,boleta_unica,contra
+D006,Unión por la Patria,ficha_limpia,favor
+D006,Unión por la Patria,reforma_politica,favor
+D006,Unión por la Patria,dnu_delegadas,contra
+D006,Unión por la Patria,tarifas_energia,ausente
+D007,Unión por la Patria,ley_bases,ausente
+D007,Unión por la Patria,reforma_laboral,contra
+D007,Unión por la Patria,presupuesto,contra
+D007,Unión por la Patria,privatizaciones,contra
+D007,Unión por la Patria,retenciones_agro,contra
+D007,Unión por la Patria,coparticipacion,contra
+D007,Unión por la Patria,obra_publica_prov,favor
+D007,Unión por la Patria,emergencia_jubilados,favor
+D007,Unión por la Patria,financiamiento_univ,favor
+D007,Unión por la Patria,salud_emergencia,favor
+D007,Unión por la Patria,boleta_unica,favor
+D007,Unión por la Patria,ficha_limpia,contra
+D007,Unión por la Patria,reforma_politica,ausente
+D007,Unión por la Patria,dnu_delegadas,contra
+D007,Unión por la Patria,tarifas_energia,contra
+D008,Unión por la Patria,ley_bases,contra
+D008,Unión por la Patria,reforma_laboral,contra
+D008,Unión por la Patria,presupuesto,favor
+D008,Unión por la Patria,privatizaciones,contra
+D008,Unión por la Patria,retenciones_agro,contra
+D008,Unión por la Patria,coparticipacion,favor
+D008,Unión por la Patria,obra_publica_prov,contra
+D008,Unión por la Patria,emergencia_jubilados,favor
+D008,Unión por la Patria,financiamiento_univ,favor
+D008,Unión por la Patria,salud_emergencia,favor
+D008,Unión por la Patria,boleta_unica,contra
+D008,Unión por la Patria,ficha_limpia,contra
+D008,Unión por la Patria,reforma_politica,contra
+D008,Unión por la Patria,dnu_delegadas,contra
+D008,Unión por la Patria,tarifas_energia,contra
+D009,Unión por la Patria,ley_bases,contra
+D009,Unión por la Patria,reforma_laboral,contra
+D009,Unión por la Patria,presupuesto,contra
+D009,Unión por la Patria,privatizaciones,contra
+D009,Unión por la Patria,retenciones_agro,contra
+D009,Unión por la Patria,coparticipacion,ausente
+D009,Unión por la Patria,obra_publica_prov,favor
+D009,Unión por la Patria,emergencia_jubilados,ausente
+D009,Unión por la Patria,financiamiento_univ,favor
+D009,Unión por la Patria,salud_emergencia,favor
+D009,Unión por la Patria,boleta_unica,favor
+D009,Unión por la Patria,ficha_limpia,favor
+D009,Unión por la Patria,reforma_politica,favor
+D009,Unión por la Patria,dnu_delegadas,contra
+D009,Unión por la Patria,tarifas_energia,contra
+D010,Unión por la Patria,ley_bases,contra
+D010,Unión por la Patria,reforma_laboral,contra
+D010,Unión por la Patria,presupuesto,contra
+D010,Unión por la Patria,privatizaciones,contra
+D010,Unión por la Patria,retenciones_agro,contra
+D010,Unión por la Patria,coparticipacion,contra
+D010,Unión por la Patria,obra_publica_prov,favor
+D010,Unión por la Patria,emergencia_jubilados,favor
+D010,Unión por la Patria,financiamiento_univ,favor
+D010,Unión por la Patria,salud_emergencia,favor
+D010,Unión por la Patria,boleta_unica,favor
+D010,Unión por la Patria,ficha_limpia,contra
+D010,Unión por la Patria,reforma_politica,contra
+D010,Unión por la Patria,dnu_delegadas,contra
+D010,Unión por la Patria,tarifas_energia,contra
+D011,Unión por la Patria,ley_bases,contra
+D011,Unión por la Patria,reforma_laboral,contra
+D011,Unión por la Patria,presupuesto,contra
+D011,Unión por la Patria,privatizaciones,favor
+D011,Unión por la Patria,retenciones_agro,favor
+D011,Unión por la Patria,coparticipacion,favor
+D011,Unión por la Patria,obra_publica_prov,favor
+D011,Unión por la Patria,emergencia_jubilados,favor
+D011,Unión por la Patria,financiamiento_univ,favor
+D011,Unión por la Patria,salud_emergencia,favor
+D011,Unión por la Patria,boleta_unica,favor
+D011,Unión por la Patria,ficha_limpia,contra
+D011,Unión por la Patria,reforma_politica,favor
+D011,Unión por la Patria,dnu_delegadas,contra
+D011,Unión por la Patria,tarifas_energia,contra
+D012,Unión por la Patria,ley_bases,contra
+D012,Unión por la Patria,reforma_laboral,contra
+D012,Unión por la Patria,presupuesto,contra
+D012,Unión por la Patria,privatizaciones,contra
+D012,Unión por la Patria,retenciones_agro,contra
+D012,Unión por la Patria,coparticipacion,contra
+D012,Unión por la Patria,obra_publica_prov,favor
+D012,Unión por la Patria,emergencia_jubilados,favor
+D012,Unión por la Patria,financiamiento_univ,favor
+D012,Unión por la Patria,salud_emergencia,favor
+D012,Unión por la Patria,boleta_unica,favor
+D012,Unión por la Patria,ficha_limpia,contra
+D012,Unión por la Patria,reforma_politica,favor
+D012,Unión por la Patria,dnu_delegadas,contra
+D012,Unión por la Patria,tarifas_energia,contra
+D013,Unión por la Patria,ley_bases,ausente
+D013,Unión por la Patria,reforma_laboral,contra
+D013,Unión por la Patria,presupuesto,contra
+D013,Unión por la Patria,privatizaciones,contra
+D013,Unión por la Patria,retenciones_agro,contra
+D013,Unión por la Patria,coparticipacion,favor
+D013,Unión por la Patria,obra_publica_prov,favor
+D013,Unión por la Patria,emergencia_jubilados,favor
+D013,Unión por la Patria,financiamiento_univ,favor
+D013,Unión por la Patria,salud_emergencia,favor
+D013,Unión por la Patria,boleta_unica,favor
+D013,Unión por la Patria,ficha_limpia,contra
+D013,Unión por la Patria,reforma_politica,favor
+D013,Unión por la Patria,dnu_delegadas,contra
+D013,Unión por la Patria,tarifas_energia,contra
+D014,Unión por la Patria,ley_bases,contra
+D014,Unión por la Patria,reforma_laboral,contra
+D014,Unión por la Patria,presupuesto,contra
+D014,Unión por la Patria,privatizaciones,contra
+D014,Unión por la Patria,retenciones_agro,contra
+D014,Unión por la Patria,coparticipacion,favor
+D014,Unión por la Patria,obra_publica_prov,favor
+D014,Unión por la Patria,emergencia_jubilados,favor
+D014,Unión por la Patria,financiamiento_univ,favor
+D014,Unión por la Patria,salud_emergencia,favor
+D014,Unión por la Patria,boleta_unica,favor
+D014,Unión por la Patria,ficha_limpia,contra
+D014,Unión por la Patria,reforma_politica,contra
+D014,Unión por la Patria,dnu_delegadas,contra
+D014,Unión por la Patria,tarifas_energia,contra
+D015,Unión por la Patria,ley_bases,contra
+D015,Unión por la Patria,reforma_laboral,contra
+D015,Unión por la Patria,presupuesto,contra
+D015,Unión por la Patria,privatizaciones,contra
+D015,Unión por la Patria,retenciones_agro,contra
+D015,Unión por la Patria,coparticipacion,favor
+D015,Unión por la Patria,obra_publica_prov,favor
+D015,Unión por la Patria,emergencia_jubilados,favor
+D015,Unión por la Patria,financiamiento_univ,favor
+D015,Unión por la Patria,salud_emergencia,ausente
+D015,Unión por la Patria,boleta_unica,favor
+D015,Unión por la Patria,ficha_limpia,favor
+D015,Unión por la Patria,reforma_politica,ausente
+D015,Unión por la Patria,dnu_delegadas,ausente
+D015,Unión por la Patria,tarifas_energia,contra
+D016,Unión por la Patria,ley_bases,contra
+D016,Unión por la Patria,reforma_laboral,ausente
+D016,Unión por la Patria,presupuesto,contra
+D016,Unión por la Patria,privatizaciones,contra
+D016,Unión por la Patria,retenciones_agro,contra
+D016,Unión por la Patria,coparticipacion,favor
+D016,Unión por la Patria,obra_publica_prov,favor
+D016,Unión por la Patria,emergencia_jubilados,favor
+D016,Unión por la Patria,financiamiento_univ,favor
+D016,Unión por la Patria,salud_emergencia,favor
+D016,Unión por la Patria,boleta_unica,contra
+D016,Unión por la Patria,ficha_limpia,favor
+D016,Unión por la Patria,reforma_politica,favor
+D016,Unión por la Patria,dnu_delegadas,favor
+D016,Unión por la Patria,tarifas_energia,contra
+D017,Unión por la Patria,ley_bases,contra
+D017,Unión por la Patria,reforma_laboral,contra
+D017,Unión por la Patria,presupuesto,ausente
+D017,Unión por la Patria,privatizaciones,contra
+D017,Unión por la Patria,retenciones_agro,contra
+D017,Unión por la Patria,coparticipacion,contra
+D017,Unión por la Patria,obra_publica_prov,favor
+D017,Unión por la Patria,emergencia_jubilados,favor
+D017,Unión por la Patria,financiamiento_univ,favor
+D017,Unión por la Patria,salud_emergencia,favor
+D017,Unión por la Patria,boleta_unica,contra
+D017,Unión por la Patria,ficha_limpia,favor
+D017,Unión por la Patria,reforma_politica,contra
+D017,Unión por la Patria,dnu_delegadas,contra
+D017,Unión por la Patria,tarifas_energia,contra
+D018,Unión por la Patria,ley_bases,contra
+D018,Unión por la Patria,reforma_laboral,contra
+D018,Unión por la Patria,presupuesto,contra
+D018,Unión por la Patria,privatizaciones,ausente
+D018,Unión por la Patria,retenciones_agro,contra
+D018,Unión por la Patria,coparticipacion,favor
+D018,Unión por la Patria,obra_publica_prov,favor
+D018,Unión por la Patria,emergencia_jubilados,favor
+D018,Unión por la Patria,financiamiento_univ,favor
+D018,Unión por la Patria,salud_emergencia,favor
+D018,Unión por la Patria,boleta_unica,favor
+D018,Unión por la Patria,ficha_limpia,favor
+D018,Unión por la Patria,reforma_politica,favor
+D018,Unión por la Patria,dnu_delegadas,contra
+D018,Unión por la Patria,tarifas_energia,contra
+D019,Unión por la Patria,ley_bases,contra
+D019,Unión por la Patria,reforma_laboral,contra
+D019,Unión por la Patria,presupuesto,contra
+D019,Unión por la Patria,privatizaciones,contra
+D019,Unión por la Patria,retenciones_agro,contra
+D019,Unión por la Patria,coparticipacion,favor
+D019,Unión por la Patria,obra_publica_prov,favor
+D019,Unión por la Patria,emergencia_jubilados,favor
+D019,Unión por la Patria,financiamiento_univ,favor
+D019,Unión por la Patria,salud_emergencia,ausente
+D019,Unión por la Patria,boleta_unica,favor
+D019,Unión por la Patria,ficha_limpia,favor
+D019,Unión por la Patria,reforma_politica,contra
+D019,Unión por la Patria,dnu_delegadas,contra
+D019,Unión por la Patria,tarifas_energia,contra
+D020,Unión por la Patria,ley_bases,contra
+D020,Unión por la Patria,reforma_laboral,contra
+D020,Unión por la Patria,presupuesto,contra
+D020,Unión por la Patria,privatizaciones,contra
+D020,Unión por la Patria,retenciones_agro,contra
+D020,Unión por la Patria,coparticipacion,favor
+D020,Unión por la Patria,obra_publica_prov,favor
+D020,Unión por la Patria,emergencia_jubilados,favor
+D020,Unión por la Patria,financiamiento_univ,favor
+D020,Unión por la Patria,salud_emergencia,favor
+D020,Unión por la Patria,boleta_unica,favor
+D020,Unión por la Patria,ficha_limpia,contra
+D020,Unión por la Patria,reforma_politica,favor
+D020,Unión por la Patria,dnu_delegadas,contra
+D020,Unión por la Patria,tarifas_energia,contra
+D021,Unión por la Patria,ley_bases,contra
+D021,Unión por la Patria,reforma_laboral,contra
+D021,Unión por la Patria,presupuesto,ausente
+D021,Unión por la Patria,privatizaciones,contra
+D021,Unión por la Patria,retenciones_agro,favor
+D021,Unión por la Patria,coparticipacion,favor
+D021,Unión por la Patria,obra_publica_prov,favor
+D021,Unión por la Patria,emergencia_jubilados,ausente
+D021,Unión por la Patria,financiamiento_univ,favor
+D021,Unión por la Patria,salud_emergencia,ausente
+D021,Unión por la Patria,boleta_unica,favor
+D021,Unión por la Patria,ficha_limpia,contra
+D021,Unión por la Patria,reforma_politica,contra
+D021,Unión por la Patria,dnu_delegadas,contra
+D021,Unión por la Patria,tarifas_energia,contra
+D022,Unión por la Patria,ley_bases,favor
+D022,Unión por la Patria,reforma_laboral,contra
+D022,Unión por la Patria,presupuesto,favor
+D022,Unión por la Patria,privatizaciones,contra
+D022,Unión por la Patria,retenciones_agro,contra
+D022,Unión por la Patria,coparticipacion,favor
+D022,Unión por la Patria,obra_publica_prov,favor
+D022,Unión por la Patria,emergencia_jubilados,favor
+D022,Unión por la Patria,financiamiento_univ,favor
+D022,Unión por la Patria,salud_emergencia,favor
+D022,Unión por la Patria,boleta_unica,favor
+D022,Unión por la Patria,ficha_limpia,favor
+D022,Unión por la Patria,reforma_politica,ausente
+D022,Unión por la Patria,dnu_delegadas,favor
+D022,Unión por la Patria,tarifas_energia,contra
+D023,Unión por la Patria,ley_bases,contra
+D023,Unión por la Patria,reforma_laboral,contra
+D023,Unión por la Patria,presupuesto,contra
+D023,Unión por la Patria,privatizaciones,contra
+D023,Unión por la Patria,retenciones_agro,contra
+D023,Unión por la Patria,coparticipacion,favor
+D023,Unión por la Patria,obra_publica_prov,ausente
+D023,Unión por la Patria,emergencia_jubilados,favor
+D023,Unión por la Patria,financiamiento_univ,favor
+D023,Unión por la Patria,salud_emergencia,ausente
+D023,Unión por la Patria,boleta_unica,favor
+D023,Unión por la Patria,ficha_limpia,contra
+D023,Unión por la Patria,reforma_politica,contra
+D023,Unión por la Patria,dnu_delegadas,contra
+D023,Unión por la Patria,tarifas_energia,contra
+D024,Unión por la Patria,ley_bases,contra
+D024,Unión por la Patria,reforma_laboral,contra
+D024,Unión por la Patria,presupuesto,contra
+D024,Unión por la Patria,privatizaciones,contra
+D024,Unión por la Patria,retenciones_agro,favor
+D024,Unión por la Patria,coparticipacion,favor
+D024,Unión por la Patria,obra_publica_prov,favor
+D024,Unión por la Patria,emergencia_jubilados,favor
+D024,Unión por la Patria,financiamiento_univ,favor
+D024,Unión por la Patria,salud_emergencia,favor
+D024,Unión por la Patria,boleta_unica,favor
+D024,Unión por la Patria,ficha_limpia,contra
+D024,Unión por la Patria,reforma_politica,contra
+D024,Unión por la Patria,dnu_delegadas,contra
+D024,Unión por la Patria,tarifas_energia,contra
+D025,Unión por la Patria,ley_bases,contra
+D025,Unión por la Patria,reforma_laboral,contra
+D025,Unión por la Patria,presupuesto,contra
+D025,Unión por la Patria,privatizaciones,contra
+D025,Unión por la Patria,retenciones_agro,contra
+D025,Unión por la Patria,coparticipacion,contra
+D025,Unión por la Patria,obra_publica_prov,favor
+D025,Unión por la Patria,emergencia_jubilados,favor
+D025,Unión por la Patria,financiamiento_univ,contra
+D025,Unión por la Patria,salud_emergencia,favor
+D025,Unión por la Patria,boleta_unica,favor
+D025,Unión por la Patria,ficha_limpia,contra
+D025,Unión por la Patria,reforma_politica,contra
+D025,Unión por la Patria,dnu_delegadas,contra
+D025,Unión por la Patria,tarifas_energia,contra
+D026,Unión por la Patria,ley_bases,contra
+D026,Unión por la Patria,reforma_laboral,contra
+D026,Unión por la Patria,presupuesto,contra
+D026,Unión por la Patria,privatizaciones,contra
+D026,Unión por la Patria,retenciones_agro,contra
+D026,Unión por la Patria,coparticipacion,favor
+D026,Unión por la Patria,obra_publica_prov,favor
+D026,Unión por la Patria,emergencia_jubilados,favor
+D026,Unión por la Patria,financiamiento_univ,favor
+D026,Unión por la Patria,salud_emergencia,favor
+D026,Unión por la Patria,boleta_unica,ausente
+D026,Unión por la Patria,ficha_limpia,contra
+D026,Unión por la Patria,reforma_politica,favor
+D026,Unión por la Patria,dnu_delegadas,contra
+D026,Unión por la Patria,tarifas_energia,contra
+D027,Unión por la Patria,ley_bases,contra
+D027,Unión por la Patria,reforma_laboral,contra
+D027,Unión por la Patria,presupuesto,contra
+D027,Unión por la Patria,privatizaciones,contra
+D027,Unión por la Patria,retenciones_agro,favor
+D027,Unión por la Patria,coparticipacion,favor
+D027,Unión por la Patria,obra_publica_prov,favor
+D027,Unión por la Patria,emergencia_jubilados,favor
+D027,Unión por la Patria,financiamiento_univ,favor
+D027,Unión por la Patria,salud_emergencia,favor
+D027,Unión por la Patria,boleta_unica,favor
+D027,Unión por la Patria,ficha_limpia,contra
+D027,Unión por la Patria,reforma_politica,contra
+D027,Unión por la Patria,dnu_delegadas,contra
+D027,Unión por la Patria,tarifas_energia,contra
+D028,Unión por la Patria,ley_bases,contra
+D028,Unión por la Patria,reforma_laboral,contra
+D028,Unión por la Patria,presupuesto,contra
+D028,Unión por la Patria,privatizaciones,ausente
+D028,Unión por la Patria,retenciones_agro,contra
+D028,Unión por la Patria,coparticipacion,favor
+D028,Unión por la Patria,obra_publica_prov,favor
+D028,Unión por la Patria,emergencia_jubilados,favor
+D028,Unión por la Patria,financiamiento_univ,favor
+D028,Unión por la Patria,salud_emergencia,favor
+D028,Unión por la Patria,boleta_unica,ausente
+D028,Unión por la Patria,ficha_limpia,favor
+D028,Unión por la Patria,reforma_politica,favor
+D028,Unión por la Patria,dnu_delegadas,contra
+D028,Unión por la Patria,tarifas_energia,ausente
+D029,Unión por la Patria,ley_bases,contra
+D029,Unión por la Patria,reforma_laboral,contra
+D029,Unión por la Patria,presupuesto,contra
+D029,Unión por la Patria,privatizaciones,contra
+D029,Unión por la Patria,retenciones_agro,contra
+D029,Unión por la Patria,coparticipacion,favor
+D029,Unión por la Patria,obra_publica_prov,favor
+D029,Unión por la Patria,emergencia_jubilados,favor
+D029,Unión por la Patria,financiamiento_univ,favor
+D029,Unión por la Patria,salud_emergencia,favor
+D029,Unión por la Patria,boleta_unica,favor
+D029,Unión por la Patria,ficha_limpia,contra
+D029,Unión por la Patria,reforma_politica,contra
+D029,Unión por la Patria,dnu_delegadas,contra
+D029,Unión por la Patria,tarifas_energia,contra
+D030,Unión por la Patria,ley_bases,contra
+D030,Unión por la Patria,reforma_laboral,ausente
+D030,Unión por la Patria,presupuesto,contra
+D030,Unión por la Patria,privatizaciones,contra
+D030,Unión por la Patria,retenciones_agro,contra
+D030,Unión por la Patria,coparticipacion,favor
+D030,Unión por la Patria,obra_publica_prov,ausente
+D030,Unión por la Patria,emergencia_jubilados,favor
+D030,Unión por la Patria,financiamiento_univ,favor
+D030,Unión por la Patria,salud_emergencia,favor
+D030,Unión por la Patria,boleta_unica,contra
+D030,Unión por la Patria,ficha_limpia,favor
+D030,Unión por la Patria,reforma_politica,contra
+D030,Unión por la Patria,dnu_delegadas,contra
+D030,Unión por la Patria,tarifas_energia,contra
+D031,Unión por la Patria,ley_bases,contra
+D031,Unión por la Patria,reforma_laboral,contra
+D031,Unión por la Patria,presupuesto,favor
+D031,Unión por la Patria,privatizaciones,contra
+D031,Unión por la Patria,retenciones_agro,contra
+D031,Unión por la Patria,coparticipacion,favor
+D031,Unión por la Patria,obra_publica_prov,favor
+D031,Unión por la Patria,emergencia_jubilados,ausente
+D031,Unión por la Patria,financiamiento_univ,favor
+D031,Unión por la Patria,salud_emergencia,favor
+D031,Unión por la Patria,boleta_unica,contra
+D031,Unión por la Patria,ficha_limpia,favor
+D031,Unión por la Patria,reforma_politica,ausente
+D031,Unión por la Patria,dnu_delegadas,contra
+D031,Unión por la Patria,tarifas_energia,contra
+D032,Unión por la Patria,ley_bases,contra
+D032,Unión por la Patria,reforma_laboral,contra
+D032,Unión por la Patria,presupuesto,contra
+D032,Unión por la Patria,privatizaciones,contra
+D032,Unión por la Patria,retenciones_agro,contra
+D032,Unión por la Patria,coparticipacion,favor
+D032,Unión por la Patria,obra_publica_prov,favor
+D032,Unión por la Patria,emergencia_jubilados,favor
+D032,Unión por la Patria,financiamiento_univ,favor
+D032,Unión por la Patria,salud_emergencia,ausente
+D032,Unión por la Patria,boleta_unica,favor
+D032,Unión por la Patria,ficha_limpia,favor
+D032,Unión por la Patria,reforma_politica,contra
+D032,Unión por la Patria,dnu_delegadas,contra
+D032,Unión por la Patria,tarifas_energia,contra
+D033,Unión por la Patria,ley_bases,contra
+D033,Unión por la Patria,reforma_laboral,contra
+D033,Unión por la Patria,presupuesto,contra
+D033,Unión por la Patria,privatizaciones,contra
+D033,Unión por la Patria,retenciones_agro,favor
+D033,Unión por la Patria,coparticipacion,contra
+D033,Unión por la Patria,obra_publica_prov,favor
+D033,Unión por la Patria,emergencia_jubilados,favor
+D033,Unión por la Patria,financiamiento_univ,favor
+D033,Unión por la Patria,salud_emergencia,contra
+D033,Unión por la Patria,boleta_unica,favor
+D033,Unión por la Patria,ficha_limpia,contra
+D033,Unión por la Patria,reforma_politica,favor
+D033,Unión por la Patria,dnu_delegadas,contra
+D033,Unión por la Patria,tarifas_energia,contra
+D034,Unión por la Patria,ley_bases,contra
+D034,Unión por la Patria,reforma_laboral,contra
+D034,Unión por la Patria,presupuesto,contra
+D034,Unión por la Patria,privatizaciones,contra
+D034,Unión por la Patria,retenciones_agro,contra
+D034,Unión por la Patria,coparticipacion,ausente
+D034,Unión por la Patria,obra_publica_prov,favor
+D034,Unión por la Patria,emergencia_jubilados,favor
+D034,Unión por la Patria,financiamiento_univ,ausente
+D034,Unión por la Patria,salud_emergencia,favor
+D034,Unión por la Patria,boleta_unica,favor
+D034,Unión por la Patria,ficha_limpia,favor
+D034,Unión por la Patria,reforma_politica,favor
+D034,Unión por la Patria,dnu_delegadas,contra
+D034,Unión por la Patria,tarifas_energia,contra
+D035,Unión por la Patria,ley_bases,contra
+D035,Unión por la Patria,reforma_laboral,contra
+D035,Unión por la Patria,presupuesto,contra
+D035,Unión por la Patria,privatizaciones,contra
+D035,Unión por la Patria,retenciones_agro,contra
+D035,Unión por la Patria,coparticipacion,favor
+D035,Unión por la Patria,obra_publica_prov,favor
+D035,Unión por la Patria,emergencia_jubilados,favor
+D035,Unión por la Patria,financiamiento_univ,favor
+D035,Unión por la Patria,salud_emergencia,ausente
+D035,Unión por la Patria,boleta_unica,contra
+D035,Unión por la Patria,ficha_limpia,favor
+D035,Unión por la Patria,reforma_politica,contra
+D035,Unión por la Patria,dnu_delegadas,contra
+D035,Unión por la Patria,tarifas_energia,contra
+D036,Unión por la Patria,ley_bases,contra
+D036,Unión por la Patria,reforma_laboral,contra
+D036,Unión por la Patria,presupuesto,contra
+D036,Unión por la Patria,privatizaciones,contra
+D036,Unión por la Patria,retenciones_agro,contra
+D036,Unión por la Patria,coparticipacion,favor
+D036,Unión por la Patria,obra_publica_prov,favor
+D036,Unión por la Patria,emergencia_jubilados,favor
+D036,Unión por la Patria,financiamiento_univ,favor
+D036,Unión por la Patria,salud_emergencia,favor
+D036,Unión por la Patria,boleta_unica,favor
+D036,Unión por la Patria,ficha_limpia,favor
+D036,Unión por la Patria,reforma_politica,contra
+D036,Unión por la Patria,dnu_delegadas,contra
+D036,Unión por la Patria,tarifas_energia,contra
+D037,Unión por la Patria,ley_bases,contra
+D037,Unión por la Patria,reforma_laboral,contra
+D037,Unión por la Patria,presupuesto,contra
+D037,Unión por la Patria,privatizaciones,contra
+D037,Unión por la Patria,retenciones_agro,contra
+D037,Unión por la Patria,coparticipacion,ausente
+D037,Unión por la Patria,obra_publica_prov,favor
+D037,Unión por la Patria,emergencia_jubilados,favor
+D037,Unión por la Patria,financiamiento_univ,favor
+D037,Unión por la Patria,salud_emergencia,favor
+D037,Unión por la Patria,boleta_unica,contra
+D037,Unión por la Patria,ficha_limpia,favor
+D037,Unión por la Patria,reforma_politica,contra
+D037,Unión por la Patria,dnu_delegadas,contra
+D037,Unión por la Patria,tarifas_energia,contra
+D038,Unión por la Patria,ley_bases,contra
+D038,Unión por la Patria,reforma_laboral,ausente
+D038,Unión por la Patria,presupuesto,favor
+D038,Unión por la Patria,privatizaciones,contra
+D038,Unión por la Patria,retenciones_agro,contra
+D038,Unión por la Patria,coparticipacion,favor
+D038,Unión por la Patria,obra_publica_prov,contra
+D038,Unión por la Patria,emergencia_jubilados,favor
+D038,Unión por la Patria,financiamiento_univ,favor
+D038,Unión por la Patria,salud_emergencia,favor
+D038,Unión por la Patria,boleta_unica,favor
+D038,Unión por la Patria,ficha_limpia,contra
+D038,Unión por la Patria,reforma_politica,favor
+D038,Unión por la Patria,dnu_delegadas,contra
+D038,Unión por la Patria,tarifas_energia,contra
+D039,Unión por la Patria,ley_bases,contra
+D039,Unión por la Patria,reforma_laboral,contra
+D039,Unión por la Patria,presupuesto,contra
+D039,Unión por la Patria,privatizaciones,contra
+D039,Unión por la Patria,retenciones_agro,contra
+D039,Unión por la Patria,coparticipacion,favor
+D039,Unión por la Patria,obra_publica_prov,favor
+D039,Unión por la Patria,emergencia_jubilados,favor
+D039,Unión por la Patria,financiamiento_univ,favor
+D039,Unión por la Patria,salud_emergencia,favor
+D039,Unión por la Patria,boleta_unica,contra
+D039,Unión por la Patria,ficha_limpia,contra
+D039,Unión por la Patria,reforma_politica,contra
+D039,Unión por la Patria,dnu_delegadas,contra
+D039,Unión por la Patria,tarifas_energia,contra
+D040,Unión por la Patria,ley_bases,contra
+D040,Unión por la Patria,reforma_laboral,contra
+D040,Unión por la Patria,presupuesto,contra
+D040,Unión por la Patria,privatizaciones,contra
+D040,Unión por la Patria,retenciones_agro,ausente
+D040,Unión por la Patria,coparticipacion,contra
+D040,Unión por la Patria,obra_publica_prov,favor
+D040,Unión por la Patria,emergencia_jubilados,favor
+D040,Unión por la Patria,financiamiento_univ,favor
+D040,Unión por la Patria,salud_emergencia,favor
+D040,Unión por la Patria,boleta_unica,favor
+D040,Unión por la Patria,ficha_limpia,favor
+D040,Unión por la Patria,reforma_politica,contra
+D040,Unión por la Patria,dnu_delegadas,contra
+D040,Unión por la Patria,tarifas_energia,contra
+D041,Unión por la Patria,ley_bases,contra
+D041,Unión por la Patria,reforma_laboral,contra
+D041,Unión por la Patria,presupuesto,favor
+D041,Unión por la Patria,privatizaciones,contra
+D041,Unión por la Patria,retenciones_agro,contra
+D041,Unión por la Patria,coparticipacion,favor
+D041,Unión por la Patria,obra_publica_prov,favor
+D041,Unión por la Patria,emergencia_jubilados,favor
+D041,Unión por la Patria,financiamiento_univ,favor
+D041,Unión por la Patria,salud_emergencia,favor
+D041,Unión por la Patria,boleta_unica,favor
+D041,Unión por la Patria,ficha_limpia,contra
+D041,Unión por la Patria,reforma_politica,favor
+D041,Unión por la Patria,dnu_delegadas,contra
+D041,Unión por la Patria,tarifas_energia,contra
+D042,Unión por la Patria,ley_bases,contra
+D042,Unión por la Patria,reforma_laboral,contra
+D042,Unión por la Patria,presupuesto,contra
+D042,Unión por la Patria,privatizaciones,contra
+D042,Unión por la Patria,retenciones_agro,contra
+D042,Unión por la Patria,coparticipacion,favor
+D042,Unión por la Patria,obra_publica_prov,favor
+D042,Unión por la Patria,emergencia_jubilados,favor
+D042,Unión por la Patria,financiamiento_univ,favor
+D042,Unión por la Patria,salud_emergencia,ausente
+D042,Unión por la Patria,boleta_unica,favor
+D042,Unión por la Patria,ficha_limpia,ausente
+D042,Unión por la Patria,reforma_politica,contra
+D042,Unión por la Patria,dnu_delegadas,contra
+D042,Unión por la Patria,tarifas_energia,contra
+D043,Unión por la Patria,ley_bases,contra
+D043,Unión por la Patria,reforma_laboral,contra
+D043,Unión por la Patria,presupuesto,contra
+D043,Unión por la Patria,privatizaciones,contra
+D043,Unión por la Patria,retenciones_agro,contra
+D043,Unión por la Patria,coparticipacion,favor
+D043,Unión por la Patria,obra_publica_prov,favor
+D043,Unión por la Patria,emergencia_jubilados,favor
+D043,Unión por la Patria,financiamiento_univ,favor
+D043,Unión por la Patria,salud_emergencia,favor
+D043,Unión por la Patria,boleta_unica,contra
+D043,Unión por la Patria,ficha_limpia,contra
+D043,Unión por la Patria,reforma_politica,contra
+D043,Unión por la Patria,dnu_delegadas,contra
+D043,Unión por la Patria,tarifas_energia,contra
+D044,Unión por la Patria,ley_bases,contra
+D044,Unión por la Patria,reforma_laboral,contra
+D044,Unión por la Patria,presupuesto,favor
+D044,Unión por la Patria,privatizaciones,contra
+D044,Unión por la Patria,retenciones_agro,contra
+D044,Unión por la Patria,coparticipacion,favor
+D044,Unión por la Patria,obra_publica_prov,favor
+D044,Unión por la Patria,emergencia_jubilados,favor
+D044,Unión por la Patria,financiamiento_univ,favor
+D044,Unión por la Patria,salud_emergencia,ausente
+D044,Unión por la Patria,boleta_unica,favor
+D044,Unión por la Patria,ficha_limpia,contra
+D044,Unión por la Patria,reforma_politica,favor
+D044,Unión por la Patria,dnu_delegadas,contra
+D044,Unión por la Patria,tarifas_energia,contra
+D045,Unión por la Patria,ley_bases,contra
+D045,Unión por la Patria,reforma_laboral,contra
+D045,Unión por la Patria,presupuesto,contra
+D045,Unión por la Patria,privatizaciones,contra
+D045,Unión por la Patria,retenciones_agro,contra
+D045,Unión por la Patria,coparticipacion,favor
+D045,Unión por la Patria,obra_publica_prov,favor
+D045,Unión por la Patria,emergencia_jubilados,favor
+D045,Unión por la Patria,financiamiento_univ,favor
+D045,Unión por la Patria,salud_emergencia,favor
+D045,Unión por la Patria,boleta_unica,contra
+D045,Unión por la Patria,ficha_limpia,favor
+D045,Unión por la Patria,reforma_politica,contra
+D045,Unión por la Patria,dnu_delegadas,contra
+D045,Unión por la Patria,tarifas_energia,contra
+D046,Unión por la Patria,ley_bases,contra
+D046,Unión por la Patria,reforma_laboral,contra
+D046,Unión por la Patria,presupuesto,contra
+D046,Unión por la Patria,privatizaciones,contra
+D046,Unión por la Patria,retenciones_agro,contra
+D046,Unión por la Patria,coparticipacion,favor
+D046,Unión por la Patria,obra_publica_prov,favor
+D046,Unión por la Patria,emergencia_jubilados,favor
+D046,Unión por la Patria,financiamiento_univ,favor
+D046,Unión por la Patria,salud_emergencia,favor
+D046,Unión por la Patria,boleta_unica,ausente
+D046,Unión por la Patria,ficha_limpia,favor
+D046,Unión por la Patria,reforma_politica,contra
+D046,Unión por la Patria,dnu_delegadas,contra
+D046,Unión por la Patria,tarifas_energia,contra
+D047,Unión por la Patria,ley_bases,contra
+D047,Unión por la Patria,reforma_laboral,contra
+D047,Unión por la Patria,presupuesto,contra
+D047,Unión por la Patria,privatizaciones,contra
+D047,Unión por la Patria,retenciones_agro,contra
+D047,Unión por la Patria,coparticipacion,ausente
+D047,Unión por la Patria,obra_publica_prov,favor
+D047,Unión por la Patria,emergencia_jubilados,contra
+D047,Unión por la Patria,financiamiento_univ,favor
+D047,Unión por la Patria,salud_emergencia,favor
+D047,Unión por la Patria,boleta_unica,contra
+D047,Unión por la Patria,ficha_limpia,contra
+D047,Unión por la Patria,reforma_politica,favor
+D047,Unión por la Patria,dnu_delegadas,contra
+D047,Unión por la Patria,tarifas_energia,contra
+D048,Unión por la Patria,ley_bases,contra
+D048,Unión por la Patria,reforma_laboral,ausente
+D048,Unión por la Patria,presupuesto,contra
+D048,Unión por la Patria,privatizaciones,contra
+D048,Unión por la Patria,retenciones_agro,contra
+D048,Unión por la Patria,coparticipacion,favor
+D048,Unión por la Patria,obra_publica_prov,favor
+D048,Unión por la Patria,emergencia_jubilados,favor
+D048,Unión por la Patria,financiamiento_univ,favor
+D048,Unión por la Patria,salud_emergencia,favor
+D048,Unión por la Patria,boleta_unica,ausente
+D048,Unión por la Patria,ficha_limpia,contra
+D048,Unión por la Patria,reforma_politica,favor
+D048,Unión por la Patria,dnu_delegadas,contra
+D048,Unión por la Patria,tarifas_energia,favor
+D049,Unión por la Patria,ley_bases,ausente
+D049,Unión por la Patria,reforma_laboral,contra
+D049,Unión por la Patria,presupuesto,contra
+D049,Unión por la Patria,privatizaciones,contra
+D049,Unión por la Patria,retenciones_agro,contra
+D049,Unión por la Patria,coparticipacion,ausente
+D049,Unión por la Patria,obra_publica_prov,favor
+D049,Unión por la Patria,emergencia_jubilados,favor
+D049,Unión por la Patria,financiamiento_univ,favor
+D049,Unión por la Patria,salud_emergencia,favor
+D049,Unión por la Patria,boleta_unica,favor
+D049,Unión por la Patria,ficha_limpia,favor
+D049,Unión por la Patria,reforma_politica,contra
+D049,Unión por la Patria,dnu_delegadas,contra
+D049,Unión por la Patria,tarifas_energia,contra
+D050,Unión por la Patria,ley_bases,contra
+D050,Unión por la Patria,reforma_laboral,contra
+D050,Unión por la Patria,presupuesto,favor
+D050,Unión por la Patria,privatizaciones,contra
+D050,Unión por la Patria,retenciones_agro,contra
+D050,Unión por la Patria,coparticipacion,favor
+D050,Unión por la Patria,obra_publica_prov,favor
+D050,Unión por la Patria,emergencia_jubilados,favor
+D050,Unión por la Patria,financiamiento_univ,favor
+D050,Unión por la Patria,salud_emergencia,favor
+D050,Unión por la Patria,boleta_unica,contra
+D050,Unión por la Patria,ficha_limpia,favor
+D050,Unión por la Patria,reforma_politica,favor
+D050,Unión por la Patria,dnu_delegadas,contra
+D050,Unión por la Patria,tarifas_energia,contra
+D051,Unión por la Patria,ley_bases,contra
+D051,Unión por la Patria,reforma_laboral,contra
+D051,Unión por la Patria,presupuesto,contra
+D051,Unión por la Patria,privatizaciones,contra
+D051,Unión por la Patria,retenciones_agro,favor
+D051,Unión por la Patria,coparticipacion,ausente
+D051,Unión por la Patria,obra_publica_prov,favor
+D051,Unión por la Patria,emergencia_jubilados,favor
+D051,Unión por la Patria,financiamiento_univ,favor
+D051,Unión por la Patria,salud_emergencia,favor
+D051,Unión por la Patria,boleta_unica,contra
+D051,Unión por la Patria,ficha_limpia,favor
+D051,Unión por la Patria,reforma_politica,contra
+D051,Unión por la Patria,dnu_delegadas,contra
+D051,Unión por la Patria,tarifas_energia,ausente
+D052,Unión por la Patria,ley_bases,contra
+D052,Unión por la Patria,reforma_laboral,contra
+D052,Unión por la Patria,presupuesto,contra
+D052,Unión por la Patria,privatizaciones,contra
+D052,Unión por la Patria,retenciones_agro,contra
+D052,Unión por la Patria,coparticipacion,favor
+D052,Unión por la Patria,obra_publica_prov,favor
+D052,Unión por la Patria,emergencia_jubilados,ausente
+D052,Unión por la Patria,financiamiento_univ,favor
+D052,Unión por la Patria,salud_emergencia,contra
+D052,Unión por la Patria,boleta_unica,contra
+D052,Unión por la Patria,ficha_limpia,favor
+D052,Unión por la Patria,reforma_politica,favor
+D052,Unión por la Patria,dnu_delegadas,contra
+D052,Unión por la Patria,tarifas_energia,contra
+D053,Unión por la Patria,ley_bases,contra
+D053,Unión por la Patria,reforma_laboral,contra
+D053,Unión por la Patria,presupuesto,contra
+D053,Unión por la Patria,privatizaciones,contra
+D053,Unión por la Patria,retenciones_agro,ausente
+D053,Unión por la Patria,coparticipacion,contra
+D053,Unión por la Patria,obra_publica_prov,contra
+D053,Unión por la Patria,emergencia_jubilados,favor
+D053,Unión por la Patria,financiamiento_univ,favor
+D053,Unión por la Patria,salud_emergencia,favor
+D053,Unión por la Patria,boleta_unica,favor
+D053,Unión por la Patria,ficha_limpia,favor
+D053,Unión por la Patria,reforma_politica,contra
+D053,Unión por la Patria,dnu_delegadas,contra
+D053,Unión por la Patria,tarifas_energia,contra
+D054,Unión por la Patria,ley_bases,contra
+D054,Unión por la Patria,reforma_laboral,contra
+D054,Unión por la Patria,presupuesto,contra
+D054,Unión por la Patria,privatizaciones,contra
+D054,Unión por la Patria,retenciones_agro,contra
+D054,Unión por la Patria,coparticipacion,favor
+D054,Unión por la Patria,obra_publica_prov,favor
+D054,Unión por la Patria,emergencia_jubilados,ausente
+D054,Unión por la Patria,financiamiento_univ,favor
+D054,Unión por la Patria,salud_emergencia,favor
+D054,Unión por la Patria,boleta_unica,contra
+D054,Unión por la Patria,ficha_limpia,contra
+D054,Unión por la Patria,reforma_politica,contra
+D054,Unión por la Patria,dnu_delegadas,contra
+D054,Unión por la Patria,tarifas_energia,favor
+D055,Unión por la Patria,ley_bases,contra
+D055,Unión por la Patria,reforma_laboral,contra
+D055,Unión por la Patria,presupuesto,contra
+D055,Unión por la Patria,privatizaciones,contra
+D055,Unión por la Patria,retenciones_agro,contra
+D055,Unión por la Patria,coparticipacion,favor
+D055,Unión por la Patria,obra_publica_prov,favor
+D055,Unión por la Patria,emergencia_jubilados,favor
+D055,Unión por la Patria,financiamiento_univ,favor
+D055,Unión por la Patria,salud_emergencia,favor
+D055,Unión por la Patria,boleta_unica,favor
+D055,Unión por la Patria,ficha_limpia,favor
+D055,Unión por la Patria,reforma_politica,favor
+D055,Unión por la Patria,dnu_delegadas,contra
+D055,Unión por la Patria,tarifas_energia,contra
+D056,Unión por la Patria,ley_bases,contra
+D056,Unión por la Patria,reforma_laboral,contra
+D056,Unión por la Patria,presupuesto,contra
+D056,Unión por la Patria,privatizaciones,contra
+D056,Unión por la Patria,retenciones_agro,favor
+D056,Unión por la Patria,coparticipacion,favor
+D056,Unión por la Patria,obra_publica_prov,favor
+D056,Unión por la Patria,emergencia_jubilados,ausente
+D056,Unión por la Patria,financiamiento_univ,favor
+D056,Unión por la Patria,salud_emergencia,favor
+D056,Unión por la Patria,boleta_unica,favor
+D056,Unión por la Patria,ficha_limpia,contra
+D056,Unión por la Patria,reforma_politica,contra
+D056,Unión por la Patria,dnu_delegadas,contra
+D056,Unión por la Patria,tarifas_energia,contra
+D057,Unión por la Patria,ley_bases,contra
+D057,Unión por la Patria,reforma_laboral,contra
+D057,Unión por la Patria,presupuesto,contra
+D057,Unión por la Patria,privatizaciones,contra
+D057,Unión por la Patria,retenciones_agro,favor
+D057,Unión por la Patria,coparticipacion,favor
+D057,Unión por la Patria,obra_publica_prov,contra
+D057,Unión por la Patria,emergencia_jubilados,favor
+D057,Unión por la Patria,financiamiento_univ,ausente
+D057,Unión por la Patria,salud_emergencia,favor
+D057,Unión por la Patria,boleta_unica,favor
+D057,Unión por la Patria,ficha_limpia,favor
+D057,Unión por la Patria,reforma_politica,contra
+D057,Unión por la Patria,dnu_delegadas,contra
+D057,Unión por la Patria,tarifas_energia,contra
+D058,Unión por la Patria,ley_bases,contra
+D058,Unión por la Patria,reforma_laboral,contra
+D058,Unión por la Patria,presupuesto,ausente
+D058,Unión por la Patria,privatizaciones,contra
+D058,Unión por la Patria,retenciones_agro,contra
+D058,Unión por la Patria,coparticipacion,contra
+D058,Unión por la Patria,obra_publica_prov,favor
+D058,Unión por la Patria,emergencia_jubilados,favor
+D058,Unión por la Patria,financiamiento_univ,favor
+D058,Unión por la Patria,salud_emergencia,favor
+D058,Unión por la Patria,boleta_unica,favor
+D058,Unión por la Patria,ficha_limpia,contra
+D058,Unión por la Patria,reforma_politica,contra
+D058,Unión por la Patria,dnu_delegadas,contra
+D058,Unión por la Patria,tarifas_energia,contra
+D059,Unión por la Patria,ley_bases,contra
+D059,Unión por la Patria,reforma_laboral,contra
+D059,Unión por la Patria,presupuesto,contra
+D059,Unión por la Patria,privatizaciones,contra
+D059,Unión por la Patria,retenciones_agro,contra
+D059,Unión por la Patria,coparticipacion,favor
+D059,Unión por la Patria,obra_publica_prov,favor
+D059,Unión por la Patria,emergencia_jubilados,favor
+D059,Unión por la Patria,financiamiento_univ,favor
+D059,Unión por la Patria,salud_emergencia,favor
+D059,Unión por la Patria,boleta_unica,contra
+D059,Unión por la Patria,ficha_limpia,ausente
+D059,Unión por la Patria,reforma_politica,contra
+D059,Unión por la Patria,dnu_delegadas,contra
+D059,Unión por la Patria,tarifas_energia,contra
+D060,Unión por la Patria,ley_bases,favor
+D060,Unión por la Patria,reforma_laboral,contra
+D060,Unión por la Patria,presupuesto,contra
+D060,Unión por la Patria,privatizaciones,contra
+D060,Unión por la Patria,retenciones_agro,contra
+D060,Unión por la Patria,coparticipacion,favor
+D060,Unión por la Patria,obra_publica_prov,favor
+D060,Unión por la Patria,emergencia_jubilados,favor
+D060,Unión por la Patria,financiamiento_univ,favor
+D060,Unión por la Patria,salud_emergencia,favor
+D060,Unión por la Patria,boleta_unica,contra
+D060,Unión por la Patria,ficha_limpia,favor
+D060,Unión por la Patria,reforma_politica,contra
+D060,Unión por la Patria,dnu_delegadas,contra
+D060,Unión por la Patria,tarifas_energia,contra
+D061,Unión por la Patria,ley_bases,contra
+D061,Unión por la Patria,reforma_laboral,contra
+D061,Unión por la Patria,presupuesto,contra
+D061,Unión por la Patria,privatizaciones,contra
+D061,Unión por la Patria,retenciones_agro,contra
+D061,Unión por la Patria,coparticipacion,favor
+D061,Unión por la Patria,obra_publica_prov,favor
+D061,Unión por la Patria,emergencia_jubilados,contra
+D061,Unión por la Patria,financiamiento_univ,ausente
+D061,Unión por la Patria,salud_emergencia,favor
+D061,Unión por la Patria,boleta_unica,favor
+D061,Unión por la Patria,ficha_limpia,contra
+D061,Unión por la Patria,reforma_politica,favor
+D061,Unión por la Patria,dnu_delegadas,contra
+D061,Unión por la Patria,tarifas_energia,contra
+D062,Unión por la Patria,ley_bases,contra
+D062,Unión por la Patria,reforma_laboral,favor
+D062,Unión por la Patria,presupuesto,favor
+D062,Unión por la Patria,privatizaciones,contra
+D062,Unión por la Patria,retenciones_agro,contra
+D062,Unión por la Patria,coparticipacion,favor
+D062,Unión por la Patria,obra_publica_prov,favor
+D062,Unión por la Patria,emergencia_jubilados,favor
+D062,Unión por la Patria,financiamiento_univ,favor
+D062,Unión por la Patria,salud_emergencia,favor
+D062,Unión por la Patria,boleta_unica,favor
+D062,Unión por la Patria,ficha_limpia,favor
+D062,Unión por la Patria,reforma_politica,favor
+D062,Unión por la Patria,dnu_delegadas,contra
+D062,Unión por la Patria,tarifas_energia,contra
+D063,Unión por la Patria,ley_bases,contra
+D063,Unión por la Patria,reforma_laboral,contra
+D063,Unión por la Patria,presupuesto,contra
+D063,Unión por la Patria,privatizaciones,contra
+D063,Unión por la Patria,retenciones_agro,contra
+D063,Unión por la Patria,coparticipacion,favor
+D063,Unión por la Patria,obra_publica_prov,favor
+D063,Unión por la Patria,emergencia_jubilados,favor
+D063,Unión por la Patria,financiamiento_univ,favor
+D063,Unión por la Patria,salud_emergencia,favor
+D063,Unión por la Patria,boleta_unica,favor
+D063,Unión por la Patria,ficha_limpia,favor
+D063,Unión por la Patria,reforma_politica,contra
+D063,Unión por la Patria,dnu_delegadas,contra
+D063,Unión por la Patria,tarifas_energia,contra
+D064,Unión por la Patria,ley_bases,contra
+D064,Unión por la Patria,reforma_laboral,contra
+D064,Unión por la Patria,presupuesto,ausente
+D064,Unión por la Patria,privatizaciones,contra
+D064,Unión por la Patria,retenciones_agro,contra
+D064,Unión por la Patria,coparticipacion,favor
+D064,Unión por la Patria,obra_publica_prov,favor
+D064,Unión por la Patria,emergencia_jubilados,favor
+D064,Unión por la Patria,financiamiento_univ,favor
+D064,Unión por la Patria,salud_emergencia,favor
+D064,Unión por la Patria,boleta_unica,contra
+D064,Unión por la Patria,ficha_limpia,favor
+D064,Unión por la Patria,reforma_politica,contra
+D064,Unión por la Patria,dnu_delegadas,contra
+D064,Unión por la Patria,tarifas_energia,ausente
+D065,Unión por la Patria,ley_bases,contra
+D065,Unión por la Patria,reforma_laboral,contra
+D065,Unión por la Patria,presupuesto,contra
+D065,Unión por la Patria,privatizaciones,contra
+D065,Unión por la Patria,retenciones_agro,contra
+D065,Unión por la Patria,coparticipacion,favor
+D065,Unión por la Patria,obra_publica_prov,favor
+D065,Unión por la Patria,emergencia_jubilados,favor
+D065,Unión por la Patria,financiamiento_univ,favor
+D065,Unión por la Patria,salud_emergencia,favor
+D065,Unión por la Patria,boleta_unica,favor
+D065,Unión por la Patria,ficha_limpia,contra
+D065,Unión por la Patria,reforma_politica,favor
+D065,Unión por la Patria,dnu_delegadas,contra
+D065,Unión por la Patria,tarifas_energia,contra
+D066,Unión por la Patria,ley_bases,contra
+D066,Unión por la Patria,reforma_laboral,contra
+D066,Unión por la Patria,presupuesto,contra
+D066,Unión por la Patria,privatizaciones,ausente
+D066,Unión por la Patria,retenciones_agro,contra
+D066,Unión por la Patria,coparticipacion,favor
+D066,Unión por la Patria,obra_publica_prov,favor
+D066,Unión por la Patria,emergencia_jubilados,favor
+D066,Unión por la Patria,financiamiento_univ,ausente
+D066,Unión por la Patria,salud_emergencia,favor
+D066,Unión por la Patria,boleta_unica,favor
+D066,Unión por la Patria,ficha_limpia,ausente
+D066,Unión por la Patria,reforma_politica,favor
+D066,Unión por la Patria,dnu_delegadas,contra
+D066,Unión por la Patria,tarifas_energia,contra
+D067,Unión por la Patria,ley_bases,contra
+D067,Unión por la Patria,reforma_laboral,contra
+D067,Unión por la Patria,presupuesto,contra
+D067,Unión por la Patria,privatizaciones,contra
+D067,Unión por la Patria,retenciones_agro,contra
+D067,Unión por la Patria,coparticipacion,favor
+D067,Unión por la Patria,obra_publica_prov,favor
+D067,Unión por la Patria,emergencia_jubilados,favor
+D067,Unión por la Patria,financiamiento_univ,favor
+D067,Unión por la Patria,salud_emergencia,favor
+D067,Unión por la Patria,boleta_unica,favor
+D067,Unión por la Patria,ficha_limpia,favor
+D067,Unión por la Patria,reforma_politica,favor
+D067,Unión por la Patria,dnu_delegadas,contra
+D067,Unión por la Patria,tarifas_energia,contra
+D068,Unión por la Patria,ley_bases,contra
+D068,Unión por la Patria,reforma_laboral,contra
+D068,Unión por la Patria,presupuesto,contra
+D068,Unión por la Patria,privatizaciones,contra
+D068,Unión por la Patria,retenciones_agro,contra
+D068,Unión por la Patria,coparticipacion,contra
+D068,Unión por la Patria,obra_publica_prov,favor
+D068,Unión por la Patria,emergencia_jubilados,favor
+D068,Unión por la Patria,financiamiento_univ,ausente
+D068,Unión por la Patria,salud_emergencia,favor
+D068,Unión por la Patria,boleta_unica,favor
+D068,Unión por la Patria,ficha_limpia,favor
+D068,Unión por la Patria,reforma_politica,contra
+D068,Unión por la Patria,dnu_delegadas,contra
+D068,Unión por la Patria,tarifas_energia,contra
+D069,Unión por la Patria,ley_bases,contra
+D069,Unión por la Patria,reforma_laboral,contra
+D069,Unión por la Patria,presupuesto,contra
+D069,Unión por la Patria,privatizaciones,contra
+D069,Unión por la Patria,retenciones_agro,contra
+D069,Unión por la Patria,coparticipacion,favor
+D069,Unión por la Patria,obra_publica_prov,ausente
+D069,Unión por la Patria,emergencia_jubilados,favor
+D069,Unión por la Patria,financiamiento_univ,favor
+D069,Unión por la Patria,salud_emergencia,favor
+D069,Unión por la Patria,boleta_unica,favor
+D069,Unión por la Patria,ficha_limpia,favor
+D069,Unión por la Patria,reforma_politica,contra
+D069,Unión por la Patria,dnu_delegadas,contra
+D069,Unión por la Patria,tarifas_energia,contra
+D070,Unión por la Patria,ley_bases,contra
+D070,Unión por la Patria,reforma_laboral,contra
+D070,Unión por la Patria,presupuesto,contra
+D070,Unión por la Patria,privatizaciones,contra
+D070,Unión por la Patria,retenciones_agro,contra
+D070,Unión por la Patria,coparticipacion,favor
+D070,Unión por la Patria,obra_publica_prov,contra
+D070,Unión por la Patria,emergencia_jubilados,favor
+D070,Unión por la Patria,financiamiento_univ,favor
+D070,Unión por la Patria,salud_emergencia,contra
+D070,Unión por la Patria,boleta_unica,contra
+D070,Unión por la Patria,ficha_limpia,favor
+D070,Unión por la Patria,reforma_politica,favor
+D070,Unión por la Patria,dnu_delegadas,contra
+D070,Unión por la Patria,tarifas_energia,contra
+D071,Unión por la Patria,ley_bases,contra
+D071,Unión por la Patria,reforma_laboral,contra
+D071,Unión por la Patria,presupuesto,contra
+D071,Unión por la Patria,privatizaciones,contra
+D071,Unión por la Patria,retenciones_agro,contra
+D071,Unión por la Patria,coparticipacion,favor
+D071,Unión por la Patria,obra_publica_prov,favor
+D071,Unión por la Patria,emergencia_jubilados,favor
+D071,Unión por la Patria,financiamiento_univ,favor
+D071,Unión por la Patria,salud_emergencia,favor
+D071,Unión por la Patria,boleta_unica,contra
+D071,Unión por la Patria,ficha_limpia,contra
+D071,Unión por la Patria,reforma_politica,contra
+D071,Unión por la Patria,dnu_delegadas,contra
+D071,Unión por la Patria,tarifas_energia,ausente
+D072,Unión por la Patria,ley_bases,contra
+D072,Unión por la Patria,reforma_laboral,contra
+D072,Unión por la Patria,presupuesto,contra
+D072,Unión por la Patria,privatizaciones,contra
+D072,Unión por la Patria,retenciones_agro,contra
+D072,Unión por la Patria,coparticipacion,favor
+D072,Unión por la Patria,obra_publica_prov,favor
+D072,Unión por la Patria,emergencia_jubilados,favor
+D072,Unión por la Patria,financiamiento_univ,favor
+D072,Unión por la Patria,salud_emergencia,favor
+D072,Unión por la Patria,boleta_unica,ausente
+D072,Unión por la Patria,ficha_limpia,contra
+D072,Unión por la Patria,reforma_politica,favor
+D072,Unión por la Patria,dnu_delegadas,contra
+D072,Unión por la Patria,tarifas_energia,contra
+D073,Unión por la Patria,ley_bases,contra
+D073,Unión por la Patria,reforma_laboral,contra
+D073,Unión por la Patria,presupuesto,favor
+D073,Unión por la Patria,privatizaciones,contra
+D073,Unión por la Patria,retenciones_agro,contra
+D073,Unión por la Patria,coparticipacion,favor
+D073,Unión por la Patria,obra_publica_prov,favor
+D073,Unión por la Patria,emergencia_jubilados,favor
+D073,Unión por la Patria,financiamiento_univ,favor
+D073,Unión por la Patria,salud_emergencia,favor
+D073,Unión por la Patria,boleta_unica,contra
+D073,Unión por la Patria,ficha_limpia,contra
+D073,Unión por la Patria,reforma_politica,favor
+D073,Unión por la Patria,dnu_delegadas,contra
+D073,Unión por la Patria,tarifas_energia,contra
+D074,Unión por la Patria,ley_bases,contra
+D074,Unión por la Patria,reforma_laboral,contra
+D074,Unión por la Patria,presupuesto,contra
+D074,Unión por la Patria,privatizaciones,contra
+D074,Unión por la Patria,retenciones_agro,contra
+D074,Unión por la Patria,coparticipacion,favor
+D074,Unión por la Patria,obra_publica_prov,favor
+D074,Unión por la Patria,emergencia_jubilados,favor
+D074,Unión por la Patria,financiamiento_univ,favor
+D074,Unión por la Patria,salud_emergencia,favor
+D074,Unión por la Patria,boleta_unica,favor
+D074,Unión por la Patria,ficha_limpia,contra
+D074,Unión por la Patria,reforma_politica,favor
+D074,Unión por la Patria,dnu_delegadas,contra
+D074,Unión por la Patria,tarifas_energia,contra
+D075,Unión por la Patria,ley_bases,contra
+D075,Unión por la Patria,reforma_laboral,contra
+D075,Unión por la Patria,presupuesto,contra
+D075,Unión por la Patria,privatizaciones,contra
+D075,Unión por la Patria,retenciones_agro,favor
+D075,Unión por la Patria,coparticipacion,favor
+D075,Unión por la Patria,obra_publica_prov,favor
+D075,Unión por la Patria,emergencia_jubilados,favor
+D075,Unión por la Patria,financiamiento_univ,contra
+D075,Unión por la Patria,salud_emergencia,favor
+D075,Unión por la Patria,boleta_unica,favor
+D075,Unión por la Patria,ficha_limpia,favor
+D075,Unión por la Patria,reforma_politica,favor
+D075,Unión por la Patria,dnu_delegadas,contra
+D075,Unión por la Patria,tarifas_energia,contra
+D076,Unión por la Patria,ley_bases,contra
+D076,Unión por la Patria,reforma_laboral,contra
+D076,Unión por la Patria,presupuesto,contra
+D076,Unión por la Patria,privatizaciones,contra
+D076,Unión por la Patria,retenciones_agro,contra
+D076,Unión por la Patria,coparticipacion,contra
+D076,Unión por la Patria,obra_publica_prov,favor
+D076,Unión por la Patria,emergencia_jubilados,favor
+D076,Unión por la Patria,financiamiento_univ,favor
+D076,Unión por la Patria,salud_emergencia,favor
+D076,Unión por la Patria,boleta_unica,favor
+D076,Unión por la Patria,ficha_limpia,favor
+D076,Unión por la Patria,reforma_politica,contra
+D076,Unión por la Patria,dnu_delegadas,contra
+D076,Unión por la Patria,tarifas_energia,contra
+D077,Unión por la Patria,ley_bases,contra
+D077,Unión por la Patria,reforma_laboral,contra
+D077,Unión por la Patria,presupuesto,contra
+D077,Unión por la Patria,privatizaciones,contra
+D077,Unión por la Patria,retenciones_agro,contra
+D077,Unión por la Patria,coparticipacion,favor
+D077,Unión por la Patria,obra_publica_prov,favor
+D077,Unión por la Patria,emergencia_jubilados,favor
+D077,Unión por la Patria,financiamiento_univ,favor
+D077,Unión por la Patria,salud_emergencia,favor
+D077,Unión por la Patria,boleta_unica,favor
+D077,Unión por la Patria,ficha_limpia,favor
+D077,Unión por la Patria,reforma_politica,contra
+D077,Unión por la Patria,dnu_delegadas,contra
+D077,Unión por la Patria,tarifas_energia,contra
+D078,Unión por la Patria,ley_bases,contra
+D078,Unión por la Patria,reforma_laboral,contra
+D078,Unión por la Patria,presupuesto,contra
+D078,Unión por la Patria,privatizaciones,contra
+D078,Unión por la Patria,retenciones_agro,ausente
+D078,Unión por la Patria,coparticipacion,favor
+D078,Unión por la Patria,obra_publica_prov,favor
+D078,Unión por la Patria,emergencia_jubilados,favor
+D078,Unión por la Patria,financiamiento_univ,ausente
+D078,Unión por la Patria,salud_emergencia,favor
+D078,Unión por la Patria,boleta_unica,ausente
+D078,Unión por la Patria,ficha_limpia,contra
+D078,Unión por la Patria,reforma_politica,favor
+D078,Unión por la Patria,dnu_delegadas,contra
+D078,Unión por la Patria,tarifas_energia,contra
+D079,Unión por la Patria,ley_bases,contra
+D079,Unión por la Patria,reforma_laboral,contra
+D079,Unión por la Patria,presupuesto,contra
+D079,Unión por la Patria,privatizaciones,contra
+D079,Unión por la Patria,retenciones_agro,favor
+D079,Unión por la Patria,coparticipacion,ausente
+D079,Unión por la Patria,obra_publica_prov,ausente
+D079,Unión por la Patria,emergencia_jubilados,favor
+D079,Unión por la Patria,financiamiento_univ,favor
+D079,Unión por la Patria,salud_emergencia,ausente
+D079,Unión por la Patria,boleta_unica,ausente
+D079,Unión por la Patria,ficha_limpia,favor
+D079,Unión por la Patria,reforma_politica,favor
+D079,Unión por la Patria,dnu_delegadas,contra
+D079,Unión por la Patria,tarifas_energia,favor
+D080,Unión por la Patria,ley_bases,contra
+D080,Unión por la Patria,reforma_laboral,contra
+D080,Unión por la Patria,presupuesto,contra
+D080,Unión por la Patria,privatizaciones,contra
+D080,Unión por la Patria,retenciones_agro,favor
+D080,Unión por la Patria,coparticipacion,favor
+D080,Unión por la Patria,obra_publica_prov,ausente
+D080,Unión por la Patria,emergencia_jubilados,favor
+D080,Unión por la Patria,financiamiento_univ,favor
+D080,Unión por la Patria,salud_emergencia,favor
+D080,Unión por la Patria,boleta_unica,favor
+D080,Unión por la Patria,ficha_limpia,favor
+D080,Unión por la Patria,reforma_politica,favor
+D080,Unión por la Patria,dnu_delegadas,contra
+D080,Unión por la Patria,tarifas_energia,contra
+D081,Unión por la Patria,ley_bases,contra
+D081,Unión por la Patria,reforma_laboral,ausente
+D081,Unión por la Patria,presupuesto,contra
+D081,Unión por la Patria,privatizaciones,contra
+D081,Unión por la Patria,retenciones_agro,contra
+D081,Unión por la Patria,coparticipacion,favor
+D081,Unión por la Patria,obra_publica_prov,favor
+D081,Unión por la Patria,emergencia_jubilados,favor
+D081,Unión por la Patria,financiamiento_univ,favor
+D081,Unión por la Patria,salud_emergencia,favor
+D081,Unión por la Patria,boleta_unica,favor
+D081,Unión por la Patria,ficha_limpia,favor
+D081,Unión por la Patria,reforma_politica,favor
+D081,Unión por la Patria,dnu_delegadas,contra
+D081,Unión por la Patria,tarifas_energia,contra
+D082,Unión por la Patria,ley_bases,ausente
+D082,Unión por la Patria,reforma_laboral,contra
+D082,Unión por la Patria,presupuesto,contra
+D082,Unión por la Patria,privatizaciones,contra
+D082,Unión por la Patria,retenciones_agro,ausente
+D082,Unión por la Patria,coparticipacion,contra
+D082,Unión por la Patria,obra_publica_prov,favor
+D082,Unión por la Patria,emergencia_jubilados,favor
+D082,Unión por la Patria,financiamiento_univ,favor
+D082,Unión por la Patria,salud_emergencia,favor
+D082,Unión por la Patria,boleta_unica,contra
+D082,Unión por la Patria,ficha_limpia,contra
+D082,Unión por la Patria,reforma_politica,favor
+D082,Unión por la Patria,dnu_delegadas,contra
+D082,Unión por la Patria,tarifas_energia,contra
+D083,Unión por la Patria,ley_bases,contra
+D083,Unión por la Patria,reforma_laboral,contra
+D083,Unión por la Patria,presupuesto,contra
+D083,Unión por la Patria,privatizaciones,contra
+D083,Unión por la Patria,retenciones_agro,contra
+D083,Unión por la Patria,coparticipacion,contra
+D083,Unión por la Patria,obra_publica_prov,favor
+D083,Unión por la Patria,emergencia_jubilados,favor
+D083,Unión por la Patria,financiamiento_univ,favor
+D083,Unión por la Patria,salud_emergencia,favor
+D083,Unión por la Patria,boleta_unica,favor
+D083,Unión por la Patria,ficha_limpia,favor
+D083,Unión por la Patria,reforma_politica,contra
+D083,Unión por la Patria,dnu_delegadas,contra
+D083,Unión por la Patria,tarifas_energia,contra
+D084,Unión por la Patria,ley_bases,contra
+D084,Unión por la Patria,reforma_laboral,contra
+D084,Unión por la Patria,presupuesto,contra
+D084,Unión por la Patria,privatizaciones,contra
+D084,Unión por la Patria,retenciones_agro,ausente
+D084,Unión por la Patria,coparticipacion,favor
+D084,Unión por la Patria,obra_publica_prov,favor
+D084,Unión por la Patria,emergencia_jubilados,favor
+D084,Unión por la Patria,financiamiento_univ,favor
+D084,Unión por la Patria,salud_emergencia,favor
+D084,Unión por la Patria,boleta_unica,favor
+D084,Unión por la Patria,ficha_limpia,contra
+D084,Unión por la Patria,reforma_politica,favor
+D084,Unión por la Patria,dnu_delegadas,contra
+D084,Unión por la Patria,tarifas_energia,contra
+D085,Unión por la Patria,ley_bases,contra
+D085,Unión por la Patria,reforma_laboral,contra
+D085,Unión por la Patria,presupuesto,contra
+D085,Unión por la Patria,privatizaciones,contra
+D085,Unión por la Patria,retenciones_agro,ausente
+D085,Unión por la Patria,coparticipacion,contra
+D085,Unión por la Patria,obra_publica_prov,favor
+D085,Unión por la Patria,emergencia_jubilados,favor
+D085,Unión por la Patria,financiamiento_univ,favor
+D085,Unión por la Patria,salud_emergencia,favor
+D085,Unión por la Patria,boleta_unica,favor
+D085,Unión por la Patria,ficha_limpia,favor
+D085,Unión por la Patria,reforma_politica,contra
+D085,Unión por la Patria,dnu_delegadas,contra
+D085,Unión por la Patria,tarifas_energia,contra
+D086,Unión por la Patria,ley_bases,contra
+D086,Unión por la Patria,reforma_laboral,contra
+D086,Unión por la Patria,presupuesto,contra
+D086,Unión por la Patria,privatizaciones,contra
+D086,Unión por la Patria,retenciones_agro,contra
+D086,Unión por la Patria,coparticipacion,contra
+D086,Unión por la Patria,obra_publica_prov,favor
+D086,Unión por la Patria,emergencia_jubilados,ausente
+D086,Unión por la Patria,financiamiento_univ,ausente
+D086,Unión por la Patria,salud_emergencia,favor
+D086,Unión por la Patria,boleta_unica,favor
+D086,Unión por la Patria,ficha_limpia,favor
+D086,Unión por la Patria,reforma_politica,favor
+D086,Unión por la Patria,dnu_delegadas,contra
+D086,Unión por la Patria,tarifas_energia,contra
+D087,Unión por la Patria,ley_bases,contra
+D087,Unión por la Patria,reforma_laboral,contra
+D087,Unión por la Patria,presupuesto,contra
+D087,Unión por la Patria,privatizaciones,ausente
+D087,Unión por la Patria,retenciones_agro,contra
+D087,Unión por la Patria,coparticipacion,favor
+D087,Unión por la Patria,obra_publica_prov,favor
+D087,Unión por la Patria,emergencia_jubilados,favor
+D087,Unión por la Patria,financiamiento_univ,favor
+D087,Unión por la Patria,salud_emergencia,favor
+D087,Unión por la Patria,boleta_unica,contra
+D087,Unión por la Patria,ficha_limpia,favor
+D087,Unión por la Patria,reforma_politica,favor
+D087,Unión por la Patria,dnu_delegadas,contra
+D087,Unión por la Patria,tarifas_energia,ausente
+D088,Unión por la Patria,ley_bases,contra
+D088,Unión por la Patria,reforma_laboral,contra
+D088,Unión por la Patria,presupuesto,contra
+D088,Unión por la Patria,privatizaciones,contra
+D088,Unión por la Patria,retenciones_agro,contra
+D088,Unión por la Patria,coparticipacion,contra
+D088,Unión por la Patria,obra_publica_prov,favor
+D088,Unión por la Patria,emergencia_jubilados,favor
+D088,Unión por la Patria,financiamiento_univ,favor
+D088,Unión por la Patria,salud_emergencia,favor
+D088,Unión por la Patria,boleta_unica,contra
+D088,Unión por la Patria,ficha_limpia,favor
+D088,Unión por la Patria,reforma_politica,favor
+D088,Unión por la Patria,dnu_delegadas,contra
+D088,Unión por la Patria,tarifas_energia,contra
+D089,Unión por la Patria,ley_bases,contra
+D089,Unión por la Patria,reforma_laboral,contra
+D089,Unión por la Patria,presupuesto,contra
+D089,Unión por la Patria,privatizaciones,ausente
+D089,Unión por la Patria,retenciones_agro,contra
+D089,Unión por la Patria,coparticipacion,favor
+D089,Unión por la Patria,obra_publica_prov,favor
+D089,Unión por la Patria,emergencia_jubilados,favor
+D089,Unión por la Patria,financiamiento_univ,ausente
+D089,Unión por la Patria,salud_emergencia,favor
+D089,Unión por la Patria,boleta_unica,favor
+D089,Unión por la Patria,ficha_limpia,contra
+D089,Unión por la Patria,reforma_politica,contra
+D089,Unión por la Patria,dnu_delegadas,ausente
+D089,Unión por la Patria,tarifas_energia,contra
+D090,Unión por la Patria,ley_bases,ausente
+D090,Unión por la Patria,reforma_laboral,contra
+D090,Unión por la Patria,presupuesto,favor
+D090,Unión por la Patria,privatizaciones,contra
+D090,Unión por la Patria,retenciones_agro,contra
+D090,Unión por la Patria,coparticipacion,favor
+D090,Unión por la Patria,obra_publica_prov,favor
+D090,Unión por la Patria,emergencia_jubilados,favor
+D090,Unión por la Patria,financiamiento_univ,favor
+D090,Unión por la Patria,salud_emergencia,favor
+D090,Unión por la Patria,boleta_unica,contra
+D090,Unión por la Patria,ficha_limpia,contra
+D090,Unión por la Patria,reforma_politica,favor
+D090,Unión por la Patria,dnu_delegadas,contra
+D090,Unión por la Patria,tarifas_energia,contra
+D091,Unión por la Patria,ley_bases,contra
+D091,Unión por la Patria,reforma_laboral,contra
+D091,Unión por la Patria,presupuesto,contra
+D091,Unión por la Patria,privatizaciones,contra
+D091,Unión por la Patria,retenciones_agro,contra
+D091,Unión por la Patria,coparticipacion,favor
+D091,Unión por la Patria,obra_publica_prov,favor
+D091,Unión por la Patria,emergencia_jubilados,favor
+D091,Unión por la Patria,financiamiento_univ,favor
+D091,Unión por la Patria,salud_emergencia,favor
+D091,Unión por la Patria,boleta_unica,favor
+D091,Unión por la Patria,ficha_limpia,favor
+D091,Unión por la Patria,reforma_politica,contra
+D091,Unión por la Patria,dnu_delegadas,contra
+D091,Unión por la Patria,tarifas_energia,contra
+D092,Unión por la Patria,ley_bases,contra
+D092,Unión por la Patria,reforma_laboral,favor
+D092,Unión por la Patria,presupuesto,contra
+D092,Unión por la Patria,privatizaciones,contra
+D092,Unión por la Patria,retenciones_agro,contra
+D092,Unión por la Patria,coparticipacion,favor
+D092,Unión por la Patria,obra_publica_prov,favor
+D092,Unión por la Patria,emergencia_jubilados,favor
+D092,Unión por la Patria,financiamiento_univ,favor
+D092,Unión por la Patria,salud_emergencia,ausente
+D092,Unión por la Patria,boleta_unica,favor
+D092,Unión por la Patria,ficha_limpia,favor
+D092,Unión por la Patria,reforma_politica,contra
+D092,Unión por la Patria,dnu_delegadas,contra
+D092,Unión por la Patria,tarifas_energia,contra
+D093,Unión por la Patria,ley_bases,contra
+D093,Unión por la Patria,reforma_laboral,contra
+D093,Unión por la Patria,presupuesto,contra
+D093,Unión por la Patria,privatizaciones,contra
+D093,Unión por la Patria,retenciones_agro,contra
+D093,Unión por la Patria,coparticipacion,contra
+D093,Unión por la Patria,obra_publica_prov,favor
+D093,Unión por la Patria,emergencia_jubilados,favor
+D093,Unión por la Patria,financiamiento_univ,favor
+D093,Unión por la Patria,salud_emergencia,favor
+D093,Unión por la Patria,boleta_unica,contra
+D093,Unión por la Patria,ficha_limpia,contra
+D093,Unión por la Patria,reforma_politica,favor
+D093,Unión por la Patria,dnu_delegadas,contra
+D093,Unión por la Patria,tarifas_energia,contra
+D094,Unión por la Patria,ley_bases,contra
+D094,Unión por la Patria,reforma_laboral,contra
+D094,Unión por la Patria,presupuesto,contra
+D094,Unión por la Patria,privatizaciones,contra
+D094,Unión por la Patria,retenciones_agro,contra
+D094,Unión por la Patria,coparticipacion,favor
+D094,Unión por la Patria,obra_publica_prov,favor
+D094,Unión por la Patria,emergencia_jubilados,favor
+D094,Unión por la Patria,financiamiento_univ,favor
+D094,Unión por la Patria,salud_emergencia,favor
+D094,Unión por la Patria,boleta_unica,contra
+D094,Unión por la Patria,ficha_limpia,favor
+D094,Unión por la Patria,reforma_politica,favor
+D094,Unión por la Patria,dnu_delegadas,contra
+D094,Unión por la Patria,tarifas_energia,contra
+D095,Unión por la Patria,ley_bases,contra
+D095,Unión por la Patria,reforma_laboral,contra
+D095,Unión por la Patria,presupuesto,contra
+D095,Unión por la Patria,privatizaciones,contra
+D095,Unión por la Patria,retenciones_agro,favor
+D095,Unión por la Patria,coparticipacion,favor
+D095,Unión por la Patria,obra_publica_prov,favor
+D095,Unión por la Patria,emergencia_jubilados,favor
+D095,Unión por la Patria,financiamiento_univ,favor
+D095,Unión por la Patria,salud_emergencia,favor
+D095,Unión por la Patria,boleta_unica,ausente
+D095,Unión por la Patria,ficha_limpia,contra
+D095,Unión por la Patria,reforma_politica,favor
+D095,Unión por la Patria,dnu_delegadas,ausente
+D095,Unión por la Patria,tarifas_energia,contra
+D096,Unión por la Patria,ley_bases,contra
+D096,Unión por la Patria,reforma_laboral,contra
+D096,Unión por la Patria,presupuesto,contra
+D096,Unión por la Patria,privatizaciones,contra
+D096,Unión por la Patria,retenciones_agro,contra
+D096,Unión por la Patria,coparticipacion,ausente
+D096,Unión por la Patria,obra_publica_prov,contra
+D096,Unión por la Patria,emergencia_jubilados,favor
+D096,Unión por la Patria,financiamiento_univ,favor
+D096,Unión por la Patria,salud_emergencia,favor
+D096,Unión por la Patria,boleta_unica,favor
+D096,Unión por la Patria,ficha_limpia,contra
+D096,Unión por la Patria,reforma_politica,favor
+D096,Unión por la Patria,dnu_delegadas,contra
+D096,Unión por la Patria,tarifas_energia,contra
+D097,Unión por la Patria,ley_bases,contra
+D097,Unión por la Patria,reforma_laboral,contra
+D097,Unión por la Patria,presupuesto,contra
+D097,Unión por la Patria,privatizaciones,ausente
+D097,Unión por la Patria,retenciones_agro,contra
+D097,Unión por la Patria,coparticipacion,favor
+D097,Unión por la Patria,obra_publica_prov,favor
+D097,Unión por la Patria,emergencia_jubilados,favor
+D097,Unión por la Patria,financiamiento_univ,favor
+D097,Unión por la Patria,salud_emergencia,favor
+D097,Unión por la Patria,boleta_unica,favor
+D097,Unión por la Patria,ficha_limpia,contra
+D097,Unión por la Patria,reforma_politica,favor
+D097,Unión por la Patria,dnu_delegadas,contra
+D097,Unión por la Patria,tarifas_energia,contra
+D098,Unión por la Patria,ley_bases,contra
+D098,Unión por la Patria,reforma_laboral,contra
+D098,Unión por la Patria,presupuesto,contra
+D098,Unión por la Patria,privatizaciones,contra
+D098,Unión por la Patria,retenciones_agro,favor
+D098,Unión por la Patria,coparticipacion,favor
+D098,Unión por la Patria,obra_publica_prov,favor
+D098,Unión por la Patria,emergencia_jubilados,favor
+D098,Unión por la Patria,financiamiento_univ,favor
+D098,Unión por la Patria,salud_emergencia,favor
+D098,Unión por la Patria,boleta_unica,contra
+D098,Unión por la Patria,ficha_limpia,favor
+D098,Unión por la Patria,reforma_politica,contra
+D098,Unión por la Patria,dnu_delegadas,contra
+D098,Unión por la Patria,tarifas_energia,contra
+D099,La Libertad Avanza,ley_bases,favor
+D099,La Libertad Avanza,reforma_laboral,favor
+D099,La Libertad Avanza,presupuesto,favor
+D099,La Libertad Avanza,privatizaciones,favor
+D099,La Libertad Avanza,retenciones_agro,favor
+D099,La Libertad Avanza,coparticipacion,favor
+D099,La Libertad Avanza,obra_publica_prov,contra
+D099,La Libertad Avanza,emergencia_jubilados,contra
+D099,La Libertad Avanza,financiamiento_univ,contra
+D099,La Libertad Avanza,salud_emergencia,contra
+D099,La Libertad Avanza,boleta_unica,favor
+D099,La Libertad Avanza,ficha_limpia,favor
+D099,La Libertad Avanza,reforma_politica,favor
+D099,La Libertad Avanza,dnu_delegadas,favor
+D099,La Libertad Avanza,tarifas_energia,favor
+D100,La Libertad Avanza,ley_bases,favor
+D100,La Libertad Avanza,reforma_laboral,favor
+D100,La Libertad Avanza,presupuesto,favor
+D100,La Libertad Avanza,privatizaciones,favor
+D100,La Libertad Avanza,retenciones_agro,favor
+D100,La Libertad Avanza,coparticipacion,contra
+D100,La Libertad Avanza,obra_publica_prov,contra
+D100,La Libertad Avanza,emergencia_jubilados,contra
+D100,La Libertad Avanza,financiamiento_univ,contra
+D100,La Libertad Avanza,salud_emergencia,ausente
+D100,La Libertad Avanza,boleta_unica,favor
+D100,La Libertad Avanza,ficha_limpia,favor
+D100,La Libertad Avanza,reforma_politica,favor
+D100,La Libertad Avanza,dnu_delegadas,favor
+D100,La Libertad Avanza,tarifas_energia,favor
+D101,La Libertad Avanza,ley_bases,favor
+D101,La Libertad Avanza,reforma_laboral,favor
+D101,La Libertad Avanza,presupuesto,favor
+D101,La Libertad Avanza,privatizaciones,favor
+D101,La Libertad Avanza,retenciones_agro,favor
+D101,La Libertad Avanza,coparticipacion,contra
+D101,La Libertad Avanza,obra_publica_prov,contra
+D101,La Libertad Avanza,emergencia_jubilados,contra
+D101,La Libertad Avanza,financiamiento_univ,contra
+D101,La Libertad Avanza,salud_emergencia,contra
+D101,La Libertad Avanza,boleta_unica,favor
+D101,La Libertad Avanza,ficha_limpia,favor
+D101,La Libertad Avanza,reforma_politica,favor
+D101,La Libertad Avanza,dnu_delegadas,favor
+D101,La Libertad Avanza,tarifas_energia,favor
+D102,La Libertad Avanza,ley_bases,favor
+D102,La Libertad Avanza,reforma_laboral,favor
+D102,La Libertad Avanza,presupuesto,favor
+D102,La Libertad Avanza,privatizaciones,favor
+D102,La Libertad Avanza,retenciones_agro,favor
+D102,La Libertad Avanza,coparticipacion,contra
+D102,La Libertad Avanza,obra_publica_prov,contra
+D102,La Libertad Avanza,emergencia_jubilados,ausente
+D102,La Libertad Avanza,financiamiento_univ,contra
+D102,La Libertad Avanza,salud_emergencia,contra
+D102,La Libertad Avanza,boleta_unica,favor
+D102,La Libertad Avanza,ficha_limpia,favor
+D102,La Libertad Avanza,reforma_politica,contra
+D102,La Libertad Avanza,dnu_delegadas,favor
+D102,La Libertad Avanza,tarifas_energia,favor
+D103,La Libertad Avanza,ley_bases,favor
+D103,La Libertad Avanza,reforma_laboral,contra
+D103,La Libertad Avanza,presupuesto,ausente
+D103,La Libertad Avanza,privatizaciones,favor
+D103,La Libertad Avanza,retenciones_agro,favor
+D103,La Libertad Avanza,coparticipacion,contra
+D103,La Libertad Avanza,obra_publica_prov,contra
+D103,La Libertad Avanza,emergencia_jubilados,contra
+D103,La Libertad Avanza,financiamiento_univ,contra
+D103,La Libertad Avanza,salud_emergencia,contra
+D103,La Libertad Avanza,boleta_unica,favor
+D103,La Libertad Avanza,ficha_limpia,favor
+D103,La Libertad Avanza,reforma_politica,contra
+D103,La Libertad Avanza,dnu_delegadas,favor
+D103,La Libertad Avanza,tarifas_energia,favor
+D104,La Libertad Avanza,ley_bases,favor
+D104,La Libertad Avanza,reforma_laboral,favor
+D104,La Libertad Avanza,presupuesto,favor
+D104,La Libertad Avanza,privatizaciones,favor
+D104,La Libertad Avanza,retenciones_agro,favor
+D104,La Libertad Avanza,coparticipacion,contra
+D104,La Libertad Avanza,obra_publica_prov,contra
+D104,La Libertad Avanza,emergencia_jubilados,contra
+D104,La Libertad Avanza,financiamiento_univ,contra
+D104,La Libertad Avanza,salud_emergencia,contra
+D104,La Libertad Avanza,boleta_unica,favor
+D104,La Libertad Avanza,ficha_limpia,favor
+D104,La Libertad Avanza,reforma_politica,contra
+D104,La Libertad Avanza,dnu_delegadas,favor
+D104,La Libertad Avanza,tarifas_energia,favor
+D105,La Libertad Avanza,ley_bases,favor
+D105,La Libertad Avanza,reforma_laboral,favor
+D105,La Libertad Avanza,presupuesto,favor
+D105,La Libertad Avanza,privatizaciones,favor
+D105,La Libertad Avanza,retenciones_agro,favor
+D105,La Libertad Avanza,coparticipacion,contra
+D105,La Libertad Avanza,obra_publica_prov,contra
+D105,La Libertad Avanza,emergencia_jubilados,contra
+D105,La Libertad Avanza,financiamiento_univ,favor
+D105,La Libertad Avanza,salud_emergencia,contra
+D105,La Libertad Avanza,boleta_unica,favor
+D105,La Libertad Avanza,ficha_limpia,favor
+D105,La Libertad Avanza,reforma_politica,favor
+D105,La Libertad Avanza,dnu_delegadas,favor
+D105,La Libertad Avanza,tarifas_energia,favor
+D106,La Libertad Avanza,ley_bases,favor
+D106,La Libertad Avanza,reforma_laboral,ausente
+D106,La Libertad Avanza,presupuesto,favor
+D106,La Libertad Avanza,privatizaciones,favor
+D106,La Libertad Avanza,retenciones_agro,favor
+D106,La Libertad Avanza,coparticipacion,favor
+D106,La Libertad Avanza,obra_publica_prov,contra
+D106,La Libertad Avanza,emergencia_jubilados,contra
+D106,La Libertad Avanza,financiamiento_univ,contra
+D106,La Libertad Avanza,salud_emergencia,contra
+D106,La Libertad Avanza,boleta_unica,favor
+D106,La Libertad Avanza,ficha_limpia,favor
+D106,La Libertad Avanza,reforma_politica,contra
+D106,La Libertad Avanza,dnu_delegadas,favor
+D106,La Libertad Avanza,tarifas_energia,favor
+D107,La Libertad Avanza,ley_bases,favor
+D107,La Libertad Avanza,reforma_laboral,ausente
+D107,La Libertad Avanza,presupuesto,favor
+D107,La Libertad Avanza,privatizaciones,favor
+D107,La Libertad Avanza,retenciones_agro,favor
+D107,La Libertad Avanza,coparticipacion,contra
+D107,La Libertad Avanza,obra_publica_prov,contra
+D107,La Libertad Avanza,emergencia_jubilados,contra
+D107,La Libertad Avanza,financiamiento_univ,contra
+D107,La Libertad Avanza,salud_emergencia,contra
+D107,La Libertad Avanza,boleta_unica,favor
+D107,La Libertad Avanza,ficha_limpia,ausente
+D107,La Libertad Avanza,reforma_politica,contra
+D107,La Libertad Avanza,dnu_delegadas,favor
+D107,La Libertad Avanza,tarifas_energia,favor
+D108,La Libertad Avanza,ley_bases,favor
+D108,La Libertad Avanza,reforma_laboral,favor
+D108,La Libertad Avanza,presupuesto,favor
+D108,La Libertad Avanza,privatizaciones,favor
+D108,La Libertad Avanza,retenciones_agro,contra
+D108,La Libertad Avanza,coparticipacion,contra
+D108,La Libertad Avanza,obra_publica_prov,contra
+D108,La Libertad Avanza,emergencia_jubilados,contra
+D108,La Libertad Avanza,financiamiento_univ,contra
+D108,La Libertad Avanza,salud_emergencia,favor
+D108,La Libertad Avanza,boleta_unica,favor
+D108,La Libertad Avanza,ficha_limpia,favor
+D108,La Libertad Avanza,reforma_politica,favor
+D108,La Libertad Avanza,dnu_delegadas,contra
+D108,La Libertad Avanza,tarifas_energia,favor
+D109,La Libertad Avanza,ley_bases,favor
+D109,La Libertad Avanza,reforma_laboral,favor
+D109,La Libertad Avanza,presupuesto,favor
+D109,La Libertad Avanza,privatizaciones,favor
+D109,La Libertad Avanza,retenciones_agro,favor
+D109,La Libertad Avanza,coparticipacion,contra
+D109,La Libertad Avanza,obra_publica_prov,contra
+D109,La Libertad Avanza,emergencia_jubilados,contra
+D109,La Libertad Avanza,financiamiento_univ,contra
+D109,La Libertad Avanza,salud_emergencia,ausente
+D109,La Libertad Avanza,boleta_unica,favor
+D109,La Libertad Avanza,ficha_limpia,ausente
+D109,La Libertad Avanza,reforma_politica,favor
+D109,La Libertad Avanza,dnu_delegadas,favor
+D109,La Libertad Avanza,tarifas_energia,favor
+D110,La Libertad Avanza,ley_bases,favor
+D110,La Libertad Avanza,reforma_laboral,favor
+D110,La Libertad Avanza,presupuesto,favor
+D110,La Libertad Avanza,privatizaciones,favor
+D110,La Libertad Avanza,retenciones_agro,favor
+D110,La Libertad Avanza,coparticipacion,contra
+D110,La Libertad Avanza,obra_publica_prov,contra
+D110,La Libertad Avanza,emergencia_jubilados,ausente
+D110,La Libertad Avanza,financiamiento_univ,contra
+D110,La Libertad Avanza,salud_emergencia,contra
+D110,La Libertad Avanza,boleta_unica,favor
+D110,La Libertad Avanza,ficha_limpia,favor
+D110,La Libertad Avanza,reforma_politica,contra
+D110,La Libertad Avanza,dnu_delegadas,favor
+D110,La Libertad Avanza,tarifas_energia,favor
+D111,La Libertad Avanza,ley_bases,favor
+D111,La Libertad Avanza,reforma_laboral,ausente
+D111,La Libertad Avanza,presupuesto,favor
+D111,La Libertad Avanza,privatizaciones,ausente
+D111,La Libertad Avanza,retenciones_agro,ausente
+D111,La Libertad Avanza,coparticipacion,contra
+D111,La Libertad Avanza,obra_publica_prov,contra
+D111,La Libertad Avanza,emergencia_jubilados,contra
+D111,La Libertad Avanza,financiamiento_univ,contra
+D111,La Libertad Avanza,salud_emergencia,contra
+D111,La Libertad Avanza,boleta_unica,favor
+D111,La Libertad Avanza,ficha_limpia,favor
+D111,La Libertad Avanza,reforma_politica,contra
+D111,La Libertad Avanza,dnu_delegadas,favor
+D111,La Libertad Avanza,tarifas_energia,favor
+D112,La Libertad Avanza,ley_bases,favor
+D112,La Libertad Avanza,reforma_laboral,favor
+D112,La Libertad Avanza,presupuesto,favor
+D112,La Libertad Avanza,privatizaciones,favor
+D112,La Libertad Avanza,retenciones_agro,favor
+D112,La Libertad Avanza,coparticipacion,contra
+D112,La Libertad Avanza,obra_publica_prov,contra
+D112,La Libertad Avanza,emergencia_jubilados,contra
+D112,La Libertad Avanza,financiamiento_univ,contra
+D112,La Libertad Avanza,salud_emergencia,contra
+D112,La Libertad Avanza,boleta_unica,favor
+D112,La Libertad Avanza,ficha_limpia,favor
+D112,La Libertad Avanza,reforma_politica,favor
+D112,La Libertad Avanza,dnu_delegadas,favor
+D112,La Libertad Avanza,tarifas_energia,favor
+D113,La Libertad Avanza,ley_bases,favor
+D113,La Libertad Avanza,reforma_laboral,favor
+D113,La Libertad Avanza,presupuesto,favor
+D113,La Libertad Avanza,privatizaciones,favor
+D113,La Libertad Avanza,retenciones_agro,contra
+D113,La Libertad Avanza,coparticipacion,contra
+D113,La Libertad Avanza,obra_publica_prov,contra
+D113,La Libertad Avanza,emergencia_jubilados,contra
+D113,La Libertad Avanza,financiamiento_univ,contra
+D113,La Libertad Avanza,salud_emergencia,contra
+D113,La Libertad Avanza,boleta_unica,favor
+D113,La Libertad Avanza,ficha_limpia,favor
+D113,La Libertad Avanza,reforma_politica,favor
+D113,La Libertad Avanza,dnu_delegadas,ausente
+D113,La Libertad Avanza,tarifas_energia,favor
+D114,La Libertad Avanza,ley_bases,favor
+D114,La Libertad Avanza,reforma_laboral,favor
+D114,La Libertad Avanza,presupuesto,favor
+D114,La Libertad Avanza,privatizaciones,favor
+D114,La Libertad Avanza,retenciones_agro,favor
+D114,La Libertad Avanza,coparticipacion,contra
+D114,La Libertad Avanza,obra_publica_prov,contra
+D114,La Libertad Avanza,emergencia_jubilados,contra
+D114,La Libertad Avanza,financiamiento_univ,contra
+D114,La Libertad Avanza,salud_emergencia,contra
+D114,La Libertad Avanza,boleta_unica,favor
+D114,La Libertad Avanza,ficha_limpia,favor
+D114,La Libertad Avanza,reforma_politica,favor
+D114,La Libertad Avanza,dnu_delegadas,favor
+D114,La Libertad Avanza,tarifas_energia,favor
+D115,La Libertad Avanza,ley_bases,favor
+D115,La Libertad Avanza,reforma_laboral,favor
+D115,La Libertad Avanza,presupuesto,favor
+D115,La Libertad Avanza,privatizaciones,favor
+D115,La Libertad Avanza,retenciones_agro,favor
+D115,La Libertad Avanza,coparticipacion,contra
+D115,La Libertad Avanza,obra_publica_prov,ausente
+D115,La Libertad Avanza,emergencia_jubilados,ausente
+D115,La Libertad Avanza,financiamiento_univ,contra
+D115,La Libertad Avanza,salud_emergencia,contra
+D115,La Libertad Avanza,boleta_unica,favor
+D115,La Libertad Avanza,ficha_limpia,favor
+D115,La Libertad Avanza,reforma_politica,favor
+D115,La Libertad Avanza,dnu_delegadas,favor
+D115,La Libertad Avanza,tarifas_energia,favor
+D116,La Libertad Avanza,ley_bases,favor
+D116,La Libertad Avanza,reforma_laboral,favor
+D116,La Libertad Avanza,presupuesto,favor
+D116,La Libertad Avanza,privatizaciones,favor
+D116,La Libertad Avanza,retenciones_agro,favor
+D116,La Libertad Avanza,coparticipacion,contra
+D116,La Libertad Avanza,obra_publica_prov,ausente
+D116,La Libertad Avanza,emergencia_jubilados,ausente
+D116,La Libertad Avanza,financiamiento_univ,contra
+D116,La Libertad Avanza,salud_emergencia,ausente
+D116,La Libertad Avanza,boleta_unica,favor
+D116,La Libertad Avanza,ficha_limpia,favor
+D116,La Libertad Avanza,reforma_politica,favor
+D116,La Libertad Avanza,dnu_delegadas,favor
+D116,La Libertad Avanza,tarifas_energia,favor
+D117,La Libertad Avanza,ley_bases,favor
+D117,La Libertad Avanza,reforma_laboral,favor
+D117,La Libertad Avanza,presupuesto,favor
+D117,La Libertad Avanza,privatizaciones,favor
+D117,La Libertad Avanza,retenciones_agro,favor
+D117,La Libertad Avanza,coparticipacion,contra
+D117,La Libertad Avanza,obra_publica_prov,contra
+D117,La Libertad Avanza,emergencia_jubilados,ausente
+D117,La Libertad Avanza,financiamiento_univ,contra
+D117,La Libertad Avanza,salud_emergencia,contra
+D117,La Libertad Avanza,boleta_unica,favor
+D117,La Libertad Avanza,ficha_limpia,favor
+D117,La Libertad Avanza,reforma_politica,favor
+D117,La Libertad Avanza,dnu_delegadas,favor
+D117,La Libertad Avanza,tarifas_energia,favor
+D118,La Libertad Avanza,ley_bases,favor
+D118,La Libertad Avanza,reforma_laboral,favor
+D118,La Libertad Avanza,presupuesto,favor
+D118,La Libertad Avanza,privatizaciones,favor
+D118,La Libertad Avanza,retenciones_agro,favor
+D118,La Libertad Avanza,coparticipacion,contra
+D118,La Libertad Avanza,obra_publica_prov,ausente
+D118,La Libertad Avanza,emergencia_jubilados,contra
+D118,La Libertad Avanza,financiamiento_univ,contra
+D118,La Libertad Avanza,salud_emergencia,contra
+D118,La Libertad Avanza,boleta_unica,favor
+D118,La Libertad Avanza,ficha_limpia,favor
+D118,La Libertad Avanza,reforma_politica,contra
+D118,La Libertad Avanza,dnu_delegadas,favor
+D118,La Libertad Avanza,tarifas_energia,contra
+D119,La Libertad Avanza,ley_bases,favor
+D119,La Libertad Avanza,reforma_laboral,favor
+D119,La Libertad Avanza,presupuesto,favor
+D119,La Libertad Avanza,privatizaciones,favor
+D119,La Libertad Avanza,retenciones_agro,favor
+D119,La Libertad Avanza,coparticipacion,contra
+D119,La Libertad Avanza,obra_publica_prov,contra
+D119,La Libertad Avanza,emergencia_jubilados,contra
+D119,La Libertad Avanza,financiamiento_univ,ausente
+D119,La Libertad Avanza,salud_emergencia,contra
+D119,La Libertad Avanza,boleta_unica,favor
+D119,La Libertad Avanza,ficha_limpia,favor
+D119,La Libertad Avanza,reforma_politica,ausente
+D119,La Libertad Avanza,dnu_delegadas,favor
+D119,La Libertad Avanza,tarifas_energia,ausente
+D120,La Libertad Avanza,ley_bases,favor
+D120,La Libertad Avanza,reforma_laboral,contra
+D120,La Libertad Avanza,presupuesto,favor
+D120,La Libertad Avanza,privatizaciones,favor
+D120,La Libertad Avanza,retenciones_agro,favor
+D120,La Libertad Avanza,coparticipacion,contra
+D120,La Libertad Avanza,obra_publica_prov,contra
+D120,La Libertad Avanza,emergencia_jubilados,contra
+D120,La Libertad Avanza,financiamiento_univ,contra
+D120,La Libertad Avanza,salud_emergencia,contra
+D120,La Libertad Avanza,boleta_unica,favor
+D120,La Libertad Avanza,ficha_limpia,favor
+D120,La Libertad Avanza,reforma_politica,favor
+D120,La Libertad Avanza,dnu_delegadas,favor
+D120,La Libertad Avanza,tarifas_energia,favor
+D121,La Libertad Avanza,ley_bases,favor
+D121,La Libertad Avanza,reforma_laboral,favor
+D121,La Libertad Avanza,presupuesto,favor
+D121,La Libertad Avanza,privatizaciones,favor
+D121,La Libertad Avanza,retenciones_agro,favor
+D121,La Libertad Avanza,coparticipacion,favor
+D121,La Libertad Avanza,obra_publica_prov,contra
+D121,La Libertad Avanza,emergencia_jubilados,ausente
+D121,La Libertad Avanza,financiamiento_univ,contra
+D121,La Libertad Avanza,salud_emergencia,contra
+D121,La Libertad Avanza,boleta_unica,favor
+D121,La Libertad Avanza,ficha_limpia,ausente
+D121,La Libertad Avanza,reforma_politica,favor
+D121,La Libertad Avanza,dnu_delegadas,favor
+D121,La Libertad Avanza,tarifas_energia,favor
+D122,La Libertad Avanza,ley_bases,favor
+D122,La Libertad Avanza,reforma_laboral,favor
+D122,La Libertad Avanza,presupuesto,favor
+D122,La Libertad Avanza,privatizaciones,favor
+D122,La Libertad Avanza,retenciones_agro,favor
+D122,La Libertad Avanza,coparticipacion,contra
+D122,La Libertad Avanza,obra_publica_prov,contra
+D122,La Libertad Avanza,emergencia_jubilados,contra
+D122,La Libertad Avanza,financiamiento_univ,contra
+D122,La Libertad Avanza,salud_emergencia,contra
+D122,La Libertad Avanza,boleta_unica,favor
+D122,La Libertad Avanza,ficha_limpia,ausente
+D122,La Libertad Avanza,reforma_politica,favor
+D122,La Libertad Avanza,dnu_delegadas,ausente
+D122,La Libertad Avanza,tarifas_energia,favor
+D123,La Libertad Avanza,ley_bases,favor
+D123,La Libertad Avanza,reforma_laboral,favor
+D123,La Libertad Avanza,presupuesto,favor
+D123,La Libertad Avanza,privatizaciones,favor
+D123,La Libertad Avanza,retenciones_agro,favor
+D123,La Libertad Avanza,coparticipacion,contra
+D123,La Libertad Avanza,obra_publica_prov,contra
+D123,La Libertad Avanza,emergencia_jubilados,contra
+D123,La Libertad Avanza,financiamiento_univ,ausente
+D123,La Libertad Avanza,salud_emergencia,contra
+D123,La Libertad Avanza,boleta_unica,favor
+D123,La Libertad Avanza,ficha_limpia,favor
+D123,La Libertad Avanza,reforma_politica,favor
+D123,La Libertad Avanza,dnu_delegadas,favor
+D123,La Libertad Avanza,tarifas_energia,favor
+D124,La Libertad Avanza,ley_bases,favor
+D124,La Libertad Avanza,reforma_laboral,favor
+D124,La Libertad Avanza,presupuesto,favor
+D124,La Libertad Avanza,privatizaciones,favor
+D124,La Libertad Avanza,retenciones_agro,favor
+D124,La Libertad Avanza,coparticipacion,contra
+D124,La Libertad Avanza,obra_publica_prov,contra
+D124,La Libertad Avanza,emergencia_jubilados,contra
+D124,La Libertad Avanza,financiamiento_univ,contra
+D124,La Libertad Avanza,salud_emergencia,contra
+D124,La Libertad Avanza,boleta_unica,favor
+D124,La Libertad Avanza,ficha_limpia,favor
+D124,La Libertad Avanza,reforma_politica,favor
+D124,La Libertad Avanza,dnu_delegadas,favor
+D124,La Libertad Avanza,tarifas_energia,favor
+D125,La Libertad Avanza,ley_bases,favor
+D125,La Libertad Avanza,reforma_laboral,favor
+D125,La Libertad Avanza,presupuesto,favor
+D125,La Libertad Avanza,privatizaciones,favor
+D125,La Libertad Avanza,retenciones_agro,ausente
+D125,La Libertad Avanza,coparticipacion,contra
+D125,La Libertad Avanza,obra_publica_prov,contra
+D125,La Libertad Avanza,emergencia_jubilados,contra
+D125,La Libertad Avanza,financiamiento_univ,contra
+D125,La Libertad Avanza,salud_emergencia,contra
+D125,La Libertad Avanza,boleta_unica,favor
+D125,La Libertad Avanza,ficha_limpia,favor
+D125,La Libertad Avanza,reforma_politica,favor
+D125,La Libertad Avanza,dnu_delegadas,favor
+D125,La Libertad Avanza,tarifas_energia,ausente
+D126,La Libertad Avanza,ley_bases,favor
+D126,La Libertad Avanza,reforma_laboral,favor
+D126,La Libertad Avanza,presupuesto,favor
+D126,La Libertad Avanza,privatizaciones,favor
+D126,La Libertad Avanza,retenciones_agro,favor
+D126,La Libertad Avanza,coparticipacion,contra
+D126,La Libertad Avanza,obra_publica_prov,contra
+D126,La Libertad Avanza,emergencia_jubilados,contra
+D126,La Libertad Avanza,financiamiento_univ,contra
+D126,La Libertad Avanza,salud_emergencia,contra
+D126,La Libertad Avanza,boleta_unica,favor
+D126,La Libertad Avanza,ficha_limpia,favor
+D126,La Libertad Avanza,reforma_politica,favor
+D126,La Libertad Avanza,dnu_delegadas,favor
+D126,La Libertad Avanza,tarifas_energia,favor
+D127,La Libertad Avanza,ley_bases,favor
+D127,La Libertad Avanza,reforma_laboral,favor
+D127,La Libertad Avanza,presupuesto,favor
+D127,La Libertad Avanza,privatizaciones,favor
+D127,La Libertad Avanza,retenciones_agro,favor
+D127,La Libertad Avanza,coparticipacion,contra
+D127,La Libertad Avanza,obra_publica_prov,contra
+D127,La Libertad Avanza,emergencia_jubilados,ausente
+D127,La Libertad Avanza,financiamiento_univ,contra
+D127,La Libertad Avanza,salud_emergencia,favor
+D127,La Libertad Avanza,boleta_unica,favor
+D127,La Libertad Avanza,ficha_limpia,favor
+D127,La Libertad Avanza,reforma_politica,contra
+D127,La Libertad Avanza,dnu_delegadas,favor
+D127,La Libertad Avanza,tarifas_energia,favor
+D128,La Libertad Avanza,ley_bases,favor
+D128,La Libertad Avanza,reforma_laboral,favor
+D128,La Libertad Avanza,presupuesto,favor
+D128,La Libertad Avanza,privatizaciones,favor
+D128,La Libertad Avanza,retenciones_agro,ausente
+D128,La Libertad Avanza,coparticipacion,contra
+D128,La Libertad Avanza,obra_publica_prov,contra
+D128,La Libertad Avanza,emergencia_jubilados,contra
+D128,La Libertad Avanza,financiamiento_univ,contra
+D128,La Libertad Avanza,salud_emergencia,contra
+D128,La Libertad Avanza,boleta_unica,favor
+D128,La Libertad Avanza,ficha_limpia,contra
+D128,La Libertad Avanza,reforma_politica,contra
+D128,La Libertad Avanza,dnu_delegadas,favor
+D128,La Libertad Avanza,tarifas_energia,ausente
+D129,La Libertad Avanza,ley_bases,favor
+D129,La Libertad Avanza,reforma_laboral,favor
+D129,La Libertad Avanza,presupuesto,favor
+D129,La Libertad Avanza,privatizaciones,favor
+D129,La Libertad Avanza,retenciones_agro,favor
+D129,La Libertad Avanza,coparticipacion,contra
+D129,La Libertad Avanza,obra_publica_prov,contra
+D129,La Libertad Avanza,emergencia_jubilados,contra
+D129,La Libertad Avanza,financiamiento_univ,ausente
+D129,La Libertad Avanza,salud_emergencia,contra
+D129,La Libertad Avanza,boleta_unica,favor
+D129,La Libertad Avanza,ficha_limpia,favor
+D129,La Libertad Avanza,reforma_politica,contra
+D129,La Libertad Avanza,dnu_delegadas,favor
+D129,La Libertad Avanza,tarifas_energia,favor
+D130,La Libertad Avanza,ley_bases,favor
+D130,La Libertad Avanza,reforma_laboral,favor
+D130,La Libertad Avanza,presupuesto,ausente
+D130,La Libertad Avanza,privatizaciones,favor
+D130,La Libertad Avanza,retenciones_agro,contra
+D130,La Libertad Avanza,coparticipacion,contra
+D130,La Libertad Avanza,obra_publica_prov,contra
+D130,La Libertad Avanza,emergencia_jubilados,contra
+D130,La Libertad Avanza,financiamiento_univ,contra
+D130,La Libertad Avanza,salud_emergencia,contra
+D130,La Libertad Avanza,boleta_unica,favor
+D130,La Libertad Avanza,ficha_limpia,favor
+D130,La Libertad Avanza,reforma_politica,contra
+D130,La Libertad Avanza,dnu_delegadas,favor
+D130,La Libertad Avanza,tarifas_energia,favor
+D131,La Libertad Avanza,ley_bases,favor
+D131,La Libertad Avanza,reforma_laboral,favor
+D131,La Libertad Avanza,presupuesto,favor
+D131,La Libertad Avanza,privatizaciones,favor
+D131,La Libertad Avanza,retenciones_agro,favor
+D131,La Libertad Avanza,coparticipacion,contra
+D131,La Libertad Avanza,obra_publica_prov,ausente
+D131,La Libertad Avanza,emergencia_jubilados,contra
+D131,La Libertad Avanza,financiamiento_univ,contra
+D131,La Libertad Avanza,salud_emergencia,contra
+D131,La Libertad Avanza,boleta_unica,contra
+D131,La Libertad Avanza,ficha_limpia,favor
+D131,La Libertad Avanza,reforma_politica,contra
+D131,La Libertad Avanza,dnu_delegadas,favor
+D131,La Libertad Avanza,tarifas_energia,favor
+D132,La Libertad Avanza,ley_bases,favor
+D132,La Libertad Avanza,reforma_laboral,ausente
+D132,La Libertad Avanza,presupuesto,ausente
+D132,La Libertad Avanza,privatizaciones,favor
+D132,La Libertad Avanza,retenciones_agro,favor
+D132,La Libertad Avanza,coparticipacion,contra
+D132,La Libertad Avanza,obra_publica_prov,contra
+D132,La Libertad Avanza,emergencia_jubilados,contra
+D132,La Libertad Avanza,financiamiento_univ,contra
+D132,La Libertad Avanza,salud_emergencia,contra
+D132,La Libertad Avanza,boleta_unica,favor
+D132,La Libertad Avanza,ficha_limpia,favor
+D132,La Libertad Avanza,reforma_politica,favor
+D132,La Libertad Avanza,dnu_delegadas,favor
+D132,La Libertad Avanza,tarifas_energia,favor
+D133,La Libertad Avanza,ley_bases,favor
+D133,La Libertad Avanza,reforma_laboral,favor
+D133,La Libertad Avanza,presupuesto,favor
+D133,La Libertad Avanza,privatizaciones,favor
+D133,La Libertad Avanza,retenciones_agro,contra
+D133,La Libertad Avanza,coparticipacion,contra
+D133,La Libertad Avanza,obra_publica_prov,contra
+D133,La Libertad Avanza,emergencia_jubilados,contra
+D133,La Libertad Avanza,financiamiento_univ,contra
+D133,La Libertad Avanza,salud_emergencia,contra
+D133,La Libertad Avanza,boleta_unica,favor
+D133,La Libertad Avanza,ficha_limpia,favor
+D133,La Libertad Avanza,reforma_politica,contra
+D133,La Libertad Avanza,dnu_delegadas,favor
+D133,La Libertad Avanza,tarifas_energia,favor
+D134,La Libertad Avanza,ley_bases,ausente
+D134,La Libertad Avanza,reforma_laboral,contra
+D134,La Libertad Avanza,presupuesto,favor
+D134,La Libertad Avanza,privatizaciones,favor
+D134,La Libertad Avanza,retenciones_agro,favor
+D134,La Libertad Avanza,coparticipacion,contra
+D134,La Libertad Avanza,obra_publica_prov,contra
+D134,La Libertad Avanza,emergencia_jubilados,contra
+D134,La Libertad Avanza,financiamiento_univ,ausente
+D134,La Libertad Avanza,salud_emergencia,ausente
+D134,La Libertad Avanza,boleta_unica,favor
+D134,La Libertad Avanza,ficha_limpia,favor
+D134,La Libertad Avanza,reforma_politica,favor
+D134,La Libertad Avanza,dnu_delegadas,favor
+D134,La Libertad Avanza,tarifas_energia,favor
+D135,La Libertad Avanza,ley_bases,favor
+D135,La Libertad Avanza,reforma_laboral,ausente
+D135,La Libertad Avanza,presupuesto,contra
+D135,La Libertad Avanza,privatizaciones,favor
+D135,La Libertad Avanza,retenciones_agro,contra
+D135,La Libertad Avanza,coparticipacion,contra
+D135,La Libertad Avanza,obra_publica_prov,contra
+D135,La Libertad Avanza,emergencia_jubilados,contra
+D135,La Libertad Avanza,financiamiento_univ,contra
+D135,La Libertad Avanza,salud_emergencia,contra
+D135,La Libertad Avanza,boleta_unica,favor
+D135,La Libertad Avanza,ficha_limpia,favor
+D135,La Libertad Avanza,reforma_politica,favor
+D135,La Libertad Avanza,dnu_delegadas,favor
+D135,La Libertad Avanza,tarifas_energia,favor
+D136,La Libertad Avanza,ley_bases,favor
+D136,La Libertad Avanza,reforma_laboral,favor
+D136,La Libertad Avanza,presupuesto,favor
+D136,La Libertad Avanza,privatizaciones,favor
+D136,La Libertad Avanza,retenciones_agro,favor
+D136,La Libertad Avanza,coparticipacion,favor
+D136,La Libertad Avanza,obra_publica_prov,contra
+D136,La Libertad Avanza,emergencia_jubilados,contra
+D136,La Libertad Avanza,financiamiento_univ,contra
+D136,La Libertad Avanza,salud_emergencia,contra
+D136,La Libertad Avanza,boleta_unica,favor
+D136,La Libertad Avanza,ficha_limpia,favor
+D136,La Libertad Avanza,reforma_politica,favor
+D136,La Libertad Avanza,dnu_delegadas,favor
+D136,La Libertad Avanza,tarifas_energia,favor
+D137,PRO,ley_bases,favor
+D137,PRO,reforma_laboral,contra
+D137,PRO,presupuesto,favor
+D137,PRO,privatizaciones,favor
+D137,PRO,retenciones_agro,contra
+D137,PRO,coparticipacion,contra
+D137,PRO,obra_publica_prov,contra
+D137,PRO,emergencia_jubilados,contra
+D137,PRO,financiamiento_univ,contra
+D137,PRO,salud_emergencia,contra
+D137,PRO,boleta_unica,favor
+D137,PRO,ficha_limpia,favor
+D137,PRO,reforma_politica,contra
+D137,PRO,dnu_delegadas,favor
+D137,PRO,tarifas_energia,favor
+D138,PRO,ley_bases,favor
+D138,PRO,reforma_laboral,favor
+D138,PRO,presupuesto,favor
+D138,PRO,privatizaciones,favor
+D138,PRO,retenciones_agro,favor
+D138,PRO,coparticipacion,favor
+D138,PRO,obra_publica_prov,favor
+D138,PRO,emergencia_jubilados,favor
+D138,PRO,financiamiento_univ,contra
+D138,PRO,salud_emergencia,contra
+D138,PRO,boleta_unica,favor
+D138,PRO,ficha_limpia,contra
+D138,PRO,reforma_politica,favor
+D138,PRO,dnu_delegadas,favor
+D138,PRO,tarifas_energia,favor
+D139,PRO,ley_bases,favor
+D139,PRO,reforma_laboral,favor
+D139,PRO,presupuesto,favor
+D139,PRO,privatizaciones,favor
+D139,PRO,retenciones_agro,favor
+D139,PRO,coparticipacion,favor
+D139,PRO,obra_publica_prov,contra
+D139,PRO,emergencia_jubilados,contra
+D139,PRO,financiamiento_univ,contra
+D139,PRO,salud_emergencia,contra
+D139,PRO,boleta_unica,contra
+D139,PRO,ficha_limpia,favor
+D139,PRO,reforma_politica,favor
+D139,PRO,dnu_delegadas,favor
+D139,PRO,tarifas_energia,favor
+D140,PRO,ley_bases,favor
+D140,PRO,reforma_laboral,favor
+D140,PRO,presupuesto,favor
+D140,PRO,privatizaciones,favor
+D140,PRO,retenciones_agro,favor
+D140,PRO,coparticipacion,contra
+D140,PRO,obra_publica_prov,contra
+D140,PRO,emergencia_jubilados,contra
+D140,PRO,financiamiento_univ,contra
+D140,PRO,salud_emergencia,contra
+D140,PRO,boleta_unica,favor
+D140,PRO,ficha_limpia,favor
+D140,PRO,reforma_politica,favor
+D140,PRO,dnu_delegadas,favor
+D140,PRO,tarifas_energia,favor
+D141,PRO,ley_bases,favor
+D141,PRO,reforma_laboral,favor
+D141,PRO,presupuesto,favor
+D141,PRO,privatizaciones,favor
+D141,PRO,retenciones_agro,favor
+D141,PRO,coparticipacion,favor
+D141,PRO,obra_publica_prov,contra
+D141,PRO,emergencia_jubilados,contra
+D141,PRO,financiamiento_univ,contra
+D141,PRO,salud_emergencia,contra
+D141,PRO,boleta_unica,favor
+D141,PRO,ficha_limpia,favor
+D141,PRO,reforma_politica,favor
+D141,PRO,dnu_delegadas,favor
+D141,PRO,tarifas_energia,favor
+D142,PRO,ley_bases,favor
+D142,PRO,reforma_laboral,favor
+D142,PRO,presupuesto,favor
+D142,PRO,privatizaciones,favor
+D142,PRO,retenciones_agro,favor
+D142,PRO,coparticipacion,favor
+D142,PRO,obra_publica_prov,favor
+D142,PRO,emergencia_jubilados,contra
+D142,PRO,financiamiento_univ,ausente
+D142,PRO,salud_emergencia,favor
+D142,PRO,boleta_unica,favor
+D142,PRO,ficha_limpia,favor
+D142,PRO,reforma_politica,favor
+D142,PRO,dnu_delegadas,favor
+D142,PRO,tarifas_energia,contra
+D143,PRO,ley_bases,favor
+D143,PRO,reforma_laboral,favor
+D143,PRO,presupuesto,favor
+D143,PRO,privatizaciones,favor
+D143,PRO,retenciones_agro,favor
+D143,PRO,coparticipacion,contra
+D143,PRO,obra_publica_prov,favor
+D143,PRO,emergencia_jubilados,contra
+D143,PRO,financiamiento_univ,contra
+D143,PRO,salud_emergencia,contra
+D143,PRO,boleta_unica,favor
+D143,PRO,ficha_limpia,favor
+D143,PRO,reforma_politica,favor
+D143,PRO,dnu_delegadas,favor
+D143,PRO,tarifas_energia,favor
+D144,PRO,ley_bases,favor
+D144,PRO,reforma_laboral,favor
+D144,PRO,presupuesto,favor
+D144,PRO,privatizaciones,contra
+D144,PRO,retenciones_agro,favor
+D144,PRO,coparticipacion,contra
+D144,PRO,obra_publica_prov,favor
+D144,PRO,emergencia_jubilados,contra
+D144,PRO,financiamiento_univ,contra
+D144,PRO,salud_emergencia,contra
+D144,PRO,boleta_unica,favor
+D144,PRO,ficha_limpia,favor
+D144,PRO,reforma_politica,contra
+D144,PRO,dnu_delegadas,favor
+D144,PRO,tarifas_energia,favor
+D145,PRO,ley_bases,favor
+D145,PRO,reforma_laboral,favor
+D145,PRO,presupuesto,favor
+D145,PRO,privatizaciones,contra
+D145,PRO,retenciones_agro,ausente
+D145,PRO,coparticipacion,contra
+D145,PRO,obra_publica_prov,contra
+D145,PRO,emergencia_jubilados,contra
+D145,PRO,financiamiento_univ,contra
+D145,PRO,salud_emergencia,contra
+D145,PRO,boleta_unica,favor
+D145,PRO,ficha_limpia,contra
+D145,PRO,reforma_politica,contra
+D145,PRO,dnu_delegadas,ausente
+D145,PRO,tarifas_energia,favor
+D146,PRO,ley_bases,favor
+D146,PRO,reforma_laboral,contra
+D146,PRO,presupuesto,favor
+D146,PRO,privatizaciones,favor
+D146,PRO,retenciones_agro,favor
+D146,PRO,coparticipacion,contra
+D146,PRO,obra_publica_prov,ausente
+D146,PRO,emergencia_jubilados,contra
+D146,PRO,financiamiento_univ,contra
+D146,PRO,salud_emergencia,contra
+D146,PRO,boleta_unica,contra
+D146,PRO,ficha_limpia,favor
+D146,PRO,reforma_politica,contra
+D146,PRO,dnu_delegadas,favor
+D146,PRO,tarifas_energia,favor
+D147,PRO,ley_bases,favor
+D147,PRO,reforma_laboral,favor
+D147,PRO,presupuesto,favor
+D147,PRO,privatizaciones,ausente
+D147,PRO,retenciones_agro,favor
+D147,PRO,coparticipacion,contra
+D147,PRO,obra_publica_prov,contra
+D147,PRO,emergencia_jubilados,contra
+D147,PRO,financiamiento_univ,contra
+D147,PRO,salud_emergencia,favor
+D147,PRO,boleta_unica,ausente
+D147,PRO,ficha_limpia,favor
+D147,PRO,reforma_politica,contra
+D147,PRO,dnu_delegadas,ausente
+D147,PRO,tarifas_energia,favor
+D148,PRO,ley_bases,favor
+D148,PRO,reforma_laboral,favor
+D148,PRO,presupuesto,favor
+D148,PRO,privatizaciones,favor
+D148,PRO,retenciones_agro,contra
+D148,PRO,coparticipacion,favor
+D148,PRO,obra_publica_prov,contra
+D148,PRO,emergencia_jubilados,contra
+D148,PRO,financiamiento_univ,contra
+D148,PRO,salud_emergencia,contra
+D148,PRO,boleta_unica,favor
+D148,PRO,ficha_limpia,favor
+D148,PRO,reforma_politica,favor
+D148,PRO,dnu_delegadas,contra
+D148,PRO,tarifas_energia,favor
+D149,PRO,ley_bases,favor
+D149,PRO,reforma_laboral,favor
+D149,PRO,presupuesto,favor
+D149,PRO,privatizaciones,contra
+D149,PRO,retenciones_agro,favor
+D149,PRO,coparticipacion,favor
+D149,PRO,obra_publica_prov,favor
+D149,PRO,emergencia_jubilados,contra
+D149,PRO,financiamiento_univ,contra
+D149,PRO,salud_emergencia,favor
+D149,PRO,boleta_unica,favor
+D149,PRO,ficha_limpia,favor
+D149,PRO,reforma_politica,favor
+D149,PRO,dnu_delegadas,contra
+D149,PRO,tarifas_energia,favor
+D150,PRO,ley_bases,favor
+D150,PRO,reforma_laboral,favor
+D150,PRO,presupuesto,favor
+D150,PRO,privatizaciones,favor
+D150,PRO,retenciones_agro,favor
+D150,PRO,coparticipacion,favor
+D150,PRO,obra_publica_prov,favor
+D150,PRO,emergencia_jubilados,contra
+D150,PRO,financiamiento_univ,ausente
+D150,PRO,salud_emergencia,contra
+D150,PRO,boleta_unica,favor
+D150,PRO,ficha_limpia,favor
+D150,PRO,reforma_politica,contra
+D150,PRO,dnu_delegadas,favor
+D150,PRO,tarifas_energia,contra
+D151,PRO,ley_bases,favor
+D151,PRO,reforma_laboral,favor
+D151,PRO,presupuesto,favor
+D151,PRO,privatizaciones,ausente
+D151,PRO,retenciones_agro,favor
+D151,PRO,coparticipacion,contra
+D151,PRO,obra_publica_prov,favor
+D151,PRO,emergencia_jubilados,contra
+D151,PRO,financiamiento_univ,contra
+D151,PRO,salud_emergencia,contra
+D151,PRO,boleta_unica,favor
+D151,PRO,ficha_limpia,favor
+D151,PRO,reforma_politica,contra
+D151,PRO,dnu_delegadas,favor
+D151,PRO,tarifas_energia,favor
+D152,PRO,ley_bases,favor
+D152,PRO,reforma_laboral,favor
+D152,PRO,presupuesto,favor
+D152,PRO,privatizaciones,favor
+D152,PRO,retenciones_agro,favor
+D152,PRO,coparticipacion,contra
+D152,PRO,obra_publica_prov,contra
+D152,PRO,emergencia_jubilados,contra
+D152,PRO,financiamiento_univ,contra
+D152,PRO,salud_emergencia,contra
+D152,PRO,boleta_unica,ausente
+D152,PRO,ficha_limpia,favor
+D152,PRO,reforma_politica,contra
+D152,PRO,dnu_delegadas,favor
+D152,PRO,tarifas_energia,contra
+D153,PRO,ley_bases,favor
+D153,PRO,reforma_laboral,favor
+D153,PRO,presupuesto,favor
+D153,PRO,privatizaciones,favor
+D153,PRO,retenciones_agro,favor
+D153,PRO,coparticipacion,contra
+D153,PRO,obra_publica_prov,favor
+D153,PRO,emergencia_jubilados,contra
+D153,PRO,financiamiento_univ,contra
+D153,PRO,salud_emergencia,contra
+D153,PRO,boleta_unica,favor
+D153,PRO,ficha_limpia,favor
+D153,PRO,reforma_politica,contra
+D153,PRO,dnu_delegadas,favor
+D153,PRO,tarifas_energia,favor
+D154,PRO,ley_bases,favor
+D154,PRO,reforma_laboral,favor
+D154,PRO,presupuesto,favor
+D154,PRO,privatizaciones,favor
+D154,PRO,retenciones_agro,favor
+D154,PRO,coparticipacion,contra
+D154,PRO,obra_publica_prov,contra
+D154,PRO,emergencia_jubilados,contra
+D154,PRO,financiamiento_univ,ausente
+D154,PRO,salud_emergencia,contra
+D154,PRO,boleta_unica,contra
+D154,PRO,ficha_limpia,contra
+D154,PRO,reforma_politica,contra
+D154,PRO,dnu_delegadas,favor
+D154,PRO,tarifas_energia,favor
+D155,PRO,ley_bases,favor
+D155,PRO,reforma_laboral,contra
+D155,PRO,presupuesto,favor
+D155,PRO,privatizaciones,contra
+D155,PRO,retenciones_agro,favor
+D155,PRO,coparticipacion,contra
+D155,PRO,obra_publica_prov,favor
+D155,PRO,emergencia_jubilados,favor
+D155,PRO,financiamiento_univ,contra
+D155,PRO,salud_emergencia,contra
+D155,PRO,boleta_unica,favor
+D155,PRO,ficha_limpia,favor
+D155,PRO,reforma_politica,favor
+D155,PRO,dnu_delegadas,favor
+D155,PRO,tarifas_energia,favor
+D156,PRO,ley_bases,favor
+D156,PRO,reforma_laboral,favor
+D156,PRO,presupuesto,favor
+D156,PRO,privatizaciones,ausente
+D156,PRO,retenciones_agro,favor
+D156,PRO,coparticipacion,contra
+D156,PRO,obra_publica_prov,contra
+D156,PRO,emergencia_jubilados,contra
+D156,PRO,financiamiento_univ,favor
+D156,PRO,salud_emergencia,contra
+D156,PRO,boleta_unica,contra
+D156,PRO,ficha_limpia,favor
+D156,PRO,reforma_politica,contra
+D156,PRO,dnu_delegadas,favor
+D156,PRO,tarifas_energia,contra
+D157,PRO,ley_bases,contra
+D157,PRO,reforma_laboral,favor
+D157,PRO,presupuesto,favor
+D157,PRO,privatizaciones,favor
+D157,PRO,retenciones_agro,contra
+D157,PRO,coparticipacion,contra
+D157,PRO,obra_publica_prov,contra
+D157,PRO,emergencia_jubilados,contra
+D157,PRO,financiamiento_univ,contra
+D157,PRO,salud_emergencia,contra
+D157,PRO,boleta_unica,favor
+D157,PRO,ficha_limpia,favor
+D157,PRO,reforma_politica,favor
+D157,PRO,dnu_delegadas,contra
+D157,PRO,tarifas_energia,favor
+D158,PRO,ley_bases,favor
+D158,PRO,reforma_laboral,favor
+D158,PRO,presupuesto,favor
+D158,PRO,privatizaciones,contra
+D158,PRO,retenciones_agro,contra
+D158,PRO,coparticipacion,contra
+D158,PRO,obra_publica_prov,contra
+D158,PRO,emergencia_jubilados,contra
+D158,PRO,financiamiento_univ,contra
+D158,PRO,salud_emergencia,contra
+D158,PRO,boleta_unica,favor
+D158,PRO,ficha_limpia,favor
+D158,PRO,reforma_politica,favor
+D158,PRO,dnu_delegadas,favor
+D158,PRO,tarifas_energia,favor
+D159,PRO,ley_bases,favor
+D159,PRO,reforma_laboral,favor
+D159,PRO,presupuesto,contra
+D159,PRO,privatizaciones,favor
+D159,PRO,retenciones_agro,favor
+D159,PRO,coparticipacion,contra
+D159,PRO,obra_publica_prov,contra
+D159,PRO,emergencia_jubilados,ausente
+D159,PRO,financiamiento_univ,favor
+D159,PRO,salud_emergencia,contra
+D159,PRO,boleta_unica,favor
+D159,PRO,ficha_limpia,favor
+D159,PRO,reforma_politica,favor
+D159,PRO,dnu_delegadas,favor
+D159,PRO,tarifas_energia,favor
+D160,PRO,ley_bases,favor
+D160,PRO,reforma_laboral,contra
+D160,PRO,presupuesto,favor
+D160,PRO,privatizaciones,favor
+D160,PRO,retenciones_agro,favor
+D160,PRO,coparticipacion,favor
+D160,PRO,obra_publica_prov,favor
+D160,PRO,emergencia_jubilados,contra
+D160,PRO,financiamiento_univ,favor
+D160,PRO,salud_emergencia,contra
+D160,PRO,boleta_unica,favor
+D160,PRO,ficha_limpia,favor
+D160,PRO,reforma_politica,contra
+D160,PRO,dnu_delegadas,favor
+D160,PRO,tarifas_energia,contra
+D161,PRO,ley_bases,favor
+D161,PRO,reforma_laboral,contra
+D161,PRO,presupuesto,favor
+D161,PRO,privatizaciones,favor
+D161,PRO,retenciones_agro,favor
+D161,PRO,coparticipacion,contra
+D161,PRO,obra_publica_prov,favor
+D161,PRO,emergencia_jubilados,favor
+D161,PRO,financiamiento_univ,favor
+D161,PRO,salud_emergencia,contra
+D161,PRO,boleta_unica,ausente
+D161,PRO,ficha_limpia,favor
+D161,PRO,reforma_politica,ausente
+D161,PRO,dnu_delegadas,contra
+D161,PRO,tarifas_energia,favor
+D162,PRO,ley_bases,favor
+D162,PRO,reforma_laboral,favor
+D162,PRO,presupuesto,favor
+D162,PRO,privatizaciones,favor
+D162,PRO,retenciones_agro,favor
+D162,PRO,coparticipacion,contra
+D162,PRO,obra_publica_prov,favor
+D162,PRO,emergencia_jubilados,contra
+D162,PRO,financiamiento_univ,contra
+D162,PRO,salud_emergencia,contra
+D162,PRO,boleta_unica,favor
+D162,PRO,ficha_limpia,favor
+D162,PRO,reforma_politica,contra
+D162,PRO,dnu_delegadas,favor
+D162,PRO,tarifas_energia,favor
+D163,PRO,ley_bases,favor
+D163,PRO,reforma_laboral,favor
+D163,PRO,presupuesto,favor
+D163,PRO,privatizaciones,favor
+D163,PRO,retenciones_agro,favor
+D163,PRO,coparticipacion,contra
+D163,PRO,obra_publica_prov,favor
+D163,PRO,emergencia_jubilados,contra
+D163,PRO,financiamiento_univ,contra
+D163,PRO,salud_emergencia,contra
+D163,PRO,boleta_unica,favor
+D163,PRO,ficha_limpia,favor
+D163,PRO,reforma_politica,favor
+D163,PRO,dnu_delegadas,favor
+D163,PRO,tarifas_energia,favor
+D164,PRO,ley_bases,favor
+D164,PRO,reforma_laboral,favor
+D164,PRO,presupuesto,favor
+D164,PRO,privatizaciones,ausente
+D164,PRO,retenciones_agro,ausente
+D164,PRO,coparticipacion,contra
+D164,PRO,obra_publica_prov,contra
+D164,PRO,emergencia_jubilados,ausente
+D164,PRO,financiamiento_univ,contra
+D164,PRO,salud_emergencia,contra
+D164,PRO,boleta_unica,favor
+D164,PRO,ficha_limpia,favor
+D164,PRO,reforma_politica,contra
+D164,PRO,dnu_delegadas,contra
+D164,PRO,tarifas_energia,favor
+D165,PRO,ley_bases,ausente
+D165,PRO,reforma_laboral,favor
+D165,PRO,presupuesto,favor
+D165,PRO,privatizaciones,favor
+D165,PRO,retenciones_agro,favor
+D165,PRO,coparticipacion,ausente
+D165,PRO,obra_publica_prov,favor
+D165,PRO,emergencia_jubilados,contra
+D165,PRO,financiamiento_univ,contra
+D165,PRO,salud_emergencia,contra
+D165,PRO,boleta_unica,favor
+D165,PRO,ficha_limpia,favor
+D165,PRO,reforma_politica,contra
+D165,PRO,dnu_delegadas,contra
+D165,PRO,tarifas_energia,contra
+D166,PRO,ley_bases,favor
+D166,PRO,reforma_laboral,favor
+D166,PRO,presupuesto,favor
+D166,PRO,privatizaciones,favor
+D166,PRO,retenciones_agro,contra
+D166,PRO,coparticipacion,favor
+D166,PRO,obra_publica_prov,contra
+D166,PRO,emergencia_jubilados,contra
+D166,PRO,financiamiento_univ,contra
+D166,PRO,salud_emergencia,ausente
+D166,PRO,boleta_unica,favor
+D166,PRO,ficha_limpia,favor
+D166,PRO,reforma_politica,contra
+D166,PRO,dnu_delegadas,favor
+D166,PRO,tarifas_energia,favor
+D167,PRO,ley_bases,contra
+D167,PRO,reforma_laboral,contra
+D167,PRO,presupuesto,contra
+D167,PRO,privatizaciones,contra
+D167,PRO,retenciones_agro,ausente
+D167,PRO,coparticipacion,contra
+D167,PRO,obra_publica_prov,contra
+D167,PRO,emergencia_jubilados,contra
+D167,PRO,financiamiento_univ,favor
+D167,PRO,salud_emergencia,contra
+D167,PRO,boleta_unica,favor
+D167,PRO,ficha_limpia,contra
+D167,PRO,reforma_politica,contra
+D167,PRO,dnu_delegadas,favor
+D167,PRO,tarifas_energia,favor
+D168,PRO,ley_bases,favor
+D168,PRO,reforma_laboral,favor
+D168,PRO,presupuesto,favor
+D168,PRO,privatizaciones,favor
+D168,PRO,retenciones_agro,favor
+D168,PRO,coparticipacion,contra
+D168,PRO,obra_publica_prov,contra
+D168,PRO,emergencia_jubilados,contra
+D168,PRO,financiamiento_univ,contra
+D168,PRO,salud_emergencia,contra
+D168,PRO,boleta_unica,favor
+D168,PRO,ficha_limpia,favor
+D168,PRO,reforma_politica,contra
+D168,PRO,dnu_delegadas,favor
+D168,PRO,tarifas_energia,favor
+D169,PRO,ley_bases,ausente
+D169,PRO,reforma_laboral,favor
+D169,PRO,presupuesto,favor
+D169,PRO,privatizaciones,favor
+D169,PRO,retenciones_agro,favor
+D169,PRO,coparticipacion,ausente
+D169,PRO,obra_publica_prov,contra
+D169,PRO,emergencia_jubilados,contra
+D169,PRO,financiamiento_univ,favor
+D169,PRO,salud_emergencia,contra
+D169,PRO,boleta_unica,contra
+D169,PRO,ficha_limpia,favor
+D169,PRO,reforma_politica,favor
+D169,PRO,dnu_delegadas,favor
+D169,PRO,tarifas_energia,contra
+D170,PRO,ley_bases,favor
+D170,PRO,reforma_laboral,favor
+D170,PRO,presupuesto,favor
+D170,PRO,privatizaciones,favor
+D170,PRO,retenciones_agro,favor
+D170,PRO,coparticipacion,favor
+D170,PRO,obra_publica_prov,contra
+D170,PRO,emergencia_jubilados,contra
+D170,PRO,financiamiento_univ,contra
+D170,PRO,salud_emergencia,contra
+D170,PRO,boleta_unica,favor
+D170,PRO,ficha_limpia,favor
+D170,PRO,reforma_politica,contra
+D170,PRO,dnu_delegadas,favor
+D170,PRO,tarifas_energia,favor
+D171,PRO,ley_bases,ausente
+D171,PRO,reforma_laboral,favor
+D171,PRO,presupuesto,favor
+D171,PRO,privatizaciones,contra
+D171,PRO,retenciones_agro,ausente
+D171,PRO,coparticipacion,favor
+D171,PRO,obra_publica_prov,contra
+D171,PRO,emergencia_jubilados,contra
+D171,PRO,financiamiento_univ,contra
+D171,PRO,salud_emergencia,favor
+D171,PRO,boleta_unica,favor
+D171,PRO,ficha_limpia,favor
+D171,PRO,reforma_politica,contra
+D171,PRO,dnu_delegadas,favor
+D171,PRO,tarifas_energia,contra
+D172,PRO,ley_bases,favor
+D172,PRO,reforma_laboral,favor
+D172,PRO,presupuesto,favor
+D172,PRO,privatizaciones,favor
+D172,PRO,retenciones_agro,favor
+D172,PRO,coparticipacion,contra
+D172,PRO,obra_publica_prov,favor
+D172,PRO,emergencia_jubilados,contra
+D172,PRO,financiamiento_univ,contra
+D172,PRO,salud_emergencia,favor
+D172,PRO,boleta_unica,favor
+D172,PRO,ficha_limpia,favor
+D172,PRO,reforma_politica,contra
+D172,PRO,dnu_delegadas,contra
+D172,PRO,tarifas_energia,favor
+D173,PRO,ley_bases,favor
+D173,PRO,reforma_laboral,favor
+D173,PRO,presupuesto,favor
+D173,PRO,privatizaciones,contra
+D173,PRO,retenciones_agro,ausente
+D173,PRO,coparticipacion,contra
+D173,PRO,obra_publica_prov,contra
+D173,PRO,emergencia_jubilados,contra
+D173,PRO,financiamiento_univ,favor
+D173,PRO,salud_emergencia,contra
+D173,PRO,boleta_unica,favor
+D173,PRO,ficha_limpia,favor
+D173,PRO,reforma_politica,contra
+D173,PRO,dnu_delegadas,favor
+D173,PRO,tarifas_energia,favor
+D174,UCR,ley_bases,contra
+D174,UCR,reforma_laboral,contra
+D174,UCR,presupuesto,contra
+D174,UCR,privatizaciones,contra
+D174,UCR,retenciones_agro,favor
+D174,UCR,coparticipacion,favor
+D174,UCR,obra_publica_prov,favor
+D174,UCR,emergencia_jubilados,favor
+D174,UCR,financiamiento_univ,favor
+D174,UCR,salud_emergencia,contra
+D174,UCR,boleta_unica,favor
+D174,UCR,ficha_limpia,favor
+D174,UCR,reforma_politica,contra
+D174,UCR,dnu_delegadas,contra
+D174,UCR,tarifas_energia,contra
+D175,UCR,ley_bases,favor
+D175,UCR,reforma_laboral,contra
+D175,UCR,presupuesto,favor
+D175,UCR,privatizaciones,favor
+D175,UCR,retenciones_agro,favor
+D175,UCR,coparticipacion,favor
+D175,UCR,obra_publica_prov,favor
+D175,UCR,emergencia_jubilados,contra
+D175,UCR,financiamiento_univ,contra
+D175,UCR,salud_emergencia,contra
+D175,UCR,boleta_unica,favor
+D175,UCR,ficha_limpia,favor
+D175,UCR,reforma_politica,favor
+D175,UCR,dnu_delegadas,contra
+D175,UCR,tarifas_energia,favor
+D176,UCR,ley_bases,favor
+D176,UCR,reforma_laboral,favor
+D176,UCR,presupuesto,favor
+D176,UCR,privatizaciones,ausente
+D176,UCR,retenciones_agro,favor
+D176,UCR,coparticipacion,ausente
+D176,UCR,obra_publica_prov,favor
+D176,UCR,emergencia_jubilados,contra
+D176,UCR,financiamiento_univ,contra
+D176,UCR,salud_emergencia,ausente
+D176,UCR,boleta_unica,favor
+D176,UCR,ficha_limpia,favor
+D176,UCR,reforma_politica,contra
+D176,UCR,dnu_delegadas,favor
+D176,UCR,tarifas_energia,favor
+D177,UCR,ley_bases,contra
+D177,UCR,reforma_laboral,contra
+D177,UCR,presupuesto,contra
+D177,UCR,privatizaciones,contra
+D177,UCR,retenciones_agro,favor
+D177,UCR,coparticipacion,favor
+D177,UCR,obra_publica_prov,favor
+D177,UCR,emergencia_jubilados,favor
+D177,UCR,financiamiento_univ,favor
+D177,UCR,salud_emergencia,favor
+D177,UCR,boleta_unica,favor
+D177,UCR,ficha_limpia,favor
+D177,UCR,reforma_politica,favor
+D177,UCR,dnu_delegadas,contra
+D177,UCR,tarifas_energia,ausente
+D178,UCR,ley_bases,contra
+D178,UCR,reforma_laboral,contra
+D178,UCR,presupuesto,ausente
+D178,UCR,privatizaciones,contra
+D178,UCR,retenciones_agro,contra
+D178,UCR,coparticipacion,favor
+D178,UCR,obra_publica_prov,favor
+D178,UCR,emergencia_jubilados,favor
+D178,UCR,financiamiento_univ,favor
+D178,UCR,salud_emergencia,favor
+D178,UCR,boleta_unica,ausente
+D178,UCR,ficha_limpia,contra
+D178,UCR,reforma_politica,favor
+D178,UCR,dnu_delegadas,contra
+D178,UCR,tarifas_energia,contra
+D179,UCR,ley_bases,favor
+D179,UCR,reforma_laboral,favor
+D179,UCR,presupuesto,favor
+D179,UCR,privatizaciones,favor
+D179,UCR,retenciones_agro,favor
+D179,UCR,coparticipacion,favor
+D179,UCR,obra_publica_prov,favor
+D179,UCR,emergencia_jubilados,contra
+D179,UCR,financiamiento_univ,contra
+D179,UCR,salud_emergencia,contra
+D179,UCR,boleta_unica,favor
+D179,UCR,ficha_limpia,favor
+D179,UCR,reforma_politica,favor
+D179,UCR,dnu_delegadas,favor
+D179,UCR,tarifas_energia,ausente
+D180,UCR,ley_bases,contra
+D180,UCR,reforma_laboral,favor
+D180,UCR,presupuesto,contra
+D180,UCR,privatizaciones,favor
+D180,UCR,retenciones_agro,favor
+D180,UCR,coparticipacion,favor
+D180,UCR,obra_publica_prov,favor
+D180,UCR,emergencia_jubilados,contra
+D180,UCR,financiamiento_univ,contra
+D180,UCR,salud_emergencia,contra
+D180,UCR,boleta_unica,favor
+D180,UCR,ficha_limpia,favor
+D180,UCR,reforma_politica,contra
+D180,UCR,dnu_delegadas,favor
+D180,UCR,tarifas_energia,contra
+D181,UCR,ley_bases,contra
+D181,UCR,reforma_laboral,contra
+D181,UCR,presupuesto,contra
+D181,UCR,privatizaciones,contra
+D181,UCR,retenciones_agro,contra
+D181,UCR,coparticipacion,favor
+D181,UCR,obra_publica_prov,favor
+D181,UCR,emergencia_jubilados,favor
+D181,UCR,financiamiento_univ,contra
+D181,UCR,salud_emergencia,favor
+D181,UCR,boleta_unica,favor
+D181,UCR,ficha_limpia,favor
+D181,UCR,reforma_politica,contra
+D181,UCR,dnu_delegadas,favor
+D181,UCR,tarifas_energia,ausente
+D182,UCR,ley_bases,contra
+D182,UCR,reforma_laboral,contra
+D182,UCR,presupuesto,contra
+D182,UCR,privatizaciones,contra
+D182,UCR,retenciones_agro,contra
+D182,UCR,coparticipacion,favor
+D182,UCR,obra_publica_prov,favor
+D182,UCR,emergencia_jubilados,ausente
+D182,UCR,financiamiento_univ,favor
+D182,UCR,salud_emergencia,contra
+D182,UCR,boleta_unica,contra
+D182,UCR,ficha_limpia,favor
+D182,UCR,reforma_politica,favor
+D182,UCR,dnu_delegadas,contra
+D182,UCR,tarifas_energia,contra
+D183,UCR,ley_bases,contra
+D183,UCR,reforma_laboral,contra
+D183,UCR,presupuesto,favor
+D183,UCR,privatizaciones,favor
+D183,UCR,retenciones_agro,contra
+D183,UCR,coparticipacion,contra
+D183,UCR,obra_publica_prov,ausente
+D183,UCR,emergencia_jubilados,favor
+D183,UCR,financiamiento_univ,contra
+D183,UCR,salud_emergencia,contra
+D183,UCR,boleta_unica,favor
+D183,UCR,ficha_limpia,favor
+D183,UCR,reforma_politica,favor
+D183,UCR,dnu_delegadas,favor
+D183,UCR,tarifas_energia,contra
+D184,UCR,ley_bases,favor
+D184,UCR,reforma_laboral,favor
+D184,UCR,presupuesto,favor
+D184,UCR,privatizaciones,favor
+D184,UCR,retenciones_agro,favor
+D184,UCR,coparticipacion,favor
+D184,UCR,obra_publica_prov,favor
+D184,UCR,emergencia_jubilados,contra
+D184,UCR,financiamiento_univ,favor
+D184,UCR,salud_emergencia,contra
+D184,UCR,boleta_unica,favor
+D184,UCR,ficha_limpia,favor
+D184,UCR,reforma_politica,contra
+D184,UCR,dnu_delegadas,contra
+D184,UCR,tarifas_energia,favor
+D185,UCR,ley_bases,favor
+D185,UCR,reforma_laboral,favor
+D185,UCR,presupuesto,favor
+D185,UCR,privatizaciones,contra
+D185,UCR,retenciones_agro,favor
+D185,UCR,coparticipacion,favor
+D185,UCR,obra_publica_prov,ausente
+D185,UCR,emergencia_jubilados,contra
+D185,UCR,financiamiento_univ,contra
+D185,UCR,salud_emergencia,contra
+D185,UCR,boleta_unica,favor
+D185,UCR,ficha_limpia,contra
+D185,UCR,reforma_politica,contra
+D185,UCR,dnu_delegadas,favor
+D185,UCR,tarifas_energia,ausente
+D186,UCR,ley_bases,contra
+D186,UCR,reforma_laboral,contra
+D186,UCR,presupuesto,contra
+D186,UCR,privatizaciones,contra
+D186,UCR,retenciones_agro,favor
+D186,UCR,coparticipacion,favor
+D186,UCR,obra_publica_prov,favor
+D186,UCR,emergencia_jubilados,favor
+D186,UCR,financiamiento_univ,favor
+D186,UCR,salud_emergencia,favor
+D186,UCR,boleta_unica,favor
+D186,UCR,ficha_limpia,favor
+D186,UCR,reforma_politica,contra
+D186,UCR,dnu_delegadas,contra
+D186,UCR,tarifas_energia,favor
+D187,UCR,ley_bases,contra
+D187,UCR,reforma_laboral,contra
+D187,UCR,presupuesto,contra
+D187,UCR,privatizaciones,contra
+D187,UCR,retenciones_agro,favor
+D187,UCR,coparticipacion,favor
+D187,UCR,obra_publica_prov,favor
+D187,UCR,emergencia_jubilados,favor
+D187,UCR,financiamiento_univ,favor
+D187,UCR,salud_emergencia,favor
+D187,UCR,boleta_unica,contra
+D187,UCR,ficha_limpia,contra
+D187,UCR,reforma_politica,contra
+D187,UCR,dnu_delegadas,contra
+D187,UCR,tarifas_energia,contra
+D188,UCR,ley_bases,favor
+D188,UCR,reforma_laboral,contra
+D188,UCR,presupuesto,contra
+D188,UCR,privatizaciones,contra
+D188,UCR,retenciones_agro,favor
+D188,UCR,coparticipacion,favor
+D188,UCR,obra_publica_prov,ausente
+D188,UCR,emergencia_jubilados,favor
+D188,UCR,financiamiento_univ,favor
+D188,UCR,salud_emergencia,favor
+D188,UCR,boleta_unica,contra
+D188,UCR,ficha_limpia,favor
+D188,UCR,reforma_politica,favor
+D188,UCR,dnu_delegadas,ausente
+D188,UCR,tarifas_energia,contra
+D189,UCR,ley_bases,contra
+D189,UCR,reforma_laboral,contra
+D189,UCR,presupuesto,contra
+D189,UCR,privatizaciones,contra
+D189,UCR,retenciones_agro,contra
+D189,UCR,coparticipacion,favor
+D189,UCR,obra_publica_prov,favor
+D189,UCR,emergencia_jubilados,favor
+D189,UCR,financiamiento_univ,ausente
+D189,UCR,salud_emergencia,favor
+D189,UCR,boleta_unica,favor
+D189,UCR,ficha_limpia,contra
+D189,UCR,reforma_politica,favor
+D189,UCR,dnu_delegadas,contra
+D189,UCR,tarifas_energia,contra
+D190,UCR,ley_bases,contra
+D190,UCR,reforma_laboral,contra
+D190,UCR,presupuesto,contra
+D190,UCR,privatizaciones,contra
+D190,UCR,retenciones_agro,favor
+D190,UCR,coparticipacion,favor
+D190,UCR,obra_publica_prov,favor
+D190,UCR,emergencia_jubilados,favor
+D190,UCR,financiamiento_univ,favor
+D190,UCR,salud_emergencia,contra
+D190,UCR,boleta_unica,contra
+D190,UCR,ficha_limpia,favor
+D190,UCR,reforma_politica,favor
+D190,UCR,dnu_delegadas,contra
+D190,UCR,tarifas_energia,contra
+D191,UCR,ley_bases,contra
+D191,UCR,reforma_laboral,contra
+D191,UCR,presupuesto,contra
+D191,UCR,privatizaciones,contra
+D191,UCR,retenciones_agro,favor
+D191,UCR,coparticipacion,favor
+D191,UCR,obra_publica_prov,ausente
+D191,UCR,emergencia_jubilados,favor
+D191,UCR,financiamiento_univ,favor
+D191,UCR,salud_emergencia,favor
+D191,UCR,boleta_unica,contra
+D191,UCR,ficha_limpia,contra
+D191,UCR,reforma_politica,favor
+D191,UCR,dnu_delegadas,contra
+D191,UCR,tarifas_energia,contra
+D192,UCR,ley_bases,contra
+D192,UCR,reforma_laboral,favor
+D192,UCR,presupuesto,favor
+D192,UCR,privatizaciones,contra
+D192,UCR,retenciones_agro,favor
+D192,UCR,coparticipacion,favor
+D192,UCR,obra_publica_prov,favor
+D192,UCR,emergencia_jubilados,favor
+D192,UCR,financiamiento_univ,favor
+D192,UCR,salud_emergencia,contra
+D192,UCR,boleta_unica,ausente
+D192,UCR,ficha_limpia,favor
+D192,UCR,reforma_politica,favor
+D192,UCR,dnu_delegadas,contra
+D192,UCR,tarifas_energia,contra
+D193,UCR,ley_bases,contra
+D193,UCR,reforma_laboral,contra
+D193,UCR,presupuesto,contra
+D193,UCR,privatizaciones,favor
+D193,UCR,retenciones_agro,favor
+D193,UCR,coparticipacion,ausente
+D193,UCR,obra_publica_prov,favor
+D193,UCR,emergencia_jubilados,contra
+D193,UCR,financiamiento_univ,favor
+D193,UCR,salud_emergencia,favor
+D193,UCR,boleta_unica,favor
+D193,UCR,ficha_limpia,favor
+D193,UCR,reforma_politica,contra
+D193,UCR,dnu_delegadas,contra
+D193,UCR,tarifas_energia,contra
+D194,UCR,ley_bases,favor
+D194,UCR,reforma_laboral,favor
+D194,UCR,presupuesto,favor
+D194,UCR,privatizaciones,favor
+D194,UCR,retenciones_agro,favor
+D194,UCR,coparticipacion,favor
+D194,UCR,obra_publica_prov,contra
+D194,UCR,emergencia_jubilados,contra
+D194,UCR,financiamiento_univ,favor
+D194,UCR,salud_emergencia,contra
+D194,UCR,boleta_unica,ausente
+D194,UCR,ficha_limpia,favor
+D194,UCR,reforma_politica,contra
+D194,UCR,dnu_delegadas,favor
+D194,UCR,tarifas_energia,contra
+D195,UCR,ley_bases,contra
+D195,UCR,reforma_laboral,contra
+D195,UCR,presupuesto,contra
+D195,UCR,privatizaciones,contra
+D195,UCR,retenciones_agro,favor
+D195,UCR,coparticipacion,favor
+D195,UCR,obra_publica_prov,favor
+D195,UCR,emergencia_jubilados,contra
+D195,UCR,financiamiento_univ,favor
+D195,UCR,salud_emergencia,contra
+D195,UCR,boleta_unica,favor
+D195,UCR,ficha_limpia,favor
+D195,UCR,reforma_politica,ausente
+D195,UCR,dnu_delegadas,contra
+D195,UCR,tarifas_energia,favor
+D196,UCR,ley_bases,contra
+D196,UCR,reforma_laboral,favor
+D196,UCR,presupuesto,favor
+D196,UCR,privatizaciones,favor
+D196,UCR,retenciones_agro,favor
+D196,UCR,coparticipacion,favor
+D196,UCR,obra_publica_prov,favor
+D196,UCR,emergencia_jubilados,contra
+D196,UCR,financiamiento_univ,favor
+D196,UCR,salud_emergencia,favor
+D196,UCR,boleta_unica,contra
+D196,UCR,ficha_limpia,favor
+D196,UCR,reforma_politica,favor
+D196,UCR,dnu_delegadas,favor
+D196,UCR,tarifas_energia,favor
+D197,UCR,ley_bases,contra
+D197,UCR,reforma_laboral,favor
+D197,UCR,presupuesto,ausente
+D197,UCR,privatizaciones,contra
+D197,UCR,retenciones_agro,favor
+D197,UCR,coparticipacion,favor
+D197,UCR,obra_publica_prov,favor
+D197,UCR,emergencia_jubilados,favor
+D197,UCR,financiamiento_univ,favor
+D197,UCR,salud_emergencia,favor
+D197,UCR,boleta_unica,favor
+D197,UCR,ficha_limpia,favor
+D197,UCR,reforma_politica,contra
+D197,UCR,dnu_delegadas,contra
+D197,UCR,tarifas_energia,ausente
+D198,UCR,ley_bases,favor
+D198,UCR,reforma_laboral,favor
+D198,UCR,presupuesto,favor
+D198,UCR,privatizaciones,favor
+D198,UCR,retenciones_agro,favor
+D198,UCR,coparticipacion,contra
+D198,UCR,obra_publica_prov,contra
+D198,UCR,emergencia_jubilados,favor
+D198,UCR,financiamiento_univ,favor
+D198,UCR,salud_emergencia,contra
+D198,UCR,boleta_unica,favor
+D198,UCR,ficha_limpia,favor
+D198,UCR,reforma_politica,contra
+D198,UCR,dnu_delegadas,contra
+D198,UCR,tarifas_energia,favor
+D199,UCR,ley_bases,favor
+D199,UCR,reforma_laboral,favor
+D199,UCR,presupuesto,favor
+D199,UCR,privatizaciones,favor
+D199,UCR,retenciones_agro,favor
+D199,UCR,coparticipacion,favor
+D199,UCR,obra_publica_prov,favor
+D199,UCR,emergencia_jubilados,contra
+D199,UCR,financiamiento_univ,contra
+D199,UCR,salud_emergencia,favor
+D199,UCR,boleta_unica,favor
+D199,UCR,ficha_limpia,favor
+D199,UCR,reforma_politica,contra
+D199,UCR,dnu_delegadas,favor
+D199,UCR,tarifas_energia,contra
+D200,UCR,ley_bases,contra
+D200,UCR,reforma_laboral,favor
+D200,UCR,presupuesto,ausente
+D200,UCR,privatizaciones,favor
+D200,UCR,retenciones_agro,ausente
+D200,UCR,coparticipacion,favor
+D200,UCR,obra_publica_prov,favor
+D200,UCR,emergencia_jubilados,contra
+D200,UCR,financiamiento_univ,favor
+D200,UCR,salud_emergencia,favor
+D200,UCR,boleta_unica,favor
+D200,UCR,ficha_limpia,favor
+D200,UCR,reforma_politica,favor
+D200,UCR,dnu_delegadas,contra
+D200,UCR,tarifas_energia,contra
+D201,UCR,ley_bases,contra
+D201,UCR,reforma_laboral,contra
+D201,UCR,presupuesto,contra
+D201,UCR,privatizaciones,favor
+D201,UCR,retenciones_agro,contra
+D201,UCR,coparticipacion,favor
+D201,UCR,obra_publica_prov,favor
+D201,UCR,emergencia_jubilados,favor
+D201,UCR,financiamiento_univ,favor
+D201,UCR,salud_emergencia,favor
+D201,UCR,boleta_unica,favor
+D201,UCR,ficha_limpia,favor
+D201,UCR,reforma_politica,favor
+D201,UCR,dnu_delegadas,favor
+D201,UCR,tarifas_energia,favor
+D202,UCR,ley_bases,favor
+D202,UCR,reforma_laboral,favor
+D202,UCR,presupuesto,contra
+D202,UCR,privatizaciones,contra
+D202,UCR,retenciones_agro,contra
+D202,UCR,coparticipacion,contra
+D202,UCR,obra_publica_prov,favor
+D202,UCR,emergencia_jubilados,contra
+D202,UCR,financiamiento_univ,favor
+D202,UCR,salud_emergencia,contra
+D202,UCR,boleta_unica,favor
+D202,UCR,ficha_limpia,favor
+D202,UCR,reforma_politica,contra
+D202,UCR,dnu_delegadas,contra
+D202,UCR,tarifas_energia,contra
+D203,UCR,ley_bases,favor
+D203,UCR,reforma_laboral,favor
+D203,UCR,presupuesto,favor
+D203,UCR,privatizaciones,favor
+D203,UCR,retenciones_agro,contra
+D203,UCR,coparticipacion,favor
+D203,UCR,obra_publica_prov,favor
+D203,UCR,emergencia_jubilados,ausente
+D203,UCR,financiamiento_univ,ausente
+D203,UCR,salud_emergencia,contra
+D203,UCR,boleta_unica,favor
+D203,UCR,ficha_limpia,favor
+D203,UCR,reforma_politica,contra
+D203,UCR,dnu_delegadas,favor
+D203,UCR,tarifas_energia,favor
+D204,UCR,ley_bases,favor
+D204,UCR,reforma_laboral,favor
+D204,UCR,presupuesto,favor
+D204,UCR,privatizaciones,favor
+D204,UCR,retenciones_agro,ausente
+D204,UCR,coparticipacion,contra
+D204,UCR,obra_publica_prov,favor
+D204,UCR,emergencia_jubilados,ausente
+D204,UCR,financiamiento_univ,contra
+D204,UCR,salud_emergencia,ausente
+D204,UCR,boleta_unica,favor
+D204,UCR,ficha_limpia,favor
+D204,UCR,reforma_politica,favor
+D204,UCR,dnu_delegadas,favor
+D204,UCR,tarifas_energia,favor
+D205,UCR,ley_bases,favor
+D205,UCR,reforma_laboral,ausente
+D205,UCR,presupuesto,favor
+D205,UCR,privatizaciones,contra
+D205,UCR,retenciones_agro,favor
+D205,UCR,coparticipacion,contra
+D205,UCR,obra_publica_prov,favor
+D205,UCR,emergencia_jubilados,contra
+D205,UCR,financiamiento_univ,contra
+D205,UCR,salud_emergencia,contra
+D205,UCR,boleta_unica,favor
+D205,UCR,ficha_limpia,favor
+D205,UCR,reforma_politica,favor
+D205,UCR,dnu_delegadas,favor
+D205,UCR,tarifas_energia,favor
+D206,UCR,ley_bases,favor
+D206,UCR,reforma_laboral,favor
+D206,UCR,presupuesto,favor
+D206,UCR,privatizaciones,favor
+D206,UCR,retenciones_agro,favor
+D206,UCR,coparticipacion,favor
+D206,UCR,obra_publica_prov,favor
+D206,UCR,emergencia_jubilados,contra
+D206,UCR,financiamiento_univ,contra
+D206,UCR,salud_emergencia,contra
+D206,UCR,boleta_unica,favor
+D206,UCR,ficha_limpia,ausente
+D206,UCR,reforma_politica,favor
+D206,UCR,dnu_delegadas,contra
+D206,UCR,tarifas_energia,ausente
+D207,UCR,ley_bases,contra
+D207,UCR,reforma_laboral,ausente
+D207,UCR,presupuesto,contra
+D207,UCR,privatizaciones,favor
+D207,UCR,retenciones_agro,favor
+D207,UCR,coparticipacion,favor
+D207,UCR,obra_publica_prov,favor
+D207,UCR,emergencia_jubilados,ausente
+D207,UCR,financiamiento_univ,contra
+D207,UCR,salud_emergencia,contra
+D207,UCR,boleta_unica,favor
+D207,UCR,ficha_limpia,favor
+D207,UCR,reforma_politica,contra
+D207,UCR,dnu_delegadas,contra
+D207,UCR,tarifas_energia,favor
+D208,Coalición Federal,ley_bases,contra
+D208,Coalición Federal,reforma_laboral,favor
+D208,Coalición Federal,presupuesto,contra
+D208,Coalición Federal,privatizaciones,contra
+D208,Coalición Federal,retenciones_agro,favor
+D208,Coalición Federal,coparticipacion,favor
+D208,Coalición Federal,obra_publica_prov,favor
+D208,Coalición Federal,emergencia_jubilados,contra
+D208,Coalición Federal,financiamiento_univ,favor
+D208,Coalición Federal,salud_emergencia,favor
+D208,Coalición Federal,boleta_unica,favor
+D208,Coalición Federal,ficha_limpia,favor
+D208,Coalición Federal,reforma_politica,favor
+D208,Coalición Federal,dnu_delegadas,contra
+D208,Coalición Federal,tarifas_energia,contra
+D209,Coalición Federal,ley_bases,contra
+D209,Coalición Federal,reforma_laboral,contra
+D209,Coalición Federal,presupuesto,contra
+D209,Coalición Federal,privatizaciones,contra
+D209,Coalición Federal,retenciones_agro,favor
+D209,Coalición Federal,coparticipacion,favor
+D209,Coalición Federal,obra_publica_prov,favor
+D209,Coalición Federal,emergencia_jubilados,favor
+D209,Coalición Federal,financiamiento_univ,favor
+D209,Coalición Federal,salud_emergencia,favor
+D209,Coalición Federal,boleta_unica,favor
+D209,Coalición Federal,ficha_limpia,favor
+D209,Coalición Federal,reforma_politica,favor
+D209,Coalición Federal,dnu_delegadas,contra
+D209,Coalición Federal,tarifas_energia,contra
+D210,Coalición Federal,ley_bases,contra
+D210,Coalición Federal,reforma_laboral,favor
+D210,Coalición Federal,presupuesto,favor
+D210,Coalición Federal,privatizaciones,contra
+D210,Coalición Federal,retenciones_agro,favor
+D210,Coalición Federal,coparticipacion,favor
+D210,Coalición Federal,obra_publica_prov,ausente
+D210,Coalición Federal,emergencia_jubilados,contra
+D210,Coalición Federal,financiamiento_univ,favor
+D210,Coalición Federal,salud_emergencia,favor
+D210,Coalición Federal,boleta_unica,favor
+D210,Coalición Federal,ficha_limpia,favor
+D210,Coalición Federal,reforma_politica,favor
+D210,Coalición Federal,dnu_delegadas,contra
+D210,Coalición Federal,tarifas_energia,ausente
+D211,Coalición Federal,ley_bases,contra
+D211,Coalición Federal,reforma_laboral,contra
+D211,Coalición Federal,presupuesto,contra
+D211,Coalición Federal,privatizaciones,contra
+D211,Coalición Federal,retenciones_agro,contra
+D211,Coalición Federal,coparticipacion,favor
+D211,Coalición Federal,obra_publica_prov,favor
+D211,Coalición Federal,emergencia_jubilados,favor
+D211,Coalición Federal,financiamiento_univ,contra
+D211,Coalición Federal,salud_emergencia,favor
+D211,Coalición Federal,boleta_unica,favor
+D211,Coalición Federal,ficha_limpia,favor
+D211,Coalición Federal,reforma_politica,contra
+D211,Coalición Federal,dnu_delegadas,contra
+D211,Coalición Federal,tarifas_energia,ausente
+D212,Coalición Federal,ley_bases,favor
+D212,Coalición Federal,reforma_laboral,favor
+D212,Coalición Federal,presupuesto,contra
+D212,Coalición Federal,privatizaciones,ausente
+D212,Coalición Federal,retenciones_agro,favor
+D212,Coalición Federal,coparticipacion,favor
+D212,Coalición Federal,obra_publica_prov,contra
+D212,Coalición Federal,emergencia_jubilados,contra
+D212,Coalición Federal,financiamiento_univ,contra
+D212,Coalición Federal,salud_emergencia,contra
+D212,Coalición Federal,boleta_unica,favor
+D212,Coalición Federal,ficha_limpia,favor
+D212,Coalición Federal,reforma_politica,favor
+D212,Coalición Federal,dnu_delegadas,favor
+D212,Coalición Federal,tarifas_energia,favor
+D213,Coalición Federal,ley_bases,contra
+D213,Coalición Federal,reforma_laboral,contra
+D213,Coalición Federal,presupuesto,contra
+D213,Coalición Federal,privatizaciones,contra
+D213,Coalición Federal,retenciones_agro,favor
+D213,Coalición Federal,coparticipacion,favor
+D213,Coalición Federal,obra_publica_prov,favor
+D213,Coalición Federal,emergencia_jubilados,favor
+D213,Coalición Federal,financiamiento_univ,favor
+D213,Coalición Federal,salud_emergencia,favor
+D213,Coalición Federal,boleta_unica,contra
+D213,Coalición Federal,ficha_limpia,favor
+D213,Coalición Federal,reforma_politica,favor
+D213,Coalición Federal,dnu_delegadas,contra
+D213,Coalición Federal,tarifas_energia,contra
+D214,Coalición Federal,ley_bases,contra
+D214,Coalición Federal,reforma_laboral,contra
+D214,Coalición Federal,presupuesto,contra
+D214,Coalición Federal,privatizaciones,contra
+D214,Coalición Federal,retenciones_agro,contra
+D214,Coalición Federal,coparticipacion,favor
+D214,Coalición Federal,obra_publica_prov,favor
+D214,Coalición Federal,emergencia_jubilados,favor
+D214,Coalición Federal,financiamiento_univ,favor
+D214,Coalición Federal,salud_emergencia,favor
+D214,Coalición Federal,boleta_unica,favor
+D214,Coalición Federal,ficha_limpia,contra
+D214,Coalición Federal,reforma_politica,favor
+D214,Coalición Federal,dnu_delegadas,contra
+D214,Coalición Federal,tarifas_energia,contra
+D215,Coalición Federal,ley_bases,favor
+D215,Coalición Federal,reforma_laboral,contra
+D215,Coalición Federal,presupuesto,favor
+D215,Coalición Federal,privatizaciones,favor
+D215,Coalición Federal,retenciones_agro,favor
+D215,Coalición Federal,coparticipacion,favor
+D215,Coalición Federal,obra_publica_prov,favor
+D215,Coalición Federal,emergencia_jubilados,contra
+D215,Coalición Federal,financiamiento_univ,contra
+D215,Coalición Federal,salud_emergencia,contra
+D215,Coalición Federal,boleta_unica,favor
+D215,Coalición Federal,ficha_limpia,favor
+D215,Coalición Federal,reforma_politica,favor
+D215,Coalición Federal,dnu_delegadas,contra
+D215,Coalición Federal,tarifas_energia,favor
+D216,Coalición Federal,ley_bases,favor
+D216,Coalición Federal,reforma_laboral,favor
+D216,Coalición Federal,presupuesto,favor
+D216,Coalición Federal,privatizaciones,favor
+D216,Coalición Federal,retenciones_agro,favor
+D216,Coalición Federal,coparticipacion,contra
+D216,Coalición Federal,obra_publica_prov,favor
+D216,Coalición Federal,emergencia_jubilados,favor
+D216,Coalición Federal,financiamiento_univ,favor
+D216,Coalición Federal,salud_emergencia,favor
+D216,Coalición Federal,boleta_unica,favor
+D216,Coalición Federal,ficha_limpia,favor
+D216,Coalición Federal,reforma_politica,favor
+D216,Coalición Federal,dnu_delegadas,contra
+D216,Coalición Federal,tarifas_energia,contra
+D217,Coalición Federal,ley_bases,contra
+D217,Coalición Federal,reforma_laboral,contra
+D217,Coalición Federal,presupuesto,contra
+D217,Coalición Federal,privatizaciones,contra
+D217,Coalición Federal,retenciones_agro,favor
+D217,Coalición Federal,coparticipacion,favor
+D217,Coalición Federal,obra_publica_prov,favor
+D217,Coalición Federal,emergencia_jubilados,contra
+D217,Coalición Federal,financiamiento_univ,favor
+D217,Coalición Federal,salud_emergencia,favor
+D217,Coalición Federal,boleta_unica,contra
+D217,Coalición Federal,ficha_limpia,favor
+D217,Coalición Federal,reforma_politica,favor
+D217,Coalición Federal,dnu_delegadas,contra
+D217,Coalición Federal,tarifas_energia,favor
+D218,Coalición Federal,ley_bases,ausente
+D218,Coalición Federal,reforma_laboral,contra
+D218,Coalición Federal,presupuesto,contra
+D218,Coalición Federal,privatizaciones,ausente
+D218,Coalición Federal,retenciones_agro,contra
+D218,Coalición Federal,coparticipacion,favor
+D218,Coalición Federal,obra_publica_prov,favor
+D218,Coalición Federal,emergencia_jubilados,favor
+D218,Coalición Federal,financiamiento_univ,favor
+D218,Coalición Federal,salud_emergencia,favor
+D218,Coalición Federal,boleta_unica,favor
+D218,Coalición Federal,ficha_limpia,favor
+D218,Coalición Federal,reforma_politica,favor
+D218,Coalición Federal,dnu_delegadas,contra
+D218,Coalición Federal,tarifas_energia,contra
+D219,Coalición Federal,ley_bases,contra
+D219,Coalición Federal,reforma_laboral,favor
+D219,Coalición Federal,presupuesto,contra
+D219,Coalición Federal,privatizaciones,contra
+D219,Coalición Federal,retenciones_agro,favor
+D219,Coalición Federal,coparticipacion,favor
+D219,Coalición Federal,obra_publica_prov,favor
+D219,Coalición Federal,emergencia_jubilados,favor
+D219,Coalición Federal,financiamiento_univ,favor
+D219,Coalición Federal,salud_emergencia,favor
+D219,Coalición Federal,boleta_unica,favor
+D219,Coalición Federal,ficha_limpia,favor
+D219,Coalición Federal,reforma_politica,contra
+D219,Coalición Federal,dnu_delegadas,contra
+D219,Coalición Federal,tarifas_energia,contra
+D220,Coalición Federal,ley_bases,favor
+D220,Coalición Federal,reforma_laboral,contra
+D220,Coalición Federal,presupuesto,contra
+D220,Coalición Federal,privatizaciones,contra
+D220,Coalición Federal,retenciones_agro,contra
+D220,Coalición Federal,coparticipacion,favor
+D220,Coalición Federal,obra_publica_prov,favor
+D220,Coalición Federal,emergencia_jubilados,contra
+D220,Coalición Federal,financiamiento_univ,favor
+D220,Coalición Federal,salud_emergencia,favor
+D220,Coalición Federal,boleta_unica,favor
+D220,Coalición Federal,ficha_limpia,favor
+D220,Coalición Federal,reforma_politica,contra
+D220,Coalición Federal,dnu_delegadas,contra
+D220,Coalición Federal,tarifas_energia,favor
+D221,Coalición Federal,ley_bases,favor
+D221,Coalición Federal,reforma_laboral,favor
+D221,Coalición Federal,presupuesto,favor
+D221,Coalición Federal,privatizaciones,favor
+D221,Coalición Federal,retenciones_agro,favor
+D221,Coalición Federal,coparticipacion,favor
+D221,Coalición Federal,obra_publica_prov,favor
+D221,Coalición Federal,emergencia_jubilados,contra
+D221,Coalición Federal,financiamiento_univ,ausente
+D221,Coalición Federal,salud_emergencia,contra
+D221,Coalición Federal,boleta_unica,favor
+D221,Coalición Federal,ficha_limpia,favor
+D221,Coalición Federal,reforma_politica,favor
+D221,Coalición Federal,dnu_delegadas,contra
+D221,Coalición Federal,tarifas_energia,contra
+D222,Coalición Federal,ley_bases,contra
+D222,Coalición Federal,reforma_laboral,contra
+D222,Coalición Federal,presupuesto,contra
+D222,Coalición Federal,privatizaciones,contra
+D222,Coalición Federal,retenciones_agro,contra
+D222,Coalición Federal,coparticipacion,favor
+D222,Coalición Federal,obra_publica_prov,favor
+D222,Coalición Federal,emergencia_jubilados,favor
+D222,Coalición Federal,financiamiento_univ,favor
+D222,Coalición Federal,salud_emergencia,ausente
+D222,Coalición Federal,boleta_unica,favor
+D222,Coalición Federal,ficha_limpia,favor
+D222,Coalición Federal,reforma_politica,favor
+D222,Coalición Federal,dnu_delegadas,contra
+D222,Coalición Federal,tarifas_energia,contra
+D223,Coalición Federal,ley_bases,ausente
+D223,Coalición Federal,reforma_laboral,contra
+D223,Coalición Federal,presupuesto,contra
+D223,Coalición Federal,privatizaciones,contra
+D223,Coalición Federal,retenciones_agro,favor
+D223,Coalición Federal,coparticipacion,favor
+D223,Coalición Federal,obra_publica_prov,favor
+D223,Coalición Federal,emergencia_jubilados,ausente
+D223,Coalición Federal,financiamiento_univ,favor
+D223,Coalición Federal,salud_emergencia,favor
+D223,Coalición Federal,boleta_unica,favor
+D223,Coalición Federal,ficha_limpia,contra
+D223,Coalición Federal,reforma_politica,favor
+D223,Coalición Federal,dnu_delegadas,contra
+D223,Coalición Federal,tarifas_energia,contra
+D224,Coalición Federal,ley_bases,contra
+D224,Coalición Federal,reforma_laboral,contra
+D224,Coalición Federal,presupuesto,favor
+D224,Coalición Federal,privatizaciones,contra
+D224,Coalición Federal,retenciones_agro,contra
+D224,Coalición Federal,coparticipacion,favor
+D224,Coalición Federal,obra_publica_prov,favor
+D224,Coalición Federal,emergencia_jubilados,ausente
+D224,Coalición Federal,financiamiento_univ,favor
+D224,Coalición Federal,salud_emergencia,favor
+D224,Coalición Federal,boleta_unica,favor
+D224,Coalición Federal,ficha_limpia,favor
+D224,Coalición Federal,reforma_politica,favor
+D224,Coalición Federal,dnu_delegadas,contra
+D224,Coalición Federal,tarifas_energia,ausente
+D225,Coalición Federal,ley_bases,contra
+D225,Coalición Federal,reforma_laboral,contra
+D225,Coalición Federal,presupuesto,contra
+D225,Coalición Federal,privatizaciones,contra
+D225,Coalición Federal,retenciones_agro,contra
+D225,Coalición Federal,coparticipacion,ausente
+D225,Coalición Federal,obra_publica_prov,favor
+D225,Coalición Federal,emergencia_jubilados,favor
+D225,Coalición Federal,financiamiento_univ,favor
+D225,Coalición Federal,salud_emergencia,favor
+D225,Coalición Federal,boleta_unica,contra
+D225,Coalición Federal,ficha_limpia,contra
+D225,Coalición Federal,reforma_politica,contra
+D225,Coalición Federal,dnu_delegadas,contra
+D225,Coalición Federal,tarifas_energia,contra
+D226,Coalición Federal,ley_bases,contra
+D226,Coalición Federal,reforma_laboral,ausente
+D226,Coalición Federal,presupuesto,favor
+D226,Coalición Federal,privatizaciones,ausente
+D226,Coalición Federal,retenciones_agro,favor
+D226,Coalición Federal,coparticipacion,favor
+D226,Coalición Federal,obra_publica_prov,ausente
+D226,Coalición Federal,emergencia_jubilados,contra
+D226,Coalición Federal,financiamiento_univ,favor
+D226,Coalición Federal,salud_emergencia,favor
+D226,Coalición Federal,boleta_unica,favor
+D226,Coalición Federal,ficha_limpia,favor
+D226,Coalición Federal,reforma_politica,favor
+D226,Coalición Federal,dnu_delegadas,favor
+D226,Coalición Federal,tarifas_energia,contra
+D227,Coalición Federal,ley_bases,favor
+D227,Coalición Federal,reforma_laboral,contra
+D227,Coalición Federal,presupuesto,contra
+D227,Coalición Federal,privatizaciones,contra
+D227,Coalición Federal,retenciones_agro,favor
+D227,Coalición Federal,coparticipacion,contra
+D227,Coalición Federal,obra_publica_prov,favor
+D227,Coalición Federal,emergencia_jubilados,contra
+D227,Coalición Federal,financiamiento_univ,contra
+D227,Coalición Federal,salud_emergencia,favor
+D227,Coalición Federal,boleta_unica,favor
+D227,Coalición Federal,ficha_limpia,favor
+D227,Coalición Federal,reforma_politica,contra
+D227,Coalición Federal,dnu_delegadas,favor
+D227,Coalición Federal,tarifas_energia,favor
+D228,Coalición Federal,ley_bases,favor
+D228,Coalición Federal,reforma_laboral,contra
+D228,Coalición Federal,presupuesto,favor
+D228,Coalición Federal,privatizaciones,contra
+D228,Coalición Federal,retenciones_agro,favor
+D228,Coalición Federal,coparticipacion,favor
+D228,Coalición Federal,obra_publica_prov,favor
+D228,Coalición Federal,emergencia_jubilados,contra
+D228,Coalición Federal,financiamiento_univ,favor
+D228,Coalición Federal,salud_emergencia,favor
+D228,Coalición Federal,boleta_unica,favor
+D228,Coalición Federal,ficha_limpia,favor
+D228,Coalición Federal,reforma_politica,contra
+D228,Coalición Federal,dnu_delegadas,contra
+D228,Coalición Federal,tarifas_energia,contra
+D229,Coalición Federal,ley_bases,contra
+D229,Coalición Federal,reforma_laboral,contra
+D229,Coalición Federal,presupuesto,contra
+D229,Coalición Federal,privatizaciones,contra
+D229,Coalición Federal,retenciones_agro,favor
+D229,Coalición Federal,coparticipacion,favor
+D229,Coalición Federal,obra_publica_prov,favor
+D229,Coalición Federal,emergencia_jubilados,contra
+D229,Coalición Federal,financiamiento_univ,favor
+D229,Coalición Federal,salud_emergencia,favor
+D229,Coalición Federal,boleta_unica,favor
+D229,Coalición Federal,ficha_limpia,contra
+D229,Coalición Federal,reforma_politica,contra
+D229,Coalición Federal,dnu_delegadas,contra
+D229,Coalición Federal,tarifas_energia,ausente
+D230,Coalición Federal,ley_bases,contra
+D230,Coalición Federal,reforma_laboral,contra
+D230,Coalición Federal,presupuesto,favor
+D230,Coalición Federal,privatizaciones,contra
+D230,Coalición Federal,retenciones_agro,favor
+D230,Coalición Federal,coparticipacion,favor
+D230,Coalición Federal,obra_publica_prov,favor
+D230,Coalición Federal,emergencia_jubilados,contra
+D230,Coalición Federal,financiamiento_univ,favor
+D230,Coalición Federal,salud_emergencia,favor
+D230,Coalición Federal,boleta_unica,contra
+D230,Coalición Federal,ficha_limpia,contra
+D230,Coalición Federal,reforma_politica,favor
+D230,Coalición Federal,dnu_delegadas,contra
+D230,Coalición Federal,tarifas_energia,ausente
+D231,Izquierda,ley_bases,contra
+D231,Izquierda,reforma_laboral,contra
+D231,Izquierda,presupuesto,contra
+D231,Izquierda,privatizaciones,contra
+D231,Izquierda,retenciones_agro,contra
+D231,Izquierda,coparticipacion,favor
+D231,Izquierda,obra_publica_prov,favor
+D231,Izquierda,emergencia_jubilados,favor
+D231,Izquierda,financiamiento_univ,favor
+D231,Izquierda,salud_emergencia,favor
+D231,Izquierda,boleta_unica,favor
+D231,Izquierda,ficha_limpia,favor
+D231,Izquierda,reforma_politica,contra
+D231,Izquierda,dnu_delegadas,ausente
+D231,Izquierda,tarifas_energia,favor
+D232,Izquierda,ley_bases,contra
+D232,Izquierda,reforma_laboral,contra
+D232,Izquierda,presupuesto,contra
+D232,Izquierda,privatizaciones,contra
+D232,Izquierda,retenciones_agro,contra
+D232,Izquierda,coparticipacion,favor
+D232,Izquierda,obra_publica_prov,favor
+D232,Izquierda,emergencia_jubilados,favor
+D232,Izquierda,financiamiento_univ,favor
+D232,Izquierda,salud_emergencia,favor
+D232,Izquierda,boleta_unica,ausente
+D232,Izquierda,ficha_limpia,contra
+D232,Izquierda,reforma_politica,contra
+D232,Izquierda,dnu_delegadas,contra
+D232,Izquierda,tarifas_energia,contra
+D233,Izquierda,ley_bases,contra
+D233,Izquierda,reforma_laboral,contra
+D233,Izquierda,presupuesto,contra
+D233,Izquierda,privatizaciones,contra
+D233,Izquierda,retenciones_agro,contra
+D233,Izquierda,coparticipacion,favor
+D233,Izquierda,obra_publica_prov,favor
+D233,Izquierda,emergencia_jubilados,ausente
+D233,Izquierda,financiamiento_univ,favor
+D233,Izquierda,salud_emergencia,favor
+D233,Izquierda,boleta_unica,contra
+D233,Izquierda,ficha_limpia,favor
+D233,Izquierda,reforma_politica,contra
+D233,Izquierda,dnu_delegadas,contra
+D233,Izquierda,tarifas_energia,ausente
+D234,Izquierda,ley_bases,contra
+D234,Izquierda,reforma_laboral,contra
+D234,Izquierda,presupuesto,contra
+D234,Izquierda,privatizaciones,ausente
+D234,Izquierda,retenciones_agro,contra
+D234,Izquierda,coparticipacion,contra
+D234,Izquierda,obra_publica_prov,favor
+D234,Izquierda,emergencia_jubilados,ausente
+D234,Izquierda,financiamiento_univ,favor
+D234,Izquierda,salud_emergencia,favor
+D234,Izquierda,boleta_unica,contra
+D234,Izquierda,ficha_limpia,favor
+D234,Izquierda,reforma_politica,contra
+D234,Izquierda,dnu_delegadas,contra
+D234,Izquierda,tarifas_energia,ausente
+D235,Izquierda,ley_bases,contra
+D235,Izquierda,reforma_laboral,contra
+D235,Izquierda,presupuesto,contra
+D235,Izquierda,privatizaciones,contra
+D235,Izquierda,retenciones_agro,contra
+D235,Izquierda,coparticipacion,contra
+D235,Izquierda,obra_publica_prov,favor
+D235,Izquierda,emergencia_jubilados,favor
+D235,Izquierda,financiamiento_univ,favor
+D235,Izquierda,salud_emergencia,favor
+D235,Izquierda,boleta_unica,contra
+D235,Izquierda,ficha_limpia,favor
+D235,Izquierda,reforma_politica,favor
+D235,Izquierda,dnu_delegadas,contra
+D235,Izquierda,tarifas_energia,contra
+D236,Provinciales,ley_bases,contra
+D236,Provinciales,reforma_laboral,favor
+D236,Provinciales,presupuesto,contra
+D236,Provinciales,privatizaciones,contra
+D236,Provinciales,retenciones_agro,favor
+D236,Provinciales,coparticipacion,favor
+D236,Provinciales,obra_publica_prov,favor
+D236,Provinciales,emergencia_jubilados,contra
+D236,Provinciales,financiamiento_univ,favor
+D236,Provinciales,salud_emergencia,favor
+D236,Provinciales,boleta_unica,ausente
+D236,Provinciales,ficha_limpia,favor
+D236,Provinciales,reforma_politica,favor
+D236,Provinciales,dnu_delegadas,contra
+D236,Provinciales,tarifas_energia,contra
+D237,Provinciales,ley_bases,contra
+D237,Provinciales,reforma_laboral,contra
+D237,Provinciales,presupuesto,contra
+D237,Provinciales,privatizaciones,contra
+D237,Provinciales,retenciones_agro,contra
+D237,Provinciales,coparticipacion,favor
+D237,Provinciales,obra_publica_prov,favor
+D237,Provinciales,emergencia_jubilados,favor
+D237,Provinciales,financiamiento_univ,favor
+D237,Provinciales,salud_emergencia,favor
+D237,Provinciales,boleta_unica,contra
+D237,Provinciales,ficha_limpia,favor
+D237,Provinciales,reforma_politica,favor
+D237,Provinciales,dnu_delegadas,contra
+D237,Provinciales,tarifas_energia,contra
+D238,Provinciales,ley_bases,favor
+D238,Provinciales,reforma_laboral,favor
+D238,Provinciales,presupuesto,contra
+D238,Provinciales,privatizaciones,favor
+D238,Provinciales,retenciones_agro,favor
+D238,Provinciales,coparticipacion,favor
+D238,Provinciales,obra_publica_prov,favor
+D238,Provinciales,emergencia_jubilados,contra
+D238,Provinciales,financiamiento_univ,favor
+D238,Provinciales,salud_emergencia,contra
+D238,Provinciales,boleta_unica,favor
+D238,Provinciales,ficha_limpia,favor
+D238,Provinciales,reforma_politica,favor
+D238,Provinciales,dnu_delegadas,contra
+D238,Provinciales,tarifas_energia,favor
+D239,Provinciales,ley_bases,favor
+D239,Provinciales,reforma_laboral,favor
+D239,Provinciales,presupuesto,favor
+D239,Provinciales,privatizaciones,contra
+D239,Provinciales,retenciones_agro,favor
+D239,Provinciales,coparticipacion,favor
+D239,Provinciales,obra_publica_prov,favor
+D239,Provinciales,emergencia_jubilados,favor
+D239,Provinciales,financiamiento_univ,favor
+D239,Provinciales,salud_emergencia,favor
+D239,Provinciales,boleta_unica,favor
+D239,Provinciales,ficha_limpia,favor
+D239,Provinciales,reforma_politica,favor
+D239,Provinciales,dnu_delegadas,ausente
+D239,Provinciales,tarifas_energia,favor
+D240,Provinciales,ley_bases,contra
+D240,Provinciales,reforma_laboral,contra
+D240,Provinciales,presupuesto,contra
+D240,Provinciales,privatizaciones,contra
+D240,Provinciales,retenciones_agro,contra
+D240,Provinciales,coparticipacion,favor
+D240,Provinciales,obra_publica_prov,favor
+D240,Provinciales,emergencia_jubilados,favor
+D240,Provinciales,financiamiento_univ,favor
+D240,Provinciales,salud_emergencia,favor
+D240,Provinciales,boleta_unica,contra
+D240,Provinciales,ficha_limpia,contra
+D240,Provinciales,reforma_politica,ausente
+D240,Provinciales,dnu_delegadas,contra
+D240,Provinciales,tarifas_energia,contra
+D241,Provinciales,ley_bases,favor
+D241,Provinciales,reforma_laboral,favor
+D241,Provinciales,presupuesto,contra
+D241,Provinciales,privatizaciones,contra
+D241,Provinciales,retenciones_agro,contra
+D241,Provinciales,coparticipacion,favor
+D241,Provinciales,obra_publica_prov,favor
+D241,Provinciales,emergencia_jubilados,contra
+D241,Provinciales,financiamiento_univ,favor
+D241,Provinciales,salud_emergencia,contra
+D241,Provinciales,boleta_unica,favor
+D241,Provinciales,ficha_limpia,ausente
+D241,Provinciales,reforma_politica,contra
+D241,Provinciales,dnu_delegadas,contra
+D241,Provinciales,tarifas_energia,contra
+D242,Provinciales,ley_bases,contra
+D242,Provinciales,reforma_laboral,ausente
+D242,Provinciales,presupuesto,contra
+D242,Provinciales,privatizaciones,favor
+D242,Provinciales,retenciones_agro,favor
+D242,Provinciales,coparticipacion,favor
+D242,Provinciales,obra_publica_prov,favor
+D242,Provinciales,emergencia_jubilados,favor
+D242,Provinciales,financiamiento_univ,favor
+D242,Provinciales,salud_emergencia,contra
+D242,Provinciales,boleta_unica,favor
+D242,Provinciales,ficha_limpia,favor
+D242,Provinciales,reforma_politica,favor
+D242,Provinciales,dnu_delegadas,contra
+D242,Provinciales,tarifas_energia,contra
+D243,Provinciales,ley_bases,favor
+D243,Provinciales,reforma_laboral,contra
+D243,Provinciales,presupuesto,favor
+D243,Provinciales,privatizaciones,favor
+D243,Provinciales,retenciones_agro,contra
+D243,Provinciales,coparticipacion,contra
+D243,Provinciales,obra_publica_prov,contra
+D243,Provinciales,emergencia_jubilados,favor
+D243,Provinciales,financiamiento_univ,favor
+D243,Provinciales,salud_emergencia,favor
+D243,Provinciales,boleta_unica,contra
+D243,Provinciales,ficha_limpia,contra
+D243,Provinciales,reforma_politica,favor
+D243,Provinciales,dnu_delegadas,contra
+D243,Provinciales,tarifas_energia,contra
+D244,Provinciales,ley_bases,favor
+D244,Provinciales,reforma_laboral,favor
+D244,Provinciales,presupuesto,ausente
+D244,Provinciales,privatizaciones,favor
+D244,Provinciales,retenciones_agro,favor
+D244,Provinciales,coparticipacion,ausente
+D244,Provinciales,obra_publica_prov,favor
+D244,Provinciales,emergencia_jubilados,contra
+D244,Provinciales,financiamiento_univ,contra
+D244,Provinciales,salud_emergencia,favor
+D244,Provinciales,boleta_unica,favor
+D244,Provinciales,ficha_limpia,favor
+D244,Provinciales,reforma_politica,favor
+D244,Provinciales,dnu_delegadas,contra
+D244,Provinciales,tarifas_energia,favor
+D245,Provinciales,ley_bases,contra
+D245,Provinciales,reforma_laboral,contra
+D245,Provinciales,presupuesto,contra
+D245,Provinciales,privatizaciones,ausente
+D245,Provinciales,retenciones_agro,favor
+D245,Provinciales,coparticipacion,favor
+D245,Provinciales,obra_publica_prov,favor
+D245,Provinciales,emergencia_jubilados,favor
+D245,Provinciales,financiamiento_univ,favor
+D245,Provinciales,salud_emergencia,favor
+D245,Provinciales,boleta_unica,favor
+D245,Provinciales,ficha_limpia,favor
+D245,Provinciales,reforma_politica,favor
+D245,Provinciales,dnu_delegadas,contra
+D245,Provinciales,tarifas_energia,contra
+D246,Provinciales,ley_bases,contra
+D246,Provinciales,reforma_laboral,contra
+D246,Provinciales,presupuesto,contra
+D246,Provinciales,privatizaciones,contra
+D246,Provinciales,retenciones_agro,contra
+D246,Provinciales,coparticipacion,favor
+D246,Provinciales,obra_publica_prov,favor
+D246,Provinciales,emergencia_jubilados,favor
+D246,Provinciales,financiamiento_univ,favor
+D246,Provinciales,salud_emergencia,favor
+D246,Provinciales,boleta_unica,contra
+D246,Provinciales,ficha_limpia,favor
+D246,Provinciales,reforma_politica,favor
+D246,Provinciales,dnu_delegadas,contra
+D246,Provinciales,tarifas_energia,contra
+D247,Provinciales,ley_bases,contra
+D247,Provinciales,reforma_laboral,contra
+D247,Provinciales,presupuesto,contra
+D247,Provinciales,privatizaciones,contra
+D247,Provinciales,retenciones_agro,favor
+D247,Provinciales,coparticipacion,favor
+D247,Provinciales,obra_publica_prov,favor
+D247,Provinciales,emergencia_jubilados,contra
+D247,Provinciales,financiamiento_univ,favor
+D247,Provinciales,salud_emergencia,favor
+D247,Provinciales,boleta_unica,favor
+D247,Provinciales,ficha_limpia,contra
+D247,Provinciales,reforma_politica,favor
+D247,Provinciales,dnu_delegadas,contra
+D247,Provinciales,tarifas_energia,contra
+D248,Provinciales,ley_bases,contra
+D248,Provinciales,reforma_laboral,contra
+D248,Provinciales,presupuesto,contra
+D248,Provinciales,privatizaciones,contra
+D248,Provinciales,retenciones_agro,favor
+D248,Provinciales,coparticipacion,favor
+D248,Provinciales,obra_publica_prov,favor
+D248,Provinciales,emergencia_jubilados,favor
+D248,Provinciales,financiamiento_univ,favor
+D248,Provinciales,salud_emergencia,favor
+D248,Provinciales,boleta_unica,favor
+D248,Provinciales,ficha_limpia,contra
+D248,Provinciales,reforma_politica,favor
+D248,Provinciales,dnu_delegadas,contra
+D248,Provinciales,tarifas_energia,contra
+D249,Provinciales,ley_bases,contra
+D249,Provinciales,reforma_laboral,contra
+D249,Provinciales,presupuesto,contra
+D249,Provinciales,privatizaciones,contra
+D249,Provinciales,retenciones_agro,contra
+D249,Provinciales,coparticipacion,favor
+D249,Provinciales,obra_publica_prov,favor
+D249,Provinciales,emergencia_jubilados,favor
+D249,Provinciales,financiamiento_univ,favor
+D249,Provinciales,salud_emergencia,favor
+D249,Provinciales,boleta_unica,contra
+D249,Provinciales,ficha_limpia,contra
+D249,Provinciales,reforma_politica,favor
+D249,Provinciales,dnu_delegadas,contra
+D249,Provinciales,tarifas_energia,contra
+D250,Provinciales,ley_bases,ausente
+D250,Provinciales,reforma_laboral,ausente
+D250,Provinciales,presupuesto,contra
+D250,Provinciales,privatizaciones,contra
+D250,Provinciales,retenciones_agro,favor
+D250,Provinciales,coparticipacion,favor
+D250,Provinciales,obra_publica_prov,favor
+D250,Provinciales,emergencia_jubilados,favor
+D250,Provinciales,financiamiento_univ,favor
+D250,Provinciales,salud_emergencia,favor
+D250,Provinciales,boleta_unica,favor
+D250,Provinciales,ficha_limpia,favor
+D250,Provinciales,reforma_politica,favor
+D250,Provinciales,dnu_delegadas,contra
+D250,Provinciales,tarifas_energia,contra
+D251,Provinciales,ley_bases,contra
+D251,Provinciales,reforma_laboral,contra
+D251,Provinciales,presupuesto,ausente
+D251,Provinciales,privatizaciones,contra
+D251,Provinciales,retenciones_agro,favor
+D251,Provinciales,coparticipacion,favor
+D251,Provinciales,obra_publica_prov,favor
+D251,Provinciales,emergencia_jubilados,favor
+D251,Provinciales,financiamiento_univ,favor
+D251,Provinciales,salud_emergencia,favor
+D251,Provinciales,boleta_unica,favor
+D251,Provinciales,ficha_limpia,favor
+D251,Provinciales,reforma_politica,favor
+D251,Provinciales,dnu_delegadas,contra
+D251,Provinciales,tarifas_energia,contra
+D252,Provinciales,ley_bases,contra
+D252,Provinciales,reforma_laboral,contra
+D252,Provinciales,presupuesto,favor
+D252,Provinciales,privatizaciones,contra
+D252,Provinciales,retenciones_agro,favor
+D252,Provinciales,coparticipacion,favor
+D252,Provinciales,obra_publica_prov,favor
+D252,Provinciales,emergencia_jubilados,contra
+D252,Provinciales,financiamiento_univ,favor
+D252,Provinciales,salud_emergencia,favor
+D252,Provinciales,boleta_unica,contra
+D252,Provinciales,ficha_limpia,favor
+D252,Provinciales,reforma_politica,favor
+D252,Provinciales,dnu_delegadas,contra
+D252,Provinciales,tarifas_energia,contra
+D253,Provinciales,ley_bases,contra
+D253,Provinciales,reforma_laboral,contra
+D253,Provinciales,presupuesto,contra
+D253,Provinciales,privatizaciones,contra
+D253,Provinciales,retenciones_agro,favor
+D253,Provinciales,coparticipacion,favor
+D253,Provinciales,obra_publica_prov,favor
+D253,Provinciales,emergencia_jubilados,favor
+D253,Provinciales,financiamiento_univ,favor
+D253,Provinciales,salud_emergencia,favor
+D253,Provinciales,boleta_unica,contra
+D253,Provinciales,ficha_limpia,favor
+D253,Provinciales,reforma_politica,favor
+D253,Provinciales,dnu_delegadas,contra
+D253,Provinciales,tarifas_energia,contra
+D254,Provinciales,ley_bases,contra
+D254,Provinciales,reforma_laboral,contra
+D254,Provinciales,presupuesto,contra
+D254,Provinciales,privatizaciones,contra
+D254,Provinciales,retenciones_agro,favor
+D254,Provinciales,coparticipacion,favor
+D254,Provinciales,obra_publica_prov,favor
+D254,Provinciales,emergencia_jubilados,ausente
+D254,Provinciales,financiamiento_univ,favor
+D254,Provinciales,salud_emergencia,favor
+D254,Provinciales,boleta_unica,ausente
+D254,Provinciales,ficha_limpia,contra
+D254,Provinciales,reforma_politica,favor
+D254,Provinciales,dnu_delegadas,contra
+D254,Provinciales,tarifas_energia,contra
+D255,Provinciales,ley_bases,contra
+D255,Provinciales,reforma_laboral,contra
+D255,Provinciales,presupuesto,favor
+D255,Provinciales,privatizaciones,contra
+D255,Provinciales,retenciones_agro,contra
+D255,Provinciales,coparticipacion,favor
+D255,Provinciales,obra_publica_prov,favor
+D255,Provinciales,emergencia_jubilados,favor
+D255,Provinciales,financiamiento_univ,favor
+D255,Provinciales,salud_emergencia,favor
+D255,Provinciales,boleta_unica,favor
+D255,Provinciales,ficha_limpia,favor
+D255,Provinciales,reforma_politica,favor
+D255,Provinciales,dnu_delegadas,contra
+D255,Provinciales,tarifas_energia,contra
+D256,Provinciales,ley_bases,contra
+D256,Provinciales,reforma_laboral,contra
+D256,Provinciales,presupuesto,contra
+D256,Provinciales,privatizaciones,contra
+D256,Provinciales,retenciones_agro,ausente
+D256,Provinciales,coparticipacion,favor
+D256,Provinciales,obra_publica_prov,favor
+D256,Provinciales,emergencia_jubilados,favor
+D256,Provinciales,financiamiento_univ,favor
+D256,Provinciales,salud_emergencia,contra
+D256,Provinciales,boleta_unica,favor
+D256,Provinciales,ficha_limpia,favor
+D256,Provinciales,reforma_politica,favor
+D256,Provinciales,dnu_delegadas,ausente
+D256,Provinciales,tarifas_energia,contra
